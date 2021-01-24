@@ -7,4 +7,6 @@
 ## Italy
 * [data without industry](https://www.istat.it/en/economic-trends)
 ## Europe
-* [data](https://data.europa.eu/euodp/en/data/dataset/t0C0jEaZNRgRzy0LNVoeOA)
+* [data(old)](https://data.europa.eu/euodp/en/data/dataset/t0C0jEaZNRgRzy0LNVoeOA) 
+**seems to be wrong!!!**
+* [data](https://ec.europa.eu/eurostat/web/products-datasets/-/naidq_10_gdp)
