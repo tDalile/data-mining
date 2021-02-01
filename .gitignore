@@ -1,2 +1,4 @@
 .idea
 .vscode
+project/data/target/
+project/.ipynb_checkpoints

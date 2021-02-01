@@ -1,4 +1,0 @@
-INFO AWT-EventQueue-0 org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7c340c45: startup date [Thu Jan 21 20:40:32 CET 2021]; root of context hierarchy
-INFO AWT-EventQueue-0 org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring/converter-spring-beans.xml]
-INFO AWT-EventQueue-0 org.springframework.context.support.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@310188a7: startup date [Thu Jan 21 20:42:22 CET 2021]; root of context hierarchy
-INFO AWT-EventQueue-0 org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [spring/converter-spring-beans.xml]
