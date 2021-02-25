@@ -1,0 +1,27 @@
+continent,iso_code,location,year,month,weekday,date,total_cases,new_cases,total_deaths,new_deaths,total_cases_per_million,new_cases_per_million,total_deaths_per_million,new_deaths_per_million,reproduction_rate,stringency_index
+Europe,FRO,Faeroe Islands,2021,1,4,2021-01-29,,,,,,,,,,27.78
+Europe,FRO,Faeroe Islands,2021,1,5,2021-01-30,,,,,,,,,,27.78
+Europe,FRO,Faeroe Islands,2021,1,6,2021-01-31,,,,,,,,,,27.78
+Europe,FRO,Faeroe Islands,2021,2,0,2021-02-01,,,,,,,,,,27.78
+Europe,FRO,Faeroe Islands,2021,2,1,2021-02-02,,,,,,,,,,27.78
+Europe,FRO,Faeroe Islands,2021,2,2,2021-02-03,,,,,,,,,,27.78
+Europe,FRO,Faeroe Islands,2021,2,3,2021-02-04,,,,,,,,,,27.78
+Europe,FRO,Faeroe Islands,2021,2,4,2021-02-05,,,,,,,,,,27.78
+Europe,FRO,Faeroe Islands,2021,2,5,2021-02-06,,,,,,,,,,27.78
+Europe,FRO,Faeroe Islands,2021,2,6,2021-02-07,,,,,,,,,,27.78
+Europe,FRO,Faeroe Islands,2021,2,0,2021-02-08,,,,,,,,,,27.78
+Europe,FRO,Faeroe Islands,2021,2,1,2021-02-09,,,,,,,,,,27.78
+Europe,FRO,Faeroe Islands,2021,2,2,2021-02-10,,,,,,,,,,27.78
+Europe,FRO,Faeroe Islands,2021,2,3,2021-02-11,,,,,,,,,,27.78
+Europe,FRO,Faeroe Islands,2021,2,4,2021-02-12,,,,,,,,,,27.78
+Europe,FRO,Faeroe Islands,2021,2,5,2021-02-13,,,,,,,,,,27.78
+Europe,FRO,Faeroe Islands,2021,2,6,2021-02-14,,,,,,,,,,27.78
+Europe,FRO,Faeroe Islands,2021,2,0,2021-02-15,,,,,,,,,,27.78
+Europe,FRO,Faeroe Islands,2021,2,1,2021-02-16,,,,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,2,2021-02-17,,,,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,3,2021-02-18,,,,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,4,2021-02-19,,,,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,5,2021-02-20,,,,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,6,2021-02-21,,,,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,0,2021-02-22,,,,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,1,2021-02-23,,,,,,,,,,

@@ -1,0 +1,27 @@
+continent,iso_code,location,year,month,weekday,date,total_vaccinations,people_vaccinated,people_fully_vaccinated,new_vaccinations,total_vaccinations_per_hundred,people_vaccinated_per_hundred,people_fully_vaccinated_per_hundred
+Europe,FRO,Faeroe Islands,2021,1,4,2021-01-29,3994.0,3993.0,1.0,,8.17,8.17,0.0
+Europe,FRO,Faeroe Islands,2021,1,5,2021-01-30,,,,,,,
+Europe,FRO,Faeroe Islands,2021,1,6,2021-01-31,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,0,2021-02-01,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,1,2021-02-02,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,2,2021-02-03,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,3,2021-02-04,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,4,2021-02-05,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,5,2021-02-06,4657.0,4051.0,606.0,,9.53,8.29,1.24
+Europe,FRO,Faeroe Islands,2021,2,6,2021-02-07,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,0,2021-02-08,4783.0,4098.0,685.0,,9.79,8.39,1.4
+Europe,FRO,Faeroe Islands,2021,2,1,2021-02-09,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,2,2021-02-10,5355.0,4134.0,1221.0,,10.96,8.46,2.5
+Europe,FRO,Faeroe Islands,2021,2,3,2021-02-11,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,4,2021-02-12,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,5,2021-02-13,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,6,2021-02-14,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,0,2021-02-15,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,1,2021-02-16,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,2,2021-02-17,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,3,2021-02-18,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,4,2021-02-19,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,5,2021-02-20,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,6,2021-02-21,5682.0,4167.0,1515.0,,11.63,8.53,3.1
+Europe,FRO,Faeroe Islands,2021,2,0,2021-02-22,,,,,,,
+Europe,FRO,Faeroe Islands,2021,2,1,2021-02-23,6259.0,4172.0,2087.0,,12.81,8.54,4.27

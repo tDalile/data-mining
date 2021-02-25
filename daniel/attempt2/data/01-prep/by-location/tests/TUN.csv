@@ -1,0 +1,359 @@
+continent,iso_code,location,year,month,weekday,date,new_tests,total_tests,total_tests_per_thousand,new_tests_per_thousand,positive_rate,tests_per_case,tests_units
+Africa,TUN,Tunisia,2020,3,2,2020-03-04,,,,,,,
+Africa,TUN,Tunisia,2020,3,3,2020-03-05,,,,,,,
+Africa,TUN,Tunisia,2020,3,4,2020-03-06,,,,,,,
+Africa,TUN,Tunisia,2020,3,5,2020-03-07,,,,,,,
+Africa,TUN,Tunisia,2020,3,6,2020-03-08,,,,,,,
+Africa,TUN,Tunisia,2020,3,0,2020-03-09,,,,,,,
+Africa,TUN,Tunisia,2020,3,1,2020-03-10,,150.0,0.013,,,,tests performed
+Africa,TUN,Tunisia,2020,3,2,2020-03-11,28.0,178.0,0.015,0.002,,,tests performed
+Africa,TUN,Tunisia,2020,3,3,2020-03-12,71.0,249.0,0.021,0.006,,,tests performed
+Africa,TUN,Tunisia,2020,3,4,2020-03-13,42.0,291.0,0.025,0.004,,,tests performed
+Africa,TUN,Tunisia,2020,3,5,2020-03-14,70.0,361.0,0.031,0.006,,,tests performed
+Africa,TUN,Tunisia,2020,3,6,2020-03-15,31.0,392.0,0.033,0.003,,,tests performed
+Africa,TUN,Tunisia,2020,3,0,2020-03-16,67.0,459.0,0.039,0.006,,,tests performed
+Africa,TUN,Tunisia,2020,3,1,2020-03-17,70.0,529.0,0.045,0.006,0.05,19.9,tests performed
+Africa,TUN,Tunisia,2020,3,2,2020-03-18,86.0,615.0,0.052,0.007,0.051,19.7,tests performed
+Africa,TUN,Tunisia,2020,3,3,2020-03-19,79.0,694.0,0.059,0.007,0.071,14.0,tests performed
+Africa,TUN,Tunisia,2020,3,4,2020-03-20,126.0,820.0,0.069,0.011,0.071,14.0,tests performed
+Africa,TUN,Tunisia,2020,3,5,2020-03-21,135.0,955.0,0.081,0.011,0.071,14.2,tests performed
+Africa,TUN,Tunisia,2020,3,6,2020-03-22,132.0,1087.0,0.092,0.011,0.082,12.2,tests performed
+Africa,TUN,Tunisia,2020,3,0,2020-03-23,138.0,1225.0,0.104,0.012,0.09,11.1,tests performed
+Africa,TUN,Tunisia,2020,3,1,2020-03-24,229.0,1454.0,0.123,0.019,0.097,10.3,tests performed
+Africa,TUN,Tunisia,2020,3,2,2020-03-25,309.0,1763.0,0.149,0.026,0.125,8.0,tests performed
+Africa,TUN,Tunisia,2020,3,3,2020-03-26,282.0,2045.0,0.173,0.024,0.117,8.6,tests performed
+Africa,TUN,Tunisia,2020,3,4,2020-03-27,724.0,2769.0,0.234,0.061,0.089,11.2,tests performed
+Africa,TUN,Tunisia,2020,3,5,2020-03-28,536.0,3305.0,0.28,0.045,0.093,10.8,tests performed
+Africa,TUN,Tunisia,2020,3,6,2020-03-29,447.0,3752.0,0.317,0.038,0.089,11.3,tests performed
+Africa,TUN,Tunisia,2020,3,0,2020-03-30,442.0,4194.0,0.355,0.037,0.075,13.3,tests performed
+Africa,TUN,Tunisia,2020,3,1,2020-03-31,550.0,4744.0,0.401,0.047,0.085,11.8,tests performed
+Africa,TUN,Tunisia,2020,4,2,2020-04-01,386.0,5130.0,0.434,0.033,0.074,13.5,tests performed
+Africa,TUN,Tunisia,2020,4,3,2020-04-02,606.0,5736.0,0.485,0.051,0.07,14.3,tests performed
+Africa,TUN,Tunisia,2020,4,4,2020-04-03,749.0,6485.0,0.549,0.063,0.072,13.9,tests performed
+Africa,TUN,Tunisia,2020,4,5,2020-04-04,660.0,7145.0,0.605,0.056,0.072,14.0,tests performed
+Africa,TUN,Tunisia,2020,4,6,2020-04-05,1129.0,8274.0,0.7,0.096,0.058,17.3,tests performed
+Africa,TUN,Tunisia,2020,4,0,2020-04-06,604.0,8878.0,0.751,0.051,0.061,16.5,tests performed
+Africa,TUN,Tunisia,2020,4,1,2020-04-07,692.0,9570.0,0.81,0.059,0.047,21.1,tests performed
+Africa,TUN,Tunisia,2020,4,2,2020-04-08,517.0,10087.0,0.853,0.044,0.041,24.2,tests performed
+Africa,TUN,Tunisia,2020,4,3,2020-04-09,589.0,10676.0,0.903,0.05,0.038,26.3,tests performed
+Africa,TUN,Tunisia,2020,4,4,2020-04-10,562.0,11238.0,0.951,0.048,0.037,27.0,tests performed
+Africa,TUN,Tunisia,2020,4,5,2020-04-11,587.0,11825.0,1.001,0.05,0.028,35.5,tests performed
+Africa,TUN,Tunisia,2020,4,6,2020-04-12,590.0,12415.0,1.05,0.05,0.032,31.2,tests performed
+Africa,TUN,Tunisia,2020,4,0,2020-04-13,722.0,13137.0,1.112,0.061,0.031,32.7,tests performed
+Africa,TUN,Tunisia,2020,4,1,2020-04-14,793.0,13930.0,1.179,0.067,0.028,35.2,tests performed
+Africa,TUN,Tunisia,2020,4,2,2020-04-15,710.0,14640.0,1.239,0.06,0.033,29.9,tests performed
+Africa,TUN,Tunisia,2020,4,3,2020-04-16,692.0,15332.0,1.297,0.059,0.038,26.0,tests performed
+Africa,TUN,Tunisia,2020,4,4,2020-04-17,766.0,16098.0,1.362,0.065,0.04,25.2,tests performed
+Africa,TUN,Tunisia,2020,4,5,2020-04-18,1189.0,17287.0,1.463,0.101,0.033,30.5,tests performed
+Africa,TUN,Tunisia,2020,4,6,2020-04-19,878.0,18165.0,1.537,0.074,0.03,33.4,tests performed
+Africa,TUN,Tunisia,2020,4,0,2020-04-20,696.0,18861.0,1.596,0.059,0.028,36.2,tests performed
+Africa,TUN,Tunisia,2020,4,1,2020-04-21,550.0,19411.0,1.642,0.047,0.025,40.0,tests performed
+Africa,TUN,Tunisia,2020,4,2,2020-04-22,438.0,19849.0,1.679,0.037,0.025,40.4,tests performed
+Africa,TUN,Tunisia,2020,4,3,2020-04-23,559.0,20408.0,1.727,0.047,0.019,52.9,tests performed
+Africa,TUN,Tunisia,2020,4,4,2020-04-24,410.0,20818.0,1.761,0.035,0.012,81.3,tests performed
+Africa,TUN,Tunisia,2020,4,5,2020-04-25,263.0,21081.0,1.784,0.022,0.02,50.6,tests performed
+Africa,TUN,Tunisia,2020,4,6,2020-04-26,396.0,21477.0,1.817,0.034,0.021,47.3,tests performed
+Africa,TUN,Tunisia,2020,4,0,2020-04-27,585.0,22062.0,1.867,0.049,0.026,38.5,tests performed
+Africa,TUN,Tunisia,2020,4,1,2020-04-28,895.0,22957.0,1.942,0.076,0.026,39.0,tests performed
+Africa,TUN,Tunisia,2020,4,2,2020-04-29,569.0,23526.0,1.991,0.048,0.019,51.8,tests performed
+Africa,TUN,Tunisia,2020,4,3,2020-04-30,529.0,24055.0,2.035,0.045,0.021,48.0,tests performed
+Africa,TUN,Tunisia,2020,5,4,2020-05-01,351.0,24406.0,2.065,0.03,0.021,47.3,tests performed
+Africa,TUN,Tunisia,2020,5,5,2020-05-02,447.0,24853.0,2.103,0.038,0.019,53.9,tests performed
+Africa,TUN,Tunisia,2020,5,6,2020-05-03,312.0,25165.0,2.129,0.026,0.017,57.6,tests performed
+Africa,TUN,Tunisia,2020,5,0,2020-05-04,390.0,25555.0,2.162,0.033,0.015,68.5,tests performed
+Africa,TUN,Tunisia,2020,5,1,2020-05-05,412.0,25967.0,2.197,0.035,0.016,64.0,tests performed
+Africa,TUN,Tunisia,2020,5,2,2020-05-06,1453.0,27420.0,2.32,0.123,0.012,86.5,tests performed
+Africa,TUN,Tunisia,2020,5,3,2020-05-07,1877.0,29297.0,2.479,0.159,0.006,163.9,tests performed
+Africa,TUN,Tunisia,2020,5,4,2020-05-08,3521.0,32818.0,2.777,0.298,0.004,263.0,tests performed
+Africa,TUN,Tunisia,2020,5,5,2020-05-09,448.0,33266.0,2.815,0.038,0.003,365.8,tests performed
+Africa,TUN,Tunisia,2020,5,6,2020-05-10,614.0,33880.0,2.867,0.052,0.002,458.7,tests performed
+Africa,TUN,Tunisia,2020,5,0,2020-05-11,443.0,34323.0,2.904,0.037,0.002,626.5,tests performed
+Africa,TUN,Tunisia,2020,5,1,2020-05-12,2200.0,36523.0,3.09,0.186,0.001,1055.3,tests performed
+Africa,TUN,Tunisia,2020,5,2,2020-05-13,1339.0,37862.0,3.204,0.113,0.001,1492.0,tests performed
+Africa,TUN,Tunisia,2020,5,3,2020-05-14,1916.0,39778.0,3.366,0.162,0.001,1746.8,tests performed
+Africa,TUN,Tunisia,2020,5,4,2020-05-15,781.0,40559.0,3.432,0.066,0.001,1549.0,tests performed
+Africa,TUN,Tunisia,2020,5,5,2020-05-16,1061.0,41620.0,3.522,0.09,0.001,1670.9,tests performed
+Africa,TUN,Tunisia,2020,5,6,2020-05-17,869.0,42489.0,3.595,0.074,0.001,1722.7,tests performed
+Africa,TUN,Tunisia,2020,5,0,2020-05-18,1234.0,43723.0,3.7,0.104,0.001,854.9,tests performed
+Africa,TUN,Tunisia,2020,5,1,2020-05-19,1585.0,45308.0,3.834,0.134,0.001,732.2,tests performed
+Africa,TUN,Tunisia,2020,5,2,2020-05-20,1320.0,46628.0,3.945,0.112,0.001,674.2,tests performed
+Africa,TUN,Tunisia,2020,5,3,2020-05-21,1021.0,47649.0,4.032,0.086,0.002,562.0,tests performed
+Africa,TUN,Tunisia,2020,5,4,2020-05-22,167.0,47816.0,4.046,0.014,0.002,558.4,tests performed
+Africa,TUN,Tunisia,2020,5,5,2020-05-23,660.0,48476.0,4.102,0.056,0.002,623.2,tests performed
+Africa,TUN,Tunisia,2020,5,6,2020-05-24,637.0,49113.0,4.156,0.054,0.002,473.0,tests performed
+Africa,TUN,Tunisia,2020,5,0,2020-05-25,838.0,49951.0,4.226,0.071,0.001,778.7,tests performed
+Africa,TUN,Tunisia,2020,5,1,2020-05-26,429.0,50380.0,4.263,0.036,0.001,725.0,tests performed
+Africa,TUN,Tunisia,2020,5,2,2020-05-27,791.0,51171.0,4.33,0.067,0.001,757.3,tests performed
+Africa,TUN,Tunisia,2020,5,3,2020-05-28,710.0,51881.0,4.39,0.06,0.005,192.5,tests performed
+Africa,TUN,Tunisia,2020,5,4,2020-05-29,622.0,52503.0,4.442,0.053,0.005,203.9,tests performed
+Africa,TUN,Tunisia,2020,5,5,2020-05-30,371.0,52874.0,4.474,0.031,0.006,157.0,tests performed
+Africa,TUN,Tunisia,2020,5,6,2020-05-31,287.0,53161.0,4.498,0.024,0.006,155.6,tests performed
+Africa,TUN,Tunisia,2020,6,0,2020-06-01,378.0,53539.0,4.53,0.032,0.009,108.8,tests performed
+Africa,TUN,Tunisia,2020,6,1,2020-06-02,611.0,54150.0,4.582,0.052,0.009,107.8,tests performed
+Africa,TUN,Tunisia,2020,6,2,2020-06-03,503.0,54653.0,4.624,0.043,0.01,96.6,tests performed
+Africa,TUN,Tunisia,2020,6,3,2020-06-04,705.0,55358.0,4.684,0.06,0.005,183.1,tests performed
+Africa,TUN,Tunisia,2020,6,4,2020-06-05,61.0,55419.0,4.689,0.005,0.005,182.4,tests performed
+Africa,TUN,Tunisia,2020,6,5,2020-06-06,160.0,55579.0,4.703,0.014,0.004,245.7,tests performed
+Africa,TUN,Tunisia,2020,6,6,2020-06-07,312.0,55891.0,4.729,0.026,0.004,272.9,tests performed
+Africa,TUN,Tunisia,2020,6,0,2020-06-08,319.0,56210.0,4.756,0.027,0.001,890.4,tests performed
+Africa,TUN,Tunisia,2020,6,1,2020-06-09,1063.0,57273.0,4.846,0.09,0.0,3118.9,tests performed
+Africa,TUN,Tunisia,2020,6,2,2020-06-10,1497.0,58770.0,4.973,0.127,0.0,,tests performed
+Africa,TUN,Tunisia,2020,6,3,2020-06-11,1117.0,59887.0,5.067,0.095,0.0,,tests performed
+Africa,TUN,Tunisia,2020,6,4,2020-06-12,985.0,60872.0,5.151,0.083,0.001,909.0,tests performed
+Africa,TUN,Tunisia,2020,6,5,2020-06-13,558.0,61430.0,5.198,0.047,0.001,836.0,tests performed
+Africa,TUN,Tunisia,2020,6,6,2020-06-14,1492.0,62922.0,5.324,0.126,0.001,780.7,tests performed
+Africa,TUN,Tunisia,2020,6,0,2020-06-15,709.0,63631.0,5.384,0.06,0.003,322.6,tests performed
+Africa,TUN,Tunisia,2020,6,1,2020-06-16,1279.0,64910.0,5.492,0.108,0.005,201.0,tests performed
+Africa,TUN,Tunisia,2020,6,2,2020-06-17,605.0,65515.0,5.543,0.051,0.006,164.6,tests performed
+Africa,TUN,Tunisia,2020,6,3,2020-06-18,1530.0,67045.0,5.673,0.129,0.006,159.1,tests performed
+Africa,TUN,Tunisia,2020,6,4,2020-06-19,189.0,67234.0,5.689,0.016,0.008,120.1,tests performed
+Africa,TUN,Tunisia,2020,6,5,2020-06-20,222.0,67456.0,5.708,0.019,0.01,97.2,tests performed
+Africa,TUN,Tunisia,2020,6,6,2020-06-21,648.0,68104.0,5.762,0.055,0.012,84.9,tests performed
+Africa,TUN,Tunisia,2020,6,0,2020-06-22,217.0,68321.0,5.781,0.018,0.01,95.7,tests performed
+Africa,TUN,Tunisia,2020,6,1,2020-06-23,221.0,68542.0,5.799,0.019,0.009,106.9,tests performed
+Africa,TUN,Tunisia,2020,6,2,2020-06-24,242.0,68784.0,5.82,0.02,0.01,102.2,tests performed
+Africa,TUN,Tunisia,2020,6,3,2020-06-25,353.0,69137.0,5.85,0.03,0.014,69.8,tests performed
+Africa,TUN,Tunisia,2020,6,4,2020-06-26,82.0,69219.0,5.857,0.007,0.009,110.5,tests performed
+Africa,TUN,Tunisia,2020,6,5,2020-06-27,308.0,69527.0,5.883,0.026,0.006,172.7,tests performed
+Africa,TUN,Tunisia,2020,6,6,2020-06-28,513.0,70040.0,5.926,0.043,0.006,161.6,tests performed
+Africa,TUN,Tunisia,2020,6,0,2020-06-29,574.0,70614.0,5.975,0.049,0.006,176.6,tests performed
+Africa,TUN,Tunisia,2020,6,1,2020-06-30,584.0,71198.0,6.024,0.049,0.006,176.9,tests performed
+Africa,TUN,Tunisia,2020,7,2,2020-07-01,491.0,71689.0,6.066,0.042,0.005,193.7,tests performed
+Africa,TUN,Tunisia,2020,7,3,2020-07-02,1213.0,72902.0,6.168,0.103,0.004,235.3,tests performed
+Africa,TUN,Tunisia,2020,7,4,2020-07-03,450.0,73352.0,6.206,0.038,0.004,242.9,tests performed
+Africa,TUN,Tunisia,2020,7,5,2020-07-04,258.0,73610.0,6.228,0.022,0.004,226.8,tests performed
+Africa,TUN,Tunisia,2020,7,6,2020-07-05,798.0,74408.0,6.296,0.068,0.004,229.9,tests performed
+Africa,TUN,Tunisia,2020,7,0,2020-07-06,1131.0,75539.0,6.392,0.096,0.005,182.5,tests performed
+Africa,TUN,Tunisia,2020,7,1,2020-07-07,879.0,76418.0,6.466,0.074,0.006,168.4,tests performed
+Africa,TUN,Tunisia,2020,7,2,2020-07-08,1175.0,77593.0,6.565,0.099,0.008,128.3,tests performed
+Africa,TUN,Tunisia,2020,7,3,2020-07-09,974.0,78567.0,6.648,0.082,0.009,106.9,tests performed
+Africa,TUN,Tunisia,2020,7,4,2020-07-10,577.0,79144.0,6.697,0.049,0.01,98.1,tests performed
+Africa,TUN,Tunisia,2020,7,5,2020-07-11,603.0,79747.0,6.748,0.051,0.01,104.0,tests performed
+Africa,TUN,Tunisia,2020,7,6,2020-07-12,791.0,80538.0,6.815,0.067,0.012,81.8,tests performed
+Africa,TUN,Tunisia,2020,7,0,2020-07-13,743.0,81281.0,6.877,0.063,0.018,55.7,tests performed
+Africa,TUN,Tunisia,2020,7,1,2020-07-14,1137.0,82418.0,6.974,0.096,0.017,59.4,tests performed
+Africa,TUN,Tunisia,2020,7,2,2020-07-15,636.0,83054.0,7.027,0.054,0.018,55.7,tests performed
+Africa,TUN,Tunisia,2020,7,3,2020-07-16,769.0,83823.0,7.092,0.065,0.018,54.8,tests performed
+Africa,TUN,Tunisia,2020,7,4,2020-07-17,422.0,84245.0,7.128,0.036,0.019,53.2,tests performed
+Africa,TUN,Tunisia,2020,7,5,2020-07-18,846.0,85091.0,7.2,0.072,0.019,51.9,tests performed
+Africa,TUN,Tunisia,2020,7,6,2020-07-19,826.0,85917.0,7.27,0.07,0.021,48.4,tests performed
+Africa,TUN,Tunisia,2020,7,0,2020-07-20,945.0,86862.0,7.35,0.08,0.014,70.6,tests performed
+Africa,TUN,Tunisia,2020,7,1,2020-07-21,999.0,87861.0,7.434,0.085,0.015,65.6,tests performed
+Africa,TUN,Tunisia,2020,7,2,2020-07-22,1457.0,89318.0,7.557,0.123,0.012,83.5,tests performed
+Africa,TUN,Tunisia,2020,7,3,2020-07-23,530.0,89848.0,7.602,0.045,0.013,76.3,tests performed
+Africa,TUN,Tunisia,2020,7,4,2020-07-24,327.0,90175.0,7.63,0.028,0.015,66.6,tests performed
+Africa,TUN,Tunisia,2020,7,5,2020-07-25,1081.0,91256.0,7.721,0.091,0.015,64.9,tests performed
+Africa,TUN,Tunisia,2020,7,6,2020-07-26,1454.0,92710.0,7.844,0.123,0.011,87.1,tests performed
+Africa,TUN,Tunisia,2020,7,0,2020-07-27,1561.0,94271.0,7.976,0.132,0.01,100.1,tests performed
+Africa,TUN,Tunisia,2020,7,1,2020-07-28,1587.0,95858.0,8.111,0.134,0.01,101.2,tests performed
+Africa,TUN,Tunisia,2020,7,2,2020-07-29,331.0,96189.0,8.139,0.028,0.014,73.1,tests performed
+Africa,TUN,Tunisia,2020,7,3,2020-07-30,99.0,96288.0,8.147,0.008,0.017,59.6,tests performed
+Africa,TUN,Tunisia,2020,7,4,2020-07-31,249.0,96537.0,8.168,0.021,0.017,57.8,tests performed
+Africa,TUN,Tunisia,2020,8,5,2020-08-01,708.0,97245.0,8.228,0.06,0.018,55.0,tests performed
+Africa,TUN,Tunisia,2020,8,6,2020-08-02,1578.0,98823.0,8.362,0.134,0.018,56.1,tests performed
+Africa,TUN,Tunisia,2020,8,0,2020-08-03,1475.0,100298.0,8.486,0.125,0.018,54.8,tests performed
+Africa,TUN,Tunisia,2020,8,1,2020-08-04,1743.0,102041.0,8.634,0.147,0.019,53.3,tests performed
+Africa,TUN,Tunisia,2020,8,2,2020-08-05,1382.0,103423.0,8.751,0.117,0.016,64.0,tests performed
+Africa,TUN,Tunisia,2020,8,3,2020-08-06,1283.0,104706.0,8.859,0.109,0.015,65.8,tests performed
+Africa,TUN,Tunisia,2020,8,4,2020-08-07,650.0,105356.0,8.914,0.055,0.014,72.9,tests performed
+Africa,TUN,Tunisia,2020,8,5,2020-08-08,976.0,106332.0,8.997,0.083,0.014,72.1,tests performed
+Africa,TUN,Tunisia,2020,8,6,2020-08-09,1202.0,107534.0,9.099,0.102,0.016,64.0,tests performed
+Africa,TUN,Tunisia,2020,8,0,2020-08-10,1289.0,108823.0,9.208,0.109,0.018,56.1,tests performed
+Africa,TUN,Tunisia,2020,8,1,2020-08-11,1200.0,110023.0,9.309,0.102,0.019,51.8,tests performed
+Africa,TUN,Tunisia,2020,8,2,2020-08-12,1494.0,111517.0,9.436,0.126,0.022,45.2,tests performed
+Africa,TUN,Tunisia,2020,8,3,2020-08-13,1508.0,113025.0,9.563,0.128,0.025,40.6,tests performed
+Africa,TUN,Tunisia,2020,8,4,2020-08-14,947.0,113972.0,9.643,0.08,0.029,34.9,tests performed
+Africa,TUN,Tunisia,2020,8,5,2020-08-15,1404.0,115376.0,9.762,0.119,0.038,26.2,tests performed
+Africa,TUN,Tunisia,2020,8,6,2020-08-16,1710.0,117086.0,9.907,0.145,0.043,23.3,tests performed
+Africa,TUN,Tunisia,2020,8,0,2020-08-17,2107.0,119193.0,10.085,0.178,0.045,22.2,tests performed
+Africa,TUN,Tunisia,2020,8,1,2020-08-18,1699.0,120892.0,10.229,0.144,0.053,18.9,tests performed
+Africa,TUN,Tunisia,2020,8,2,2020-08-19,2007.0,122899.0,10.399,0.17,0.057,17.6,tests performed
+Africa,TUN,Tunisia,2020,8,3,2020-08-20,2236.0,125135.0,10.588,0.189,0.057,17.4,tests performed
+Africa,TUN,Tunisia,2020,8,4,2020-08-21,1461.0,126596.0,10.712,0.124,0.056,17.9,tests performed
+Africa,TUN,Tunisia,2020,8,5,2020-08-22,2508.0,129104.0,10.924,0.212,0.052,19.2,tests performed
+Africa,TUN,Tunisia,2020,8,6,2020-08-23,2251.0,131355.0,11.114,0.19,0.05,20.1,tests performed
+Africa,TUN,Tunisia,2020,8,0,2020-08-24,2589.0,133944.0,11.333,0.219,0.048,20.8,tests performed
+Africa,TUN,Tunisia,2020,8,1,2020-08-25,2997.0,136941.0,11.587,0.254,0.047,21.3,tests performed
+Africa,TUN,Tunisia,2020,8,2,2020-08-26,2586.0,139527.0,11.806,0.219,0.047,21.3,tests performed
+Africa,TUN,Tunisia,2020,8,3,2020-08-27,2667.0,142194.0,12.031,0.226,0.046,21.9,tests performed
+Africa,TUN,Tunisia,2020,8,4,2020-08-28,1848.0,144042.0,12.188,0.156,0.049,20.4,tests performed
+Africa,TUN,Tunisia,2020,8,5,2020-08-29,2265.0,146307.0,12.379,0.192,0.048,20.6,tests performed
+Africa,TUN,Tunisia,2020,8,6,2020-08-30,1905.0,148212.0,12.541,0.161,0.051,19.4,tests performed
+Africa,TUN,Tunisia,2020,8,0,2020-08-31,2583.0,150795.0,12.759,0.219,0.054,18.5,tests performed
+Africa,TUN,Tunisia,2020,9,1,2020-09-01,2597.0,153392.0,12.979,0.22,0.054,18.4,tests performed
+Africa,TUN,Tunisia,2020,9,2,2020-09-02,2470.0,155862.0,13.188,0.209,0.061,16.5,tests performed
+Africa,TUN,Tunisia,2020,9,3,2020-09-03,2817.0,158679.0,13.426,0.238,0.065,15.4,tests performed
+Africa,TUN,Tunisia,2020,9,4,2020-09-04,918.0,159597.0,13.504,0.078,0.07,14.4,tests performed
+Africa,TUN,Tunisia,2020,9,5,2020-09-05,2603.0,162200.0,13.724,0.22,0.076,13.2,tests performed
+Africa,TUN,Tunisia,2020,9,6,2020-09-06,3223.0,165423.0,13.997,0.273,0.079,12.7,tests performed
+Africa,TUN,Tunisia,2020,9,0,2020-09-07,3052.0,168475.0,14.255,0.258,0.075,13.4,tests performed
+Africa,TUN,Tunisia,2020,9,1,2020-09-08,3311.0,171786.0,14.535,0.28,0.079,12.7,tests performed
+Africa,TUN,Tunisia,2020,9,2,2020-09-09,6118.0,177904.0,15.053,0.518,0.055,18.1,tests performed
+Africa,TUN,Tunisia,2020,9,3,2020-09-10,1131.0,179035.0,15.149,0.096,0.073,13.7,tests performed
+Africa,TUN,Tunisia,2020,9,4,2020-09-11,,,,,0.074,13.5,tests performed
+Africa,TUN,Tunisia,2020,9,5,2020-09-12,,,,,0.076,13.1,tests performed
+Africa,TUN,Tunisia,2020,9,6,2020-09-13,,190241.0,16.097,,0.064,15.6,tests performed
+Africa,TUN,Tunisia,2020,9,0,2020-09-14,3886.0,194127.0,16.426,0.329,0.088,11.4,tests performed
+Africa,TUN,Tunisia,2020,9,1,2020-09-15,6332.0,200459.0,16.961,0.536,0.077,13.0,tests performed
+Africa,TUN,Tunisia,2020,9,2,2020-09-16,2592.0,203051.0,17.181,0.219,0.107,9.4,tests performed
+Africa,TUN,Tunisia,2020,9,3,2020-09-17,,,,,0.102,9.8,tests performed
+Africa,TUN,Tunisia,2020,9,4,2020-09-18,,,,,0.092,10.9,tests performed
+Africa,TUN,Tunisia,2020,9,5,2020-09-19,,,,,0.104,9.6,tests performed
+Africa,TUN,Tunisia,2020,9,6,2020-09-20,,,,,0.181,5.5,tests performed
+Africa,TUN,Tunisia,2020,9,0,2020-09-21,,,,,0.184,5.4,tests performed
+Africa,TUN,Tunisia,2020,9,1,2020-09-22,,,,,0.211,4.7,tests performed
+Africa,TUN,Tunisia,2020,9,2,2020-09-23,,,,,0.256,3.9,tests performed
+Africa,TUN,Tunisia,2020,9,3,2020-09-24,,,,,0.277,3.6,tests performed
+Africa,TUN,Tunisia,2020,9,4,2020-09-25,,225033.0,19.041,,0.341,2.9,tests performed
+Africa,TUN,Tunisia,2020,9,5,2020-09-26,,,,,,,
+Africa,TUN,Tunisia,2020,9,6,2020-09-27,,,,,,,
+Africa,TUN,Tunisia,2020,9,0,2020-09-28,,,,,,,
+Africa,TUN,Tunisia,2020,9,1,2020-09-29,,,,,,,
+Africa,TUN,Tunisia,2020,9,2,2020-09-30,,,,,,,
+Africa,TUN,Tunisia,2020,10,3,2020-10-01,,,,,,,
+Africa,TUN,Tunisia,2020,10,4,2020-10-02,,,,,,,
+Africa,TUN,Tunisia,2020,10,5,2020-10-03,,,,,,,
+Africa,TUN,Tunisia,2020,10,6,2020-10-04,,,,,,,
+Africa,TUN,Tunisia,2020,10,0,2020-10-05,,,,,,,
+Africa,TUN,Tunisia,2020,10,1,2020-10-06,,,,,,,
+Africa,TUN,Tunisia,2020,10,2,2020-10-07,,,,,,,
+Africa,TUN,Tunisia,2020,10,3,2020-10-08,,,,,,,
+Africa,TUN,Tunisia,2020,10,4,2020-10-09,,,,,,,
+Africa,TUN,Tunisia,2020,10,5,2020-10-10,,,,,,,
+Africa,TUN,Tunisia,2020,10,6,2020-10-11,,,,,,,
+Africa,TUN,Tunisia,2020,10,0,2020-10-12,,,,,,,
+Africa,TUN,Tunisia,2020,10,1,2020-10-13,,,,,,,
+Africa,TUN,Tunisia,2020,10,2,2020-10-14,,,,,,,
+Africa,TUN,Tunisia,2020,10,3,2020-10-15,,,,,,,
+Africa,TUN,Tunisia,2020,10,4,2020-10-16,,,,,,,
+Africa,TUN,Tunisia,2020,10,5,2020-10-17,,,,,,,
+Africa,TUN,Tunisia,2020,10,6,2020-10-18,,,,,,,
+Africa,TUN,Tunisia,2020,10,0,2020-10-19,,,,,,,
+Africa,TUN,Tunisia,2020,10,1,2020-10-20,,,,,,,
+Africa,TUN,Tunisia,2020,10,2,2020-10-21,,,,,,,
+Africa,TUN,Tunisia,2020,10,3,2020-10-22,,,,,,,
+Africa,TUN,Tunisia,2020,10,4,2020-10-23,,,,,,,
+Africa,TUN,Tunisia,2020,10,5,2020-10-24,,,,,,,
+Africa,TUN,Tunisia,2020,10,6,2020-10-25,,,,,,,
+Africa,TUN,Tunisia,2020,10,0,2020-10-26,,,,,,,
+Africa,TUN,Tunisia,2020,10,1,2020-10-27,,,,,,,
+Africa,TUN,Tunisia,2020,10,2,2020-10-28,,,,,,,
+Africa,TUN,Tunisia,2020,10,3,2020-10-29,,,,,,,
+Africa,TUN,Tunisia,2020,10,4,2020-10-30,,,,,,,
+Africa,TUN,Tunisia,2020,10,5,2020-10-31,,,,,,,
+Africa,TUN,Tunisia,2020,11,6,2020-11-01,,,,,,,
+Africa,TUN,Tunisia,2020,11,0,2020-11-02,,,,,,,
+Africa,TUN,Tunisia,2020,11,1,2020-11-03,,,,,,,
+Africa,TUN,Tunisia,2020,11,2,2020-11-04,,,,,,,
+Africa,TUN,Tunisia,2020,11,3,2020-11-05,,,,,,,
+Africa,TUN,Tunisia,2020,11,4,2020-11-06,,,,,,,
+Africa,TUN,Tunisia,2020,11,5,2020-11-07,,,,,,,
+Africa,TUN,Tunisia,2020,11,6,2020-11-08,,,,,,,
+Africa,TUN,Tunisia,2020,11,0,2020-11-09,,,,,,,
+Africa,TUN,Tunisia,2020,11,1,2020-11-10,,,,,,,
+Africa,TUN,Tunisia,2020,11,2,2020-11-11,,,,,,,
+Africa,TUN,Tunisia,2020,11,3,2020-11-12,,,,,,,
+Africa,TUN,Tunisia,2020,11,4,2020-11-13,,,,,,,
+Africa,TUN,Tunisia,2020,11,5,2020-11-14,,,,,,,
+Africa,TUN,Tunisia,2020,11,6,2020-11-15,,,,,,,
+Africa,TUN,Tunisia,2020,11,0,2020-11-16,,,,,,,
+Africa,TUN,Tunisia,2020,11,1,2020-11-17,,,,,,,
+Africa,TUN,Tunisia,2020,11,2,2020-11-18,,,,,,,
+Africa,TUN,Tunisia,2020,11,3,2020-11-19,,,,,,,
+Africa,TUN,Tunisia,2020,11,4,2020-11-20,,,,,,,
+Africa,TUN,Tunisia,2020,11,5,2020-11-21,,,,,,,
+Africa,TUN,Tunisia,2020,11,6,2020-11-22,,,,,,,
+Africa,TUN,Tunisia,2020,11,0,2020-11-23,,,,,,,
+Africa,TUN,Tunisia,2020,11,1,2020-11-24,,,,,,,
+Africa,TUN,Tunisia,2020,11,2,2020-11-25,,,,,,,
+Africa,TUN,Tunisia,2020,11,3,2020-11-26,,,,,,,
+Africa,TUN,Tunisia,2020,11,4,2020-11-27,,,,,,,
+Africa,TUN,Tunisia,2020,11,5,2020-11-28,,,,,,,
+Africa,TUN,Tunisia,2020,11,6,2020-11-29,,,,,,,
+Africa,TUN,Tunisia,2020,11,0,2020-11-30,,,,,,,
+Africa,TUN,Tunisia,2020,12,1,2020-12-01,,,,,,,
+Africa,TUN,Tunisia,2020,12,2,2020-12-02,,,,,,,
+Africa,TUN,Tunisia,2020,12,3,2020-12-03,,,,,,,
+Africa,TUN,Tunisia,2020,12,4,2020-12-04,,,,,,,
+Africa,TUN,Tunisia,2020,12,5,2020-12-05,,,,,,,
+Africa,TUN,Tunisia,2020,12,6,2020-12-06,,,,,,,
+Africa,TUN,Tunisia,2020,12,0,2020-12-07,,,,,,,
+Africa,TUN,Tunisia,2020,12,1,2020-12-08,,,,,,,
+Africa,TUN,Tunisia,2020,12,2,2020-12-09,,,,,,,
+Africa,TUN,Tunisia,2020,12,3,2020-12-10,,,,,,,
+Africa,TUN,Tunisia,2020,12,4,2020-12-11,,,,,,,
+Africa,TUN,Tunisia,2020,12,5,2020-12-12,,,,,,,
+Africa,TUN,Tunisia,2020,12,6,2020-12-13,,,,,,,
+Africa,TUN,Tunisia,2020,12,0,2020-12-14,,,,,,,
+Africa,TUN,Tunisia,2020,12,1,2020-12-15,,,,,,,
+Africa,TUN,Tunisia,2020,12,2,2020-12-16,,,,,,,
+Africa,TUN,Tunisia,2020,12,3,2020-12-17,,,,,,,
+Africa,TUN,Tunisia,2020,12,4,2020-12-18,,,,,,,
+Africa,TUN,Tunisia,2020,12,5,2020-12-19,,,,,,,
+Africa,TUN,Tunisia,2020,12,6,2020-12-20,,,,,,,
+Africa,TUN,Tunisia,2020,12,0,2020-12-21,,,,,,,
+Africa,TUN,Tunisia,2020,12,1,2020-12-22,,,,,,,
+Africa,TUN,Tunisia,2020,12,2,2020-12-23,,,,,,,
+Africa,TUN,Tunisia,2020,12,3,2020-12-24,,,,,,,
+Africa,TUN,Tunisia,2020,12,4,2020-12-25,,,,,,,
+Africa,TUN,Tunisia,2020,12,5,2020-12-26,,,,,,,
+Africa,TUN,Tunisia,2020,12,6,2020-12-27,,,,,,,
+Africa,TUN,Tunisia,2020,12,0,2020-12-28,,,,,,,
+Africa,TUN,Tunisia,2020,12,1,2020-12-29,,,,,,,
+Africa,TUN,Tunisia,2020,12,2,2020-12-30,,,,,,,
+Africa,TUN,Tunisia,2020,12,3,2020-12-31,,,,,,,
+Africa,TUN,Tunisia,2021,1,4,2021-01-01,,,,,,,
+Africa,TUN,Tunisia,2021,1,5,2021-01-02,,,,,,,
+Africa,TUN,Tunisia,2021,1,6,2021-01-03,,,,,,,
+Africa,TUN,Tunisia,2021,1,0,2021-01-04,,,,,,,
+Africa,TUN,Tunisia,2021,1,1,2021-01-05,,,,,,,
+Africa,TUN,Tunisia,2021,1,2,2021-01-06,,,,,,,
+Africa,TUN,Tunisia,2021,1,3,2021-01-07,,,,,,,
+Africa,TUN,Tunisia,2021,1,4,2021-01-08,,,,,,,
+Africa,TUN,Tunisia,2021,1,5,2021-01-09,,,,,,,
+Africa,TUN,Tunisia,2021,1,6,2021-01-10,,,,,,,
+Africa,TUN,Tunisia,2021,1,0,2021-01-11,,,,,,,
+Africa,TUN,Tunisia,2021,1,1,2021-01-12,,,,,,,
+Africa,TUN,Tunisia,2021,1,2,2021-01-13,,,,,,,
+Africa,TUN,Tunisia,2021,1,3,2021-01-14,,,,,,,
+Africa,TUN,Tunisia,2021,1,4,2021-01-15,,,,,,,
+Africa,TUN,Tunisia,2021,1,5,2021-01-16,,,,,,,
+Africa,TUN,Tunisia,2021,1,6,2021-01-17,,,,,,,
+Africa,TUN,Tunisia,2021,1,0,2021-01-18,,,,,,,
+Africa,TUN,Tunisia,2021,1,1,2021-01-19,,,,,,,
+Africa,TUN,Tunisia,2021,1,2,2021-01-20,,,,,,,
+Africa,TUN,Tunisia,2021,1,3,2021-01-21,,,,,,,
+Africa,TUN,Tunisia,2021,1,4,2021-01-22,,,,,,,
+Africa,TUN,Tunisia,2021,1,5,2021-01-23,,,,,,,
+Africa,TUN,Tunisia,2021,1,6,2021-01-24,,,,,,,
+Africa,TUN,Tunisia,2021,1,0,2021-01-25,,,,,,,
+Africa,TUN,Tunisia,2021,1,1,2021-01-26,,,,,,,
+Africa,TUN,Tunisia,2021,1,2,2021-01-27,,,,,,,
+Africa,TUN,Tunisia,2021,1,3,2021-01-28,,,,,,,
+Africa,TUN,Tunisia,2021,1,4,2021-01-29,,,,,,,
+Africa,TUN,Tunisia,2021,1,5,2021-01-30,,,,,,,
+Africa,TUN,Tunisia,2021,1,6,2021-01-31,,,,,,,
+Africa,TUN,Tunisia,2021,2,0,2021-02-01,,,,,,,
+Africa,TUN,Tunisia,2021,2,1,2021-02-02,,,,,,,
+Africa,TUN,Tunisia,2021,2,2,2021-02-03,,,,,,,
+Africa,TUN,Tunisia,2021,2,3,2021-02-04,,,,,,,
+Africa,TUN,Tunisia,2021,2,4,2021-02-05,,,,,,,
+Africa,TUN,Tunisia,2021,2,5,2021-02-06,,,,,,,
+Africa,TUN,Tunisia,2021,2,6,2021-02-07,,,,,,,
+Africa,TUN,Tunisia,2021,2,0,2021-02-08,,,,,,,
+Africa,TUN,Tunisia,2021,2,1,2021-02-09,,,,,,,
+Africa,TUN,Tunisia,2021,2,2,2021-02-10,,,,,,,
+Africa,TUN,Tunisia,2021,2,3,2021-02-11,,,,,,,
+Africa,TUN,Tunisia,2021,2,4,2021-02-12,,,,,,,
+Africa,TUN,Tunisia,2021,2,5,2021-02-13,,,,,,,
+Africa,TUN,Tunisia,2021,2,6,2021-02-14,,,,,,,
+Africa,TUN,Tunisia,2021,2,0,2021-02-15,,,,,,,
+Africa,TUN,Tunisia,2021,2,1,2021-02-16,,,,,,,
+Africa,TUN,Tunisia,2021,2,2,2021-02-17,,,,,,,
+Africa,TUN,Tunisia,2021,2,3,2021-02-18,,,,,,,
+Africa,TUN,Tunisia,2021,2,4,2021-02-19,,,,,,,
+Africa,TUN,Tunisia,2021,2,5,2021-02-20,,,,,,,
+Africa,TUN,Tunisia,2021,2,6,2021-02-21,,,,,,,
+Africa,TUN,Tunisia,2021,2,0,2021-02-22,,,,,,,
+Africa,TUN,Tunisia,2021,2,1,2021-02-23,,,,,,,
+Africa,TUN,Tunisia,2021,2,2,2021-02-24,,,,,,,

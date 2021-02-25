@@ -1,0 +1,10 @@
+continent,iso_code,location,year,month,weekday,date,total_vaccinations,people_vaccinated,people_fully_vaccinated,new_vaccinations,total_vaccinations_per_hundred,people_vaccinated_per_hundred,people_fully_vaccinated_per_hundred
+,OWID_NCY,Northern Cyprus,2021,1,3,2021-01-14,0.0,,,,0.0,,
+,OWID_NCY,Northern Cyprus,2021,1,4,2021-01-15,,,,,,,
+,OWID_NCY,Northern Cyprus,2021,1,5,2021-01-16,,,,,,,
+,OWID_NCY,Northern Cyprus,2021,1,6,2021-01-17,,,,,,,
+,OWID_NCY,Northern Cyprus,2021,1,0,2021-01-18,,,,,,,
+,OWID_NCY,Northern Cyprus,2021,1,1,2021-01-19,4968.0,,,,1.3,,
+,OWID_NCY,Northern Cyprus,2021,1,2,2021-01-20,,,,,,,
+,OWID_NCY,Northern Cyprus,2021,1,3,2021-01-21,,,,,,,
+,OWID_NCY,Northern Cyprus,2021,1,4,2021-01-22,11000.0,,,,2.88,,

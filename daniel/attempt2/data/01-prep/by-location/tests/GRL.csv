@@ -1,0 +1,2 @@
+continent,iso_code,location,year,month,weekday,date,new_tests,total_tests,total_tests_per_thousand,new_tests_per_thousand,positive_rate,tests_per_case,tests_units
+North America,GRL,Greenland,2021,1,2,2021-01-27,,,,,,,

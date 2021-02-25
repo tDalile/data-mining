@@ -1,0 +1,2 @@
+continent,iso_code,location,year,month,weekday,date,total_vaccinations,people_vaccinated,people_fully_vaccinated,new_vaccinations,total_vaccinations_per_hundred,people_vaccinated_per_hundred,people_fully_vaccinated_per_hundred
+North America,GRL,Greenland,2021,1,2,2021-01-27,2584.0,2584.0,,,4.55,4.55,

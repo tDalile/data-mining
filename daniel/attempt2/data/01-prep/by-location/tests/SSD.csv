@@ -1,0 +1,327 @@
+continent,iso_code,location,year,month,weekday,date,new_tests,total_tests,total_tests_per_thousand,new_tests_per_thousand,positive_rate,tests_per_case,tests_units
+Africa,SSD,South Sudan,2020,4,6,2020-04-05,,,,,,,
+Africa,SSD,South Sudan,2020,4,0,2020-04-06,,,,,,,
+Africa,SSD,South Sudan,2020,4,1,2020-04-07,,,,,,,
+Africa,SSD,South Sudan,2020,4,2,2020-04-08,,,,,,,
+Africa,SSD,South Sudan,2020,4,3,2020-04-09,,,,,,,
+Africa,SSD,South Sudan,2020,4,4,2020-04-10,,,,,,,
+Africa,SSD,South Sudan,2020,4,5,2020-04-11,,,,,,,
+Africa,SSD,South Sudan,2020,4,6,2020-04-12,,,,,,,
+Africa,SSD,South Sudan,2020,4,0,2020-04-13,,,,,,,
+Africa,SSD,South Sudan,2020,4,1,2020-04-14,,,,,,,
+Africa,SSD,South Sudan,2020,4,2,2020-04-15,,,,,,,
+Africa,SSD,South Sudan,2020,4,3,2020-04-16,,,,,,,
+Africa,SSD,South Sudan,2020,4,4,2020-04-17,,,,,,,
+Africa,SSD,South Sudan,2020,4,5,2020-04-18,,,,,,,
+Africa,SSD,South Sudan,2020,4,6,2020-04-19,,,,,,,
+Africa,SSD,South Sudan,2020,4,0,2020-04-20,,,,,,,
+Africa,SSD,South Sudan,2020,4,1,2020-04-21,,,,,,,
+Africa,SSD,South Sudan,2020,4,2,2020-04-22,,,,,,,
+Africa,SSD,South Sudan,2020,4,3,2020-04-23,,,,,,,
+Africa,SSD,South Sudan,2020,4,4,2020-04-24,,,,,,,
+Africa,SSD,South Sudan,2020,4,5,2020-04-25,,,,,,,
+Africa,SSD,South Sudan,2020,4,6,2020-04-26,,,,,,,
+Africa,SSD,South Sudan,2020,4,0,2020-04-27,,,,,,,
+Africa,SSD,South Sudan,2020,4,1,2020-04-28,,,,,,,
+Africa,SSD,South Sudan,2020,4,2,2020-04-29,,,,,,,
+Africa,SSD,South Sudan,2020,4,3,2020-04-30,,,,,,,
+Africa,SSD,South Sudan,2020,5,4,2020-05-01,,,,,,,
+Africa,SSD,South Sudan,2020,5,5,2020-05-02,,,,,,,
+Africa,SSD,South Sudan,2020,5,6,2020-05-03,,,,,,,
+Africa,SSD,South Sudan,2020,5,0,2020-05-04,,,,,,,
+Africa,SSD,South Sudan,2020,5,1,2020-05-05,,,,,,,
+Africa,SSD,South Sudan,2020,5,2,2020-05-06,,,,,,,
+Africa,SSD,South Sudan,2020,5,3,2020-05-07,,,,,,,
+Africa,SSD,South Sudan,2020,5,4,2020-05-08,,,,,,,
+Africa,SSD,South Sudan,2020,5,5,2020-05-09,,,,,,,
+Africa,SSD,South Sudan,2020,5,6,2020-05-10,,,,,,,
+Africa,SSD,South Sudan,2020,5,0,2020-05-11,,,,,,,
+Africa,SSD,South Sudan,2020,5,1,2020-05-12,,,,,,,
+Africa,SSD,South Sudan,2020,5,2,2020-05-13,,,,,,,
+Africa,SSD,South Sudan,2020,5,3,2020-05-14,,,,,,,
+Africa,SSD,South Sudan,2020,5,4,2020-05-15,,,,,,,
+Africa,SSD,South Sudan,2020,5,5,2020-05-16,,,,,,,
+Africa,SSD,South Sudan,2020,5,6,2020-05-17,,,,,,,
+Africa,SSD,South Sudan,2020,5,0,2020-05-18,,,,,,,
+Africa,SSD,South Sudan,2020,5,1,2020-05-19,,,,,,,
+Africa,SSD,South Sudan,2020,5,2,2020-05-20,,,,,,,
+Africa,SSD,South Sudan,2020,5,3,2020-05-21,,,,,,,
+Africa,SSD,South Sudan,2020,5,4,2020-05-22,,,,,,,
+Africa,SSD,South Sudan,2020,5,5,2020-05-23,,,,,,,
+Africa,SSD,South Sudan,2020,5,6,2020-05-24,,,,,,,
+Africa,SSD,South Sudan,2020,5,0,2020-05-25,,,,,,,
+Africa,SSD,South Sudan,2020,5,1,2020-05-26,,,,,,,
+Africa,SSD,South Sudan,2020,5,2,2020-05-27,,,,,,,
+Africa,SSD,South Sudan,2020,5,3,2020-05-28,,,,,,,
+Africa,SSD,South Sudan,2020,5,4,2020-05-29,,,,,,,
+Africa,SSD,South Sudan,2020,5,5,2020-05-30,,,,,,,
+Africa,SSD,South Sudan,2020,5,6,2020-05-31,,,,,,,
+Africa,SSD,South Sudan,2020,6,0,2020-06-01,,,,,,,
+Africa,SSD,South Sudan,2020,6,1,2020-06-02,,,,,,,
+Africa,SSD,South Sudan,2020,6,2,2020-06-03,,,,,,,
+Africa,SSD,South Sudan,2020,6,3,2020-06-04,,,,,,,
+Africa,SSD,South Sudan,2020,6,4,2020-06-05,,,,,,,
+Africa,SSD,South Sudan,2020,6,5,2020-06-06,,,,,,,
+Africa,SSD,South Sudan,2020,6,6,2020-06-07,,,,,,,
+Africa,SSD,South Sudan,2020,6,0,2020-06-08,,,,,,,
+Africa,SSD,South Sudan,2020,6,1,2020-06-09,,,,,,,
+Africa,SSD,South Sudan,2020,6,2,2020-06-10,,,,,,,
+Africa,SSD,South Sudan,2020,6,3,2020-06-11,,,,,,,
+Africa,SSD,South Sudan,2020,6,4,2020-06-12,,,,,,,
+Africa,SSD,South Sudan,2020,6,5,2020-06-13,,,,,,,
+Africa,SSD,South Sudan,2020,6,6,2020-06-14,,,,,,,
+Africa,SSD,South Sudan,2020,6,0,2020-06-15,,,,,,,
+Africa,SSD,South Sudan,2020,6,1,2020-06-16,,,,,,,
+Africa,SSD,South Sudan,2020,6,2,2020-06-17,,,,,,,
+Africa,SSD,South Sudan,2020,6,3,2020-06-18,,,,,,,
+Africa,SSD,South Sudan,2020,6,4,2020-06-19,,,,,,,
+Africa,SSD,South Sudan,2020,6,5,2020-06-20,,,,,,,
+Africa,SSD,South Sudan,2020,6,6,2020-06-21,,,,,,,
+Africa,SSD,South Sudan,2020,6,0,2020-06-22,,,,,,,
+Africa,SSD,South Sudan,2020,6,1,2020-06-23,,,,,,,
+Africa,SSD,South Sudan,2020,6,2,2020-06-24,,,,,,,
+Africa,SSD,South Sudan,2020,6,3,2020-06-25,,,,,,,
+Africa,SSD,South Sudan,2020,6,4,2020-06-26,,,,,,,
+Africa,SSD,South Sudan,2020,6,5,2020-06-27,,,,,,,
+Africa,SSD,South Sudan,2020,6,6,2020-06-28,,,,,,,
+Africa,SSD,South Sudan,2020,6,0,2020-06-29,,,,,,,
+Africa,SSD,South Sudan,2020,6,1,2020-06-30,,,,,,,
+Africa,SSD,South Sudan,2020,7,2,2020-07-01,,,,,,,
+Africa,SSD,South Sudan,2020,7,3,2020-07-02,,,,,,,
+Africa,SSD,South Sudan,2020,7,4,2020-07-03,,,,,,,
+Africa,SSD,South Sudan,2020,7,5,2020-07-04,,,,,,,
+Africa,SSD,South Sudan,2020,7,6,2020-07-05,,,,,,,
+Africa,SSD,South Sudan,2020,7,0,2020-07-06,,,,,,,
+Africa,SSD,South Sudan,2020,7,1,2020-07-07,,,,,,,
+Africa,SSD,South Sudan,2020,7,2,2020-07-08,,,,,,,
+Africa,SSD,South Sudan,2020,7,3,2020-07-09,,,,,,,
+Africa,SSD,South Sudan,2020,7,4,2020-07-10,,,,,,,
+Africa,SSD,South Sudan,2020,7,5,2020-07-11,,,,,,,
+Africa,SSD,South Sudan,2020,7,6,2020-07-12,,,,,,,
+Africa,SSD,South Sudan,2020,7,0,2020-07-13,,,,,,,
+Africa,SSD,South Sudan,2020,7,1,2020-07-14,,,,,,,
+Africa,SSD,South Sudan,2020,7,2,2020-07-15,,,,,,,
+Africa,SSD,South Sudan,2020,7,3,2020-07-16,,,,,,,
+Africa,SSD,South Sudan,2020,7,4,2020-07-17,,,,,,,
+Africa,SSD,South Sudan,2020,7,5,2020-07-18,,,,,,,
+Africa,SSD,South Sudan,2020,7,6,2020-07-19,,,,,,,
+Africa,SSD,South Sudan,2020,7,0,2020-07-20,,,,,,,
+Africa,SSD,South Sudan,2020,7,1,2020-07-21,,,,,,,
+Africa,SSD,South Sudan,2020,7,2,2020-07-22,,,,,,,
+Africa,SSD,South Sudan,2020,7,3,2020-07-23,,,,,,,
+Africa,SSD,South Sudan,2020,7,4,2020-07-24,,,,,,,
+Africa,SSD,South Sudan,2020,7,5,2020-07-25,,,,,,,
+Africa,SSD,South Sudan,2020,7,6,2020-07-26,,,,,,,
+Africa,SSD,South Sudan,2020,7,0,2020-07-27,,,,,,,
+Africa,SSD,South Sudan,2020,7,1,2020-07-28,,,,,,,
+Africa,SSD,South Sudan,2020,7,2,2020-07-29,,,,,,,
+Africa,SSD,South Sudan,2020,7,3,2020-07-30,,,,,,,
+Africa,SSD,South Sudan,2020,7,4,2020-07-31,,,,,,,
+Africa,SSD,South Sudan,2020,8,5,2020-08-01,,,,,,,
+Africa,SSD,South Sudan,2020,8,6,2020-08-02,,,,,,,
+Africa,SSD,South Sudan,2020,8,0,2020-08-03,,,,,,,
+Africa,SSD,South Sudan,2020,8,1,2020-08-04,,,,,,,
+Africa,SSD,South Sudan,2020,8,2,2020-08-05,,,,,,,
+Africa,SSD,South Sudan,2020,8,3,2020-08-06,,,,,,,
+Africa,SSD,South Sudan,2020,8,4,2020-08-07,,,,,,,
+Africa,SSD,South Sudan,2020,8,5,2020-08-08,,,,,,,
+Africa,SSD,South Sudan,2020,8,6,2020-08-09,,,,,,,
+Africa,SSD,South Sudan,2020,8,0,2020-08-10,,,,,,,
+Africa,SSD,South Sudan,2020,8,1,2020-08-11,,,,,,,
+Africa,SSD,South Sudan,2020,8,2,2020-08-12,,,,,,,
+Africa,SSD,South Sudan,2020,8,3,2020-08-13,,,,,,,
+Africa,SSD,South Sudan,2020,8,4,2020-08-14,,,,,,,
+Africa,SSD,South Sudan,2020,8,5,2020-08-15,,,,,,,
+Africa,SSD,South Sudan,2020,8,6,2020-08-16,,,,,,,
+Africa,SSD,South Sudan,2020,8,0,2020-08-17,,,,,,,
+Africa,SSD,South Sudan,2020,8,1,2020-08-18,,,,,,,
+Africa,SSD,South Sudan,2020,8,2,2020-08-19,,,,,,,
+Africa,SSD,South Sudan,2020,8,3,2020-08-20,,,,,,,
+Africa,SSD,South Sudan,2020,8,4,2020-08-21,,,,,,,
+Africa,SSD,South Sudan,2020,8,5,2020-08-22,,,,,,,
+Africa,SSD,South Sudan,2020,8,6,2020-08-23,,,,,,,
+Africa,SSD,South Sudan,2020,8,0,2020-08-24,,,,,,,
+Africa,SSD,South Sudan,2020,8,1,2020-08-25,,,,,,,
+Africa,SSD,South Sudan,2020,8,2,2020-08-26,,,,,,,
+Africa,SSD,South Sudan,2020,8,3,2020-08-27,,19433.0,1.736,,,,tests performed
+Africa,SSD,South Sudan,2020,8,4,2020-08-28,,,,,,,tests performed
+Africa,SSD,South Sudan,2020,8,5,2020-08-29,,,,,,,tests performed
+Africa,SSD,South Sudan,2020,8,6,2020-08-30,,,,,,,tests performed
+Africa,SSD,South Sudan,2020,8,0,2020-08-31,,,,,,,tests performed
+Africa,SSD,South Sudan,2020,9,1,2020-09-01,,,,,,,tests performed
+Africa,SSD,South Sudan,2020,9,2,2020-09-02,,20794.0,1.858,,,,tests performed
+Africa,SSD,South Sudan,2020,9,3,2020-09-03,219.0,21013.0,1.877,0.02,0.012,83.3,tests performed
+Africa,SSD,South Sudan,2020,9,4,2020-09-04,434.0,21447.0,1.916,0.039,0.01,99.2,tests performed
+Africa,SSD,South Sudan,2020,9,5,2020-09-05,,,,,0.014,72.5,tests performed
+Africa,SSD,South Sudan,2020,9,6,2020-09-06,,21952.0,1.961,,0.014,73.6,tests performed
+Africa,SSD,South Sudan,2020,9,0,2020-09-07,150.0,22102.0,1.974,0.013,0.01,98.0,tests performed
+Africa,SSD,South Sudan,2020,9,1,2020-09-08,116.0,22218.0,1.985,0.01,0.015,66.1,tests performed
+Africa,SSD,South Sudan,2020,9,2,2020-09-09,,,,,0.013,76.4,tests performed
+Africa,SSD,South Sudan,2020,9,3,2020-09-10,,,,,0.012,85.0,tests performed
+Africa,SSD,South Sudan,2020,9,4,2020-09-11,,,,,0.018,55.1,tests performed
+Africa,SSD,South Sudan,2020,9,5,2020-09-12,,,,,0.018,54.4,tests performed
+Africa,SSD,South Sudan,2020,9,6,2020-09-13,,,,,0.018,56.6,tests performed
+Africa,SSD,South Sudan,2020,9,0,2020-09-14,,,,,0.02,50.2,tests performed
+Africa,SSD,South Sudan,2020,9,1,2020-09-15,,,,,0.017,58.1,tests performed
+Africa,SSD,South Sudan,2020,9,2,2020-09-16,,,,,0.017,59.6,tests performed
+Africa,SSD,South Sudan,2020,9,3,2020-09-17,,25202.0,2.251,,0.019,52.8,tests performed
+Africa,SSD,South Sudan,2020,9,4,2020-09-18,470.0,25672.0,2.293,0.042,0.017,59.9,tests performed
+Africa,SSD,South Sudan,2020,9,5,2020-09-19,,,,,0.027,37.5,tests performed
+Africa,SSD,South Sudan,2020,9,6,2020-09-20,,,,,0.027,36.6,tests performed
+Africa,SSD,South Sudan,2020,9,0,2020-09-21,,,,,0.027,36.8,tests performed
+Africa,SSD,South Sudan,2020,9,1,2020-09-22,,,,,0.031,32.7,tests performed
+Africa,SSD,South Sudan,2020,9,2,2020-09-23,,,,,0.032,31.0,tests performed
+Africa,SSD,South Sudan,2020,9,3,2020-09-24,,,,,0.033,30.2,tests performed
+Africa,SSD,South Sudan,2020,9,4,2020-09-25,,,,,0.035,28.5,tests performed
+Africa,SSD,South Sudan,2020,9,5,2020-09-26,,,,,0.018,56.2,tests performed
+Africa,SSD,South Sudan,2020,9,6,2020-09-27,,,,,0.023,43.4,tests performed
+Africa,SSD,South Sudan,2020,9,0,2020-09-28,,,,,0.023,44.4,tests performed
+Africa,SSD,South Sudan,2020,9,1,2020-09-29,,,,,0.021,47.8,tests performed
+Africa,SSD,South Sudan,2020,9,2,2020-09-30,,28953.0,2.587,,0.021,47.8,tests performed
+Africa,SSD,South Sudan,2020,10,3,2020-10-01,,,,,0.016,61.0,tests performed
+Africa,SSD,South Sudan,2020,10,4,2020-10-02,,29946.0,2.675,,0.017,60.5,tests performed
+Africa,SSD,South Sudan,2020,10,5,2020-10-03,,,,,0.017,60.5,tests performed
+Africa,SSD,South Sudan,2020,10,6,2020-10-04,,,,,0.017,59.2,tests performed
+Africa,SSD,South Sudan,2020,10,0,2020-10-05,,30772.0,2.749,,0.014,69.6,tests performed
+Africa,SSD,South Sudan,2020,10,1,2020-10-06,569.0,31341.0,2.8,0.051,0.013,78.2,tests performed
+Africa,SSD,South Sudan,2020,10,2,2020-10-07,360.0,31701.0,2.832,0.032,0.016,62.5,tests performed
+Africa,SSD,South Sudan,2020,10,3,2020-10-08,,,,,0.016,61.0,tests performed
+Africa,SSD,South Sudan,2020,10,4,2020-10-09,,,,,0.017,59.7,tests performed
+Africa,SSD,South Sudan,2020,10,5,2020-10-10,,,,,0.016,64.4,tests performed
+Africa,SSD,South Sudan,2020,10,6,2020-10-11,,33675.0,3.008,,0.016,62.3,tests performed
+Africa,SSD,South Sudan,2020,10,0,2020-10-12,,,,,0.019,53.1,tests performed
+Africa,SSD,South Sudan,2020,10,1,2020-10-13,,34348.0,3.069,,0.021,47.0,tests performed
+Africa,SSD,South Sudan,2020,10,2,2020-10-14,435.0,34783.0,3.107,0.039,0.016,61.6,tests performed
+Africa,SSD,South Sudan,2020,10,3,2020-10-15,518.0,35301.0,3.154,0.046,0.019,53.6,tests performed
+Africa,SSD,South Sudan,2020,10,4,2020-10-16,,,,,0.018,55.8,tests performed
+Africa,SSD,South Sudan,2020,10,5,2020-10-17,,36320.0,3.245,,0.018,56.0,tests performed
+Africa,SSD,South Sudan,2020,10,6,2020-10-18,420.0,36740.0,3.282,0.038,0.021,47.2,tests performed
+Africa,SSD,South Sudan,2020,10,0,2020-10-19,,,,,0.019,51.5,tests performed
+Africa,SSD,South Sudan,2020,10,1,2020-10-20,,37455.0,3.346,,0.016,63.4,tests performed
+Africa,SSD,South Sudan,2020,10,2,2020-10-21,604.0,38059.0,3.4,0.054,0.022,45.5,tests performed
+Africa,SSD,South Sudan,2020,10,3,2020-10-22,546.0,38605.0,3.449,0.049,0.02,50.8,tests performed
+Africa,SSD,South Sudan,2020,10,4,2020-10-23,415.0,39020.0,3.486,0.037,0.018,54.3,tests performed
+Africa,SSD,South Sudan,2020,10,5,2020-10-24,247.0,39267.0,3.508,0.022,0.021,48.3,tests performed
+Africa,SSD,South Sudan,2020,10,6,2020-10-25,,,,,0.014,73.8,tests performed
+Africa,SSD,South Sudan,2020,10,0,2020-10-26,,40268.0,3.597,,0.011,88.1,tests performed
+Africa,SSD,South Sudan,2020,10,1,2020-10-27,182.0,40450.0,3.614,0.016,0.014,69.7,tests performed
+Africa,SSD,South Sudan,2020,10,2,2020-10-28,597.0,41047.0,3.667,0.053,0.007,149.5,tests performed
+Africa,SSD,South Sudan,2020,10,3,2020-10-29,814.0,41861.0,3.74,0.073,0.01,105.0,tests performed
+Africa,SSD,South Sudan,2020,10,4,2020-10-30,,,,,0.008,123.2,tests performed
+Africa,SSD,South Sudan,2020,10,5,2020-10-31,,42831.0,3.826,,0.008,132.0,tests performed
+Africa,SSD,South Sudan,2020,11,6,2020-11-01,410.0,43241.0,3.863,0.037,0.012,80.7,tests performed
+Africa,SSD,South Sudan,2020,11,0,2020-11-02,305.0,43546.0,3.89,0.027,0.013,76.2,tests performed
+Africa,SSD,South Sudan,2020,11,1,2020-11-03,531.0,44077.0,3.938,0.047,0.014,72.5,tests performed
+Africa,SSD,South Sudan,2020,11,2,2020-11-04,,,,,0.015,68.9,tests performed
+Africa,SSD,South Sudan,2020,11,3,2020-11-05,,,,,0.012,86.5,tests performed
+Africa,SSD,South Sudan,2020,11,4,2020-11-06,,45941.0,4.104,,0.011,90.0,tests performed
+Africa,SSD,South Sudan,2020,11,5,2020-11-07,,,,,0.01,96.0,tests performed
+Africa,SSD,South Sudan,2020,11,6,2020-11-08,,47020.0,4.201,,0.004,222.3,tests performed
+Africa,SSD,South Sudan,2020,11,0,2020-11-09,,,,,0.009,115.9,tests performed
+Africa,SSD,South Sudan,2020,11,1,2020-11-10,,,,,0.005,193.6,tests performed
+Africa,SSD,South Sudan,2020,11,2,2020-11-11,,48413.0,4.325,,0.005,218.6,tests performed
+Africa,SSD,South Sudan,2020,11,3,2020-11-12,874.0,49287.0,4.403,0.078,0.004,233.4,tests performed
+Africa,SSD,South Sudan,2020,11,4,2020-11-13,542.0,49829.0,4.452,0.048,0.01,105.0,tests performed
+Africa,SSD,South Sudan,2020,11,5,2020-11-14,,,,,0.015,65.5,tests performed
+Africa,SSD,South Sudan,2020,11,6,2020-11-15,,50988.0,4.555,,0.015,66.2,tests performed
+Africa,SSD,South Sudan,2020,11,0,2020-11-16,412.0,51400.0,4.592,0.037,0.013,75.2,tests performed
+Africa,SSD,South Sudan,2020,11,1,2020-11-17,,,,,0.014,70.2,tests performed
+Africa,SSD,South Sudan,2020,11,2,2020-11-18,,52361.0,4.678,,0.014,70.5,tests performed
+Africa,SSD,South Sudan,2020,11,3,2020-11-19,735.0,53096.0,4.743,0.066,0.015,68.0,tests performed
+Africa,SSD,South Sudan,2020,11,4,2020-11-20,,,,,0.009,107.3,tests performed
+Africa,SSD,South Sudan,2020,11,5,2020-11-21,,,,,0.011,88.1,tests performed
+Africa,SSD,South Sudan,2020,11,6,2020-11-22,,54877.0,4.902,,0.011,88.5,tests performed
+Africa,SSD,South Sudan,2020,11,0,2020-11-23,381.0,55258.0,4.937,0.034,0.009,110.2,tests performed
+Africa,SSD,South Sudan,2020,11,1,2020-11-24,,,,,0.008,125.1,tests performed
+Africa,SSD,South Sudan,2020,11,2,2020-11-25,,56263.0,5.026,,0.015,68.4,tests performed
+Africa,SSD,South Sudan,2020,11,3,2020-11-26,585.0,56848.0,5.079,0.052,0.02,49.4,tests performed
+Africa,SSD,South Sudan,2020,11,4,2020-11-27,652.0,57500.0,5.137,0.058,0.023,43.3,tests performed
+Africa,SSD,South Sudan,2020,11,5,2020-11-28,,,,,0.015,65.8,tests performed
+Africa,SSD,South Sudan,2020,11,6,2020-11-29,,58576.0,5.233,,0.017,59.6,tests performed
+Africa,SSD,South Sudan,2020,11,0,2020-11-30,505.0,59081.0,5.278,0.045,0.016,61.6,tests performed
+Africa,SSD,South Sudan,2020,12,1,2020-12-01,596.0,59677.0,5.331,0.053,0.016,61.2,tests performed
+Africa,SSD,South Sudan,2020,12,2,2020-12-02,,,,,0.011,91.6,tests performed
+Africa,SSD,South Sudan,2020,12,3,2020-12-03,,61101.0,5.459,,0.015,68.6,tests performed
+Africa,SSD,South Sudan,2020,12,4,2020-12-04,863.0,61964.0,5.536,0.077,0.011,89.3,tests performed
+Africa,SSD,South Sudan,2020,12,5,2020-12-05,,,,,0.015,67.6,tests performed
+Africa,SSD,South Sudan,2020,12,6,2020-12-06,,62494.0,5.583,,0.018,54.4,tests performed
+Africa,SSD,South Sudan,2020,12,0,2020-12-07,,,,,0.02,50.4,tests performed
+Africa,SSD,South Sudan,2020,12,1,2020-12-08,,,,,0.022,46.2,tests performed
+Africa,SSD,South Sudan,2020,12,2,2020-12-09,,,,,0.023,43.4,tests performed
+Africa,SSD,South Sudan,2020,12,3,2020-12-10,,,,,0.012,82.7,tests performed
+Africa,SSD,South Sudan,2020,12,4,2020-12-11,,,,,0.017,58.6,tests performed
+Africa,SSD,South Sudan,2020,12,5,2020-12-12,,63753.0,5.695,,0.026,38.2,tests performed
+Africa,SSD,South Sudan,2020,12,6,2020-12-13,,,,,0.018,54.9,tests performed
+Africa,SSD,South Sudan,2020,12,0,2020-12-14,,63980.0,5.716,,0.02,51.0,tests performed
+Africa,SSD,South Sudan,2020,12,1,2020-12-15,,,,,0.034,29.5,tests performed
+Africa,SSD,South Sudan,2020,12,2,2020-12-16,,,,,0.036,28.0,tests performed
+Africa,SSD,South Sudan,2020,12,3,2020-12-17,,64421.0,5.755,,0.038,26.5,tests performed
+Africa,SSD,South Sudan,2020,12,4,2020-12-18,266.0,64687.0,5.779,0.024,0.041,24.3,tests performed
+Africa,SSD,South Sudan,2020,12,5,2020-12-19,,,,,0.018,55.0,tests performed
+Africa,SSD,South Sudan,2020,12,6,2020-12-20,,65241.0,5.828,,0.016,62.4,tests performed
+Africa,SSD,South Sudan,2020,12,0,2020-12-21,7340.0,72581.0,6.484,0.656,0.003,307.2,tests performed
+Africa,SSD,South Sudan,2020,12,1,2020-12-22,684.0,73265.0,6.545,0.061,0.001,761.4,tests performed
+Africa,SSD,South Sudan,2020,12,2,2020-12-23,,,,,0.025,40.7,tests performed
+Africa,SSD,South Sudan,2020,12,3,2020-12-24,,,,,0.024,42.2,tests performed
+Africa,SSD,South Sudan,2020,12,4,2020-12-25,,74759.0,6.679,,0.023,44.4,tests performed
+Africa,SSD,South Sudan,2020,12,5,2020-12-26,,,,,0.023,43.9,tests performed
+Africa,SSD,South Sudan,2020,12,6,2020-12-27,,,,,0.027,37.6,tests performed
+Africa,SSD,South Sudan,2020,12,0,2020-12-28,,75273.0,6.725,,0.095,10.5,tests performed
+Africa,SSD,South Sudan,2020,12,1,2020-12-29,,,,,0.117,8.5,tests performed
+Africa,SSD,South Sudan,2020,12,2,2020-12-30,,75972.0,6.787,,0.038,26.0,tests performed
+Africa,SSD,South Sudan,2020,12,3,2020-12-31,260.0,76232.0,6.81,0.023,0.052,19.2,tests performed
+Africa,SSD,South Sudan,2021,1,4,2021-01-01,,,,,0.058,17.3,tests performed
+Africa,SSD,South Sudan,2021,1,5,2021-01-02,,,,,0.054,18.6,tests performed
+Africa,SSD,South Sudan,2021,1,6,2021-01-03,,77161.0,6.893,,0.033,30.3,tests performed
+Africa,SSD,South Sudan,2021,1,0,2021-01-04,,,,,0.043,23.2,tests performed
+Africa,SSD,South Sudan,2021,1,1,2021-01-05,,,,,0.034,29.6,tests performed
+Africa,SSD,South Sudan,2021,1,2,2021-01-06,,,,,0.021,47.9,tests performed
+Africa,SSD,South Sudan,2021,1,3,2021-01-07,,,,,0.013,79.7,tests performed
+Africa,SSD,South Sudan,2021,1,4,2021-01-08,,,,,0.012,82.2,tests performed
+Africa,SSD,South Sudan,2021,1,5,2021-01-09,,79472.0,7.1,,0.012,84.4,tests performed
+Africa,SSD,South Sudan,2021,1,6,2021-01-10,363.0,79835.0,7.132,0.032,0.034,29.4,tests performed
+Africa,SSD,South Sudan,2021,1,0,2021-01-11,201.0,80036.0,7.15,0.018,0.029,34.1,tests performed
+Africa,SSD,South Sudan,2021,1,1,2021-01-12,,,,,0.033,30.8,tests performed
+Africa,SSD,South Sudan,2021,1,2,2021-01-13,,,,,0.033,30.7,tests performed
+Africa,SSD,South Sudan,2021,1,3,2021-01-14,,,,,0.033,30.7,tests performed
+Africa,SSD,South Sudan,2021,1,4,2021-01-15,,,,,0.033,30.7,tests performed
+Africa,SSD,South Sudan,2021,1,5,2021-01-16,,,,,0.033,30.7,tests performed
+Africa,SSD,South Sudan,2021,1,6,2021-01-17,,,,,0.018,57.0,tests performed
+Africa,SSD,South Sudan,2021,1,0,2021-01-18,,82727.0,7.39,,0.015,65.6,tests performed
+Africa,SSD,South Sudan,2021,1,1,2021-01-19,407.0,83134.0,7.427,0.036,0.034,29.5,tests performed
+Africa,SSD,South Sudan,2021,1,2,2021-01-20,400.0,83534.0,7.463,0.036,0.038,26.5,tests performed
+Africa,SSD,South Sudan,2021,1,3,2021-01-21,,,,,0.042,24.0,tests performed
+Africa,SSD,South Sudan,2021,1,4,2021-01-22,,,,,0.04,24.8,tests performed
+Africa,SSD,South Sudan,2021,1,5,2021-01-23,,,,,0.039,25.6,tests performed
+Africa,SSD,South Sudan,2021,1,6,2021-01-24,,,,,0.03,32.9,tests performed
+Africa,SSD,South Sudan,2021,1,0,2021-01-25,,,,,0.026,37.9,tests performed
+Africa,SSD,South Sudan,2021,1,1,2021-01-26,,,,,0.008,126.8,tests performed
+Africa,SSD,South Sudan,2021,1,2,2021-01-27,,86917.0,7.765,,0.004,225.4,tests performed
+Africa,SSD,South Sudan,2021,1,3,2021-01-28,,,,,0.041,24.7,tests performed
+Africa,SSD,South Sudan,2021,1,4,2021-01-29,,,,,0.039,25.4,tests performed
+Africa,SSD,South Sudan,2021,1,5,2021-01-30,,,,,0.038,26.0,tests performed
+Africa,SSD,South Sudan,2021,1,6,2021-01-31,,,,,0.037,26.7,tests performed
+Africa,SSD,South Sudan,2021,2,0,2021-02-01,,,,,0.036,27.4,tests performed
+Africa,SSD,South Sudan,2021,2,1,2021-02-02,,,,,0.036,28.1,tests performed
+Africa,SSD,South Sudan,2021,2,2,2021-02-03,,,,,0.035,28.7,tests performed
+Africa,SSD,South Sudan,2021,2,3,2021-02-04,,91551.0,8.179,,0.083,12.0,tests performed
+Africa,SSD,South Sudan,2021,2,4,2021-02-05,,,,,0.11,9.1,tests performed
+Africa,SSD,South Sudan,2021,2,5,2021-02-06,,,,,0.115,8.7,tests performed
+Africa,SSD,South Sudan,2021,2,6,2021-02-07,,92770.0,8.288,,0.121,8.3,tests performed
+Africa,SSD,South Sudan,2021,2,0,2021-02-08,,,,,0.18,5.5,tests performed
+Africa,SSD,South Sudan,2021,2,1,2021-02-09,,,,,0.218,4.6,tests performed
+Africa,SSD,South Sudan,2021,2,2,2021-02-10,,95225.0,8.507,,0.242,4.1,tests performed
+Africa,SSD,South Sudan,2021,2,3,2021-02-11,859.0,96084.0,8.584,0.077,0.153,6.5,tests performed
+Africa,SSD,South Sudan,2021,2,4,2021-02-12,,,,,0.159,6.3,tests performed
+Africa,SSD,South Sudan,2021,2,5,2021-02-13,,,,,0.182,5.5,tests performed
+Africa,SSD,South Sudan,2021,2,6,2021-02-14,,98367.0,8.788,,0.189,5.3,tests performed
+Africa,SSD,South Sudan,2021,2,0,2021-02-15,472.0,98839.0,8.83,0.042,0.182,5.5,tests performed
+Africa,SSD,South Sudan,2021,2,1,2021-02-16,854.0,99693.0,8.906,0.076,0.171,5.8,tests performed
+Africa,SSD,South Sudan,2021,2,2,2021-02-17,,,,,0.181,5.5,tests performed
+Africa,SSD,South Sudan,2021,2,3,2021-02-18,,101379.0,9.057,,0.212,4.7,tests performed
+Africa,SSD,South Sudan,2021,2,4,2021-02-19,872.0,102251.0,9.135,0.078,0.212,4.7,tests performed
+Africa,SSD,South Sudan,2021,2,5,2021-02-20,703.0,102954.0,9.197,0.063,0.207,4.8,tests performed
+Africa,SSD,South Sudan,2021,2,6,2021-02-21,,,,,,,
+Africa,SSD,South Sudan,2021,2,0,2021-02-22,,,,,,,
+Africa,SSD,South Sudan,2021,2,1,2021-02-23,,,,,,,
+Africa,SSD,South Sudan,2021,2,2,2021-02-24,,,,,,,

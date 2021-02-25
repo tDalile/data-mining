@@ -1,0 +1,366 @@
+continent,iso_code,location,year,month,weekday,date,new_tests,total_tests,total_tests_per_thousand,new_tests_per_thousand,positive_rate,tests_per_case,tests_units
+Europe,CZE,Czechia,2020,2,6,2020-02-02,,,,,,,
+Europe,CZE,Czechia,2020,2,6,2020-02-09,,,,,,,
+Europe,CZE,Czechia,2020,2,6,2020-02-16,,,,,,,
+Europe,CZE,Czechia,2020,2,6,2020-02-23,,,,,,,
+Europe,CZE,Czechia,2020,3,6,2020-03-01,,,,,,,
+Europe,CZE,Czechia,2020,3,0,2020-03-02,,,,,,,
+Europe,CZE,Czechia,2020,3,1,2020-03-03,,,,,,,
+Europe,CZE,Czechia,2020,3,2,2020-03-04,,,,,,,
+Europe,CZE,Czechia,2020,3,3,2020-03-05,,,,,,,
+Europe,CZE,Czechia,2020,3,4,2020-03-06,,,,,,,
+Europe,CZE,Czechia,2020,3,5,2020-03-07,,,,,,,
+Europe,CZE,Czechia,2020,3,6,2020-03-08,,,,,,,
+Europe,CZE,Czechia,2020,3,0,2020-03-09,,,,,,,
+Europe,CZE,Czechia,2020,3,1,2020-03-10,,,,,,,
+Europe,CZE,Czechia,2020,3,2,2020-03-11,,,,,,,
+Europe,CZE,Czechia,2020,3,3,2020-03-12,,,,,,,
+Europe,CZE,Czechia,2020,3,4,2020-03-13,,,,,,,
+Europe,CZE,Czechia,2020,3,5,2020-03-14,,,,,,,
+Europe,CZE,Czechia,2020,3,6,2020-03-15,,,,,,,
+Europe,CZE,Czechia,2020,3,0,2020-03-16,,,,,,,
+Europe,CZE,Czechia,2020,3,1,2020-03-17,,,,,,,
+Europe,CZE,Czechia,2020,3,2,2020-03-18,,,,,,,
+Europe,CZE,Czechia,2020,3,3,2020-03-19,,,,,,,
+Europe,CZE,Czechia,2020,3,4,2020-03-20,,,,,,,
+Europe,CZE,Czechia,2020,3,5,2020-03-21,,,,,,,
+Europe,CZE,Czechia,2020,3,6,2020-03-22,,,,,,,
+Europe,CZE,Czechia,2020,3,0,2020-03-23,,,,,,,
+Europe,CZE,Czechia,2020,3,1,2020-03-24,,,,,,,
+Europe,CZE,Czechia,2020,3,2,2020-03-25,,,,,,,
+Europe,CZE,Czechia,2020,3,3,2020-03-26,,,,,,,
+Europe,CZE,Czechia,2020,3,4,2020-03-27,,,,,,,
+Europe,CZE,Czechia,2020,3,5,2020-03-28,,,,,,,
+Europe,CZE,Czechia,2020,3,6,2020-03-29,,,,,,,
+Europe,CZE,Czechia,2020,3,0,2020-03-30,,,,,,,
+Europe,CZE,Czechia,2020,3,1,2020-03-31,,,,,,,
+Europe,CZE,Czechia,2020,4,2,2020-04-01,,,,,,,
+Europe,CZE,Czechia,2020,4,3,2020-04-02,,,,,,,
+Europe,CZE,Czechia,2020,4,4,2020-04-03,,,,,,,
+Europe,CZE,Czechia,2020,4,5,2020-04-04,,,,,,,
+Europe,CZE,Czechia,2020,4,6,2020-04-05,,,,,,,
+Europe,CZE,Czechia,2020,4,0,2020-04-06,,,,,,,
+Europe,CZE,Czechia,2020,4,1,2020-04-07,,,,,,,
+Europe,CZE,Czechia,2020,4,2,2020-04-08,,,,,,,
+Europe,CZE,Czechia,2020,4,3,2020-04-09,,,,,,,
+Europe,CZE,Czechia,2020,4,4,2020-04-10,,,,,,,
+Europe,CZE,Czechia,2020,4,5,2020-04-11,,,,,,,
+Europe,CZE,Czechia,2020,4,6,2020-04-12,,,,,,,
+Europe,CZE,Czechia,2020,4,0,2020-04-13,,,,,,,
+Europe,CZE,Czechia,2020,4,1,2020-04-14,,,,,,,
+Europe,CZE,Czechia,2020,4,2,2020-04-15,,,,,,,
+Europe,CZE,Czechia,2020,4,3,2020-04-16,,,,,,,
+Europe,CZE,Czechia,2020,4,4,2020-04-17,,,,,,,
+Europe,CZE,Czechia,2020,4,5,2020-04-18,,,,,,,
+Europe,CZE,Czechia,2020,4,6,2020-04-19,,,,,,,
+Europe,CZE,Czechia,2020,4,0,2020-04-20,,,,,,,
+Europe,CZE,Czechia,2020,4,1,2020-04-21,,,,,,,
+Europe,CZE,Czechia,2020,4,2,2020-04-22,,,,,,,
+Europe,CZE,Czechia,2020,4,3,2020-04-23,,,,,,,
+Europe,CZE,Czechia,2020,4,4,2020-04-24,,,,,,,
+Europe,CZE,Czechia,2020,4,5,2020-04-25,,,,,,,
+Europe,CZE,Czechia,2020,4,6,2020-04-26,,,,,,,
+Europe,CZE,Czechia,2020,4,0,2020-04-27,,,,,,,
+Europe,CZE,Czechia,2020,4,1,2020-04-28,,,,,,,
+Europe,CZE,Czechia,2020,4,2,2020-04-29,,,,,,,
+Europe,CZE,Czechia,2020,4,3,2020-04-30,,,,,,,
+Europe,CZE,Czechia,2020,5,4,2020-05-01,,,,,,,
+Europe,CZE,Czechia,2020,5,5,2020-05-02,,,,,,,
+Europe,CZE,Czechia,2020,5,6,2020-05-03,,,,,,,
+Europe,CZE,Czechia,2020,5,0,2020-05-04,,,,,,,
+Europe,CZE,Czechia,2020,5,1,2020-05-05,,,,,,,
+Europe,CZE,Czechia,2020,5,2,2020-05-06,,,,,,,
+Europe,CZE,Czechia,2020,5,3,2020-05-07,,,,,,,
+Europe,CZE,Czechia,2020,5,4,2020-05-08,,,,,,,
+Europe,CZE,Czechia,2020,5,5,2020-05-09,,,,,,,
+Europe,CZE,Czechia,2020,5,6,2020-05-10,,,,,,,
+Europe,CZE,Czechia,2020,5,0,2020-05-11,,,,,,,
+Europe,CZE,Czechia,2020,5,1,2020-05-12,,,,,,,
+Europe,CZE,Czechia,2020,5,2,2020-05-13,,,,,,,
+Europe,CZE,Czechia,2020,5,3,2020-05-14,,,,,,,
+Europe,CZE,Czechia,2020,5,4,2020-05-15,,,,,,,
+Europe,CZE,Czechia,2020,5,5,2020-05-16,,,,,,,
+Europe,CZE,Czechia,2020,5,6,2020-05-17,,,,,,,
+Europe,CZE,Czechia,2020,5,0,2020-05-18,,,,,,,
+Europe,CZE,Czechia,2020,5,1,2020-05-19,,,,,,,
+Europe,CZE,Czechia,2020,5,2,2020-05-20,,,,,,,
+Europe,CZE,Czechia,2020,5,3,2020-05-21,,,,,,,
+Europe,CZE,Czechia,2020,5,4,2020-05-22,,,,,,,
+Europe,CZE,Czechia,2020,5,5,2020-05-23,,,,,,,
+Europe,CZE,Czechia,2020,5,6,2020-05-24,,,,,,,
+Europe,CZE,Czechia,2020,5,0,2020-05-25,,,,,,,
+Europe,CZE,Czechia,2020,5,1,2020-05-26,,,,,,,
+Europe,CZE,Czechia,2020,5,2,2020-05-27,,,,,,,
+Europe,CZE,Czechia,2020,5,3,2020-05-28,,,,,,,
+Europe,CZE,Czechia,2020,5,4,2020-05-29,,,,,,,
+Europe,CZE,Czechia,2020,5,5,2020-05-30,,,,,,,
+Europe,CZE,Czechia,2020,5,6,2020-05-31,,,,,,,
+Europe,CZE,Czechia,2020,6,0,2020-06-01,,,,,,,
+Europe,CZE,Czechia,2020,6,1,2020-06-02,,,,,,,
+Europe,CZE,Czechia,2020,6,2,2020-06-03,,,,,,,
+Europe,CZE,Czechia,2020,6,3,2020-06-04,,,,,,,
+Europe,CZE,Czechia,2020,6,4,2020-06-05,,,,,,,
+Europe,CZE,Czechia,2020,6,5,2020-06-06,,,,,,,
+Europe,CZE,Czechia,2020,6,6,2020-06-07,,,,,,,
+Europe,CZE,Czechia,2020,6,0,2020-06-08,,,,,,,
+Europe,CZE,Czechia,2020,6,1,2020-06-09,,,,,,,
+Europe,CZE,Czechia,2020,6,2,2020-06-10,,,,,,,
+Europe,CZE,Czechia,2020,6,3,2020-06-11,,,,,,,
+Europe,CZE,Czechia,2020,6,4,2020-06-12,,,,,,,
+Europe,CZE,Czechia,2020,6,5,2020-06-13,,,,,,,
+Europe,CZE,Czechia,2020,6,6,2020-06-14,,,,,,,
+Europe,CZE,Czechia,2020,6,0,2020-06-15,,,,,,,
+Europe,CZE,Czechia,2020,6,1,2020-06-16,,,,,,,
+Europe,CZE,Czechia,2020,6,2,2020-06-17,,,,,,,
+Europe,CZE,Czechia,2020,6,3,2020-06-18,,,,,,,
+Europe,CZE,Czechia,2020,6,4,2020-06-19,,,,,,,
+Europe,CZE,Czechia,2020,6,5,2020-06-20,,,,,,,
+Europe,CZE,Czechia,2020,6,6,2020-06-21,,,,,,,
+Europe,CZE,Czechia,2020,6,0,2020-06-22,,,,,,,
+Europe,CZE,Czechia,2020,6,1,2020-06-23,,,,,,,
+Europe,CZE,Czechia,2020,6,2,2020-06-24,,,,,,,
+Europe,CZE,Czechia,2020,6,3,2020-06-25,,,,,,,
+Europe,CZE,Czechia,2020,6,4,2020-06-26,,,,,,,
+Europe,CZE,Czechia,2020,6,5,2020-06-27,,,,,,,
+Europe,CZE,Czechia,2020,6,6,2020-06-28,,,,,,,
+Europe,CZE,Czechia,2020,6,0,2020-06-29,,,,,,,
+Europe,CZE,Czechia,2020,6,1,2020-06-30,,,,,,,
+Europe,CZE,Czechia,2020,7,2,2020-07-01,,,,,,,
+Europe,CZE,Czechia,2020,7,3,2020-07-02,,,,,,,
+Europe,CZE,Czechia,2020,7,4,2020-07-03,,,,,,,
+Europe,CZE,Czechia,2020,7,5,2020-07-04,,,,,,,
+Europe,CZE,Czechia,2020,7,6,2020-07-05,,,,,,,
+Europe,CZE,Czechia,2020,7,0,2020-07-06,,,,,,,
+Europe,CZE,Czechia,2020,7,1,2020-07-07,,,,,,,
+Europe,CZE,Czechia,2020,7,2,2020-07-08,,,,,,,
+Europe,CZE,Czechia,2020,7,3,2020-07-09,,,,,,,
+Europe,CZE,Czechia,2020,7,4,2020-07-10,,,,,,,
+Europe,CZE,Czechia,2020,7,5,2020-07-11,,,,,,,
+Europe,CZE,Czechia,2020,7,6,2020-07-12,,,,,,,
+Europe,CZE,Czechia,2020,7,0,2020-07-13,,,,,,,
+Europe,CZE,Czechia,2020,7,1,2020-07-14,,,,,,,
+Europe,CZE,Czechia,2020,7,2,2020-07-15,,,,,,,
+Europe,CZE,Czechia,2020,7,3,2020-07-16,,,,,,,
+Europe,CZE,Czechia,2020,7,4,2020-07-17,,,,,,,
+Europe,CZE,Czechia,2020,7,5,2020-07-18,,,,,,,
+Europe,CZE,Czechia,2020,7,6,2020-07-19,,,,,,,
+Europe,CZE,Czechia,2020,7,0,2020-07-20,,,,,,,
+Europe,CZE,Czechia,2020,7,1,2020-07-21,,,,,,,
+Europe,CZE,Czechia,2020,7,2,2020-07-22,,,,,,,
+Europe,CZE,Czechia,2020,7,3,2020-07-23,,,,,,,
+Europe,CZE,Czechia,2020,7,4,2020-07-24,,,,,,,
+Europe,CZE,Czechia,2020,7,5,2020-07-25,,,,,,,
+Europe,CZE,Czechia,2020,7,6,2020-07-26,,,,,,,
+Europe,CZE,Czechia,2020,7,0,2020-07-27,,,,,,,
+Europe,CZE,Czechia,2020,7,1,2020-07-28,,,,,,,
+Europe,CZE,Czechia,2020,7,2,2020-07-29,,,,,,,
+Europe,CZE,Czechia,2020,7,3,2020-07-30,,,,,,,
+Europe,CZE,Czechia,2020,7,4,2020-07-31,,,,,,,
+Europe,CZE,Czechia,2020,8,5,2020-08-01,,,,,,,
+Europe,CZE,Czechia,2020,8,6,2020-08-02,,,,,,,
+Europe,CZE,Czechia,2020,8,0,2020-08-03,,,,,,,
+Europe,CZE,Czechia,2020,8,1,2020-08-04,,,,,,,
+Europe,CZE,Czechia,2020,8,2,2020-08-05,,,,,,,
+Europe,CZE,Czechia,2020,8,3,2020-08-06,,,,,,,
+Europe,CZE,Czechia,2020,8,4,2020-08-07,,,,,,,
+Europe,CZE,Czechia,2020,8,5,2020-08-08,,,,,,,
+Europe,CZE,Czechia,2020,8,6,2020-08-09,,,,,,,
+Europe,CZE,Czechia,2020,8,0,2020-08-10,,,,,,,
+Europe,CZE,Czechia,2020,8,1,2020-08-11,,,,,,,
+Europe,CZE,Czechia,2020,8,2,2020-08-12,,,,,,,
+Europe,CZE,Czechia,2020,8,3,2020-08-13,,,,,,,
+Europe,CZE,Czechia,2020,8,4,2020-08-14,,,,,,,
+Europe,CZE,Czechia,2020,8,5,2020-08-15,,,,,,,
+Europe,CZE,Czechia,2020,8,6,2020-08-16,,,,,,,
+Europe,CZE,Czechia,2020,8,0,2020-08-17,,,,,,,
+Europe,CZE,Czechia,2020,8,1,2020-08-18,,,,,,,
+Europe,CZE,Czechia,2020,8,2,2020-08-19,,,,,,,
+Europe,CZE,Czechia,2020,8,3,2020-08-20,,,,,,,
+Europe,CZE,Czechia,2020,8,4,2020-08-21,,,,,,,
+Europe,CZE,Czechia,2020,8,5,2020-08-22,,,,,,,
+Europe,CZE,Czechia,2020,8,6,2020-08-23,,,,,,,
+Europe,CZE,Czechia,2020,8,0,2020-08-24,,,,,,,
+Europe,CZE,Czechia,2020,8,1,2020-08-25,,,,,,,
+Europe,CZE,Czechia,2020,8,2,2020-08-26,,,,,,,
+Europe,CZE,Czechia,2020,8,3,2020-08-27,,,,,,,
+Europe,CZE,Czechia,2020,8,4,2020-08-28,,,,,,,
+Europe,CZE,Czechia,2020,8,5,2020-08-29,,,,,,,
+Europe,CZE,Czechia,2020,8,6,2020-08-30,,,,,,,
+Europe,CZE,Czechia,2020,8,0,2020-08-31,,,,,,,
+Europe,CZE,Czechia,2020,9,1,2020-09-01,11137.0,,,1.04,,,tests performed
+Europe,CZE,Czechia,2020,9,2,2020-09-02,11810.0,,,1.103,,,tests performed
+Europe,CZE,Czechia,2020,9,3,2020-09-03,11541.0,,,1.078,,,tests performed
+Europe,CZE,Czechia,2020,9,4,2020-09-04,13654.0,,,1.275,,,tests performed
+Europe,CZE,Czechia,2020,9,5,2020-09-05,7468.0,,,0.697,,,tests performed
+Europe,CZE,Czechia,2020,9,6,2020-09-06,4537.0,,,0.424,,,tests performed
+Europe,CZE,Czechia,2020,9,0,2020-09-07,11604.0,,,1.084,0.057,17.5,tests performed
+Europe,CZE,Czechia,2020,9,1,2020-09-08,16115.0,,,1.505,0.062,16.1,tests performed
+Europe,CZE,Czechia,2020,9,2,2020-09-09,15506.0,,,1.448,0.065,15.4,tests performed
+Europe,CZE,Czechia,2020,9,3,2020-09-10,16513.0,,,1.542,0.07,14.3,tests performed
+Europe,CZE,Czechia,2020,9,4,2020-09-11,19217.0,,,1.794,0.073,13.7,tests performed
+Europe,CZE,Czechia,2020,9,5,2020-09-12,13317.0,,,1.244,0.079,12.7,tests performed
+Europe,CZE,Czechia,2020,9,6,2020-09-13,7090.0,,,0.662,0.081,12.3,tests performed
+Europe,CZE,Czechia,2020,9,0,2020-09-14,17519.0,,,1.636,0.081,12.3,tests performed
+Europe,CZE,Czechia,2020,9,1,2020-09-15,20461.0,,,1.911,0.082,12.2,tests performed
+Europe,CZE,Czechia,2020,9,2,2020-09-16,20587.0,,,1.922,0.087,11.5,tests performed
+Europe,CZE,Czechia,2020,9,3,2020-09-17,23591.0,,,2.203,0.096,10.4,tests performed
+Europe,CZE,Czechia,2020,9,4,2020-09-18,21580.0,,,2.015,0.1,10.0,tests performed
+Europe,CZE,Czechia,2020,9,5,2020-09-19,15231.0,,,1.422,0.102,9.8,tests performed
+Europe,CZE,Czechia,2020,9,6,2020-09-20,10561.0,,,0.986,0.101,9.9,tests performed
+Europe,CZE,Czechia,2020,9,0,2020-09-21,19410.0,,,1.812,0.103,9.7,tests performed
+Europe,CZE,Czechia,2020,9,1,2020-09-22,22400.0,,,2.092,0.107,9.3,tests performed
+Europe,CZE,Czechia,2020,9,2,2020-09-23,22445.0,,,2.096,0.107,9.3,tests performed
+Europe,CZE,Czechia,2020,9,3,2020-09-24,23163.0,,,2.163,0.105,9.5,tests performed
+Europe,CZE,Czechia,2020,9,4,2020-09-25,23132.0,,,2.16,0.11,9.1,tests performed
+Europe,CZE,Czechia,2020,9,5,2020-09-26,15388.0,,,1.437,0.11,9.1,tests performed
+Europe,CZE,Czechia,2020,9,6,2020-09-27,10468.0,,,0.977,0.112,8.9,tests performed
+Europe,CZE,Czechia,2020,9,0,2020-09-28,12218.0,,,1.141,0.117,8.5,tests performed
+Europe,CZE,Czechia,2020,9,1,2020-09-29,18323.0,,,1.711,0.117,8.5,tests performed
+Europe,CZE,Czechia,2020,9,2,2020-09-30,21092.0,,,1.97,0.124,8.1,tests performed
+Europe,CZE,Czechia,2020,10,3,2020-10-01,23921.0,,,2.234,0.128,7.8,tests performed
+Europe,CZE,Czechia,2020,10,4,2020-10-02,23639.0,,,2.207,0.134,7.5,tests performed
+Europe,CZE,Czechia,2020,10,5,2020-10-03,15201.0,,,1.419,0.139,7.2,tests performed
+Europe,CZE,Czechia,2020,10,6,2020-10-04,7776.0,,,0.726,0.146,6.8,tests performed
+Europe,CZE,Czechia,2020,10,0,2020-10-05,17768.0,,,1.659,0.154,6.5,tests performed
+Europe,CZE,Czechia,2020,10,1,2020-10-06,23045.0,,,2.152,0.168,6.0,tests performed
+Europe,CZE,Czechia,2020,10,2,2020-10-07,24020.0,,,2.243,0.182,5.5,tests performed
+Europe,CZE,Czechia,2020,10,3,2020-10-08,25073.0,,,2.341,0.194,5.2,tests performed
+Europe,CZE,Czechia,2020,10,4,2020-10-09,27743.0,,,2.591,0.223,4.5,tests performed
+Europe,CZE,Czechia,2020,10,5,2020-10-10,18124.0,,,1.692,0.233,4.3,tests performed
+Europe,CZE,Czechia,2020,10,6,2020-10-11,11504.0,,,1.074,0.235,4.3,tests performed
+Europe,CZE,Czechia,2020,10,0,2020-10-12,22048.0,,,2.059,0.237,4.2,tests performed
+Europe,CZE,Czechia,2020,10,1,2020-10-13,31638.0,,,2.954,0.248,4.0,tests performed
+Europe,CZE,Czechia,2020,10,2,2020-10-14,34859.0,,,3.255,0.257,3.9,tests performed
+Europe,CZE,Czechia,2020,10,3,2020-10-15,34806.0,,,3.25,0.267,3.7,tests performed
+Europe,CZE,Czechia,2020,10,4,2020-10-16,38723.0,,,3.616,0.265,3.8,tests performed
+Europe,CZE,Czechia,2020,10,5,2020-10-17,29279.0,,,2.734,0.27,3.7,tests performed
+Europe,CZE,Czechia,2020,10,6,2020-10-18,17240.0,,,1.61,0.272,3.7,tests performed
+Europe,CZE,Czechia,2020,10,0,2020-10-19,31165.0,,,2.91,0.278,3.6,tests performed
+Europe,CZE,Czechia,2020,10,1,2020-10-20,40598.0,,,3.791,0.283,3.5,tests performed
+Europe,CZE,Czechia,2020,10,2,2020-10-21,45245.0,,,4.225,0.294,3.4,tests performed
+Europe,CZE,Czechia,2020,10,3,2020-10-22,46425.0,,,4.335,0.298,3.4,tests performed
+Europe,CZE,Czechia,2020,10,4,2020-10-23,45252.0,,,4.226,0.306,3.3,tests performed
+Europe,CZE,Czechia,2020,10,5,2020-10-24,39192.0,,,3.66,0.309,3.2,tests performed
+Europe,CZE,Czechia,2020,10,6,2020-10-25,21593.0,,,2.016,0.312,3.2,tests performed
+Europe,CZE,Czechia,2020,10,0,2020-10-26,35597.0,,,3.324,0.315,3.2,tests performed
+Europe,CZE,Czechia,2020,10,1,2020-10-27,47498.0,,,4.435,0.321,3.1,tests performed
+Europe,CZE,Czechia,2020,10,2,2020-10-28,40123.0,,,3.747,0.32,3.1,tests performed
+Europe,CZE,Czechia,2020,10,3,2020-10-29,42577.0,,,3.976,0.32,3.1,tests performed
+Europe,CZE,Czechia,2020,10,4,2020-10-30,46822.0,,,4.372,0.312,3.2,tests performed
+Europe,CZE,Czechia,2020,10,5,2020-10-31,36296.0,,,3.389,0.312,3.2,tests performed
+Europe,CZE,Czechia,2020,11,6,2020-11-01,20643.0,,,1.928,0.31,3.2,tests performed
+Europe,CZE,Czechia,2020,11,0,2020-11-02,32916.0,,,3.074,0.309,3.2,tests performed
+Europe,CZE,Czechia,2020,11,1,2020-11-03,43629.0,,,4.074,0.3,3.3,tests performed
+Europe,CZE,Czechia,2020,11,2,2020-11-04,46098.0,,,4.305,0.304,3.3,tests performed
+Europe,CZE,Czechia,2020,11,3,2020-11-05,44072.0,,,4.115,0.303,3.3,tests performed
+Europe,CZE,Czechia,2020,11,4,2020-11-06,40888.0,,,3.818,0.302,3.3,tests performed
+Europe,CZE,Czechia,2020,11,5,2020-11-07,26526.0,,,2.477,0.299,3.3,tests performed
+Europe,CZE,Czechia,2020,11,6,2020-11-08,14001.0,,,1.307,0.295,3.4,tests performed
+Europe,CZE,Czechia,2020,11,0,2020-11-09,31644.0,,,2.955,0.283,3.5,tests performed
+Europe,CZE,Czechia,2020,11,1,2020-11-10,43494.0,,,4.061,0.271,3.7,tests performed
+Europe,CZE,Czechia,2020,11,2,2020-11-11,47048.0,,,4.393,0.243,4.1,tests performed
+Europe,CZE,Czechia,2020,11,3,2020-11-12,44322.0,,,4.139,0.221,4.5,tests performed
+Europe,CZE,Czechia,2020,11,4,2020-11-13,43888.0,,,4.098,0.202,5.0,tests performed
+Europe,CZE,Czechia,2020,11,5,2020-11-14,17769.0,,,1.659,0.194,5.2,tests performed
+Europe,CZE,Czechia,2020,11,6,2020-11-15,11778.0,,,1.1,0.189,5.3,tests performed
+Europe,CZE,Czechia,2020,11,0,2020-11-16,44486.0,,,4.154,0.177,5.6,tests performed
+Europe,CZE,Czechia,2020,11,1,2020-11-17,22135.0,,,2.067,0.172,5.8,tests performed
+Europe,CZE,Czechia,2020,11,2,2020-11-18,46890.0,,,4.379,0.158,6.3,tests performed
+Europe,CZE,Czechia,2020,11,3,2020-11-19,34474.0,,,3.219,0.158,6.3,tests performed
+Europe,CZE,Czechia,2020,11,4,2020-11-20,33837.0,,,3.16,0.159,6.3,tests performed
+Europe,CZE,Czechia,2020,11,5,2020-11-21,23285.0,,,2.174,0.15,6.7,tests performed
+Europe,CZE,Czechia,2020,11,6,2020-11-22,12391.0,,,1.157,0.148,6.8,tests performed
+Europe,CZE,Czechia,2020,11,0,2020-11-23,64297.0,,,6.004,0.131,7.6,tests performed
+Europe,CZE,Czechia,2020,11,1,2020-11-24,38985.0,,,3.64,0.129,7.8,tests performed
+Europe,CZE,Czechia,2020,11,2,2020-11-25,37075.0,,,3.462,0.132,7.6,tests performed
+Europe,CZE,Czechia,2020,11,3,2020-11-26,33154.0,,,3.096,0.122,8.2,tests performed
+Europe,CZE,Czechia,2020,11,4,2020-11-27,35600.0,,,3.324,0.116,8.6,tests performed
+Europe,CZE,Czechia,2020,11,5,2020-11-28,20836.0,,,1.946,0.115,8.7,tests performed
+Europe,CZE,Czechia,2020,11,6,2020-11-29,10038.0,,,0.937,0.114,8.8,tests performed
+Europe,CZE,Czechia,2020,11,0,2020-11-30,62413.0,,,5.828,0.112,8.9,tests performed
+Europe,CZE,Czechia,2020,12,1,2020-12-01,40151.0,,,3.749,0.108,9.3,tests performed
+Europe,CZE,Czechia,2020,12,2,2020-12-02,37535.0,,,3.505,0.107,9.3,tests performed
+Europe,CZE,Czechia,2020,12,3,2020-12-03,33027.0,,,3.084,0.109,9.2,tests performed
+Europe,CZE,Czechia,2020,12,4,2020-12-04,31944.0,,,2.983,0.112,8.9,tests performed
+Europe,CZE,Czechia,2020,12,5,2020-12-05,16680.0,,,1.558,0.117,8.5,tests performed
+Europe,CZE,Czechia,2020,12,6,2020-12-06,10080.0,,,0.941,0.117,8.5,tests performed
+Europe,CZE,Czechia,2020,12,0,2020-12-07,49078.0,,,4.583,0.127,7.9,tests performed
+Europe,CZE,Czechia,2020,12,1,2020-12-08,37798.0,,,3.53,0.132,7.6,tests performed
+Europe,CZE,Czechia,2020,12,2,2020-12-09,36404.0,,,3.399,0.141,7.1,tests performed
+Europe,CZE,Czechia,2020,12,3,2020-12-10,34895.0,,,3.258,0.146,6.8,tests performed
+Europe,CZE,Czechia,2020,12,4,2020-12-11,39233.0,,,3.664,0.147,6.8,tests performed
+Europe,CZE,Czechia,2020,12,5,2020-12-12,20312.0,,,1.897,0.146,6.8,tests performed
+Europe,CZE,Czechia,2020,12,6,2020-12-13,12482.0,,,1.166,0.149,6.7,tests performed
+Europe,CZE,Czechia,2020,12,0,2020-12-14,51473.0,,,4.807,0.151,6.6,tests performed
+Europe,CZE,Czechia,2020,12,1,2020-12-15,44690.0,,,4.173,0.155,6.5,tests performed
+Europe,CZE,Czechia,2020,12,2,2020-12-16,52275.0,,,4.881,0.153,6.5,tests performed
+Europe,CZE,Czechia,2020,12,3,2020-12-17,49792.0,,,4.65,0.151,6.6,tests performed
+Europe,CZE,Czechia,2020,12,4,2020-12-18,61290.0,,,5.723,0.149,6.7,tests performed
+Europe,CZE,Czechia,2020,12,5,2020-12-19,35312.0,,,3.297,0.147,6.8,tests performed
+Europe,CZE,Czechia,2020,12,6,2020-12-20,23797.0,,,2.222,0.146,6.8,tests performed
+Europe,CZE,Czechia,2020,12,0,2020-12-21,78652.0,,,7.344,0.143,7.0,tests performed
+Europe,CZE,Czechia,2020,12,1,2020-12-22,77575.0,,,7.244,0.138,7.2,tests performed
+Europe,CZE,Czechia,2020,12,2,2020-12-23,86402.0,,,8.068,0.141,7.1,tests performed
+Europe,CZE,Czechia,2020,12,3,2020-12-24,19415.0,,,1.813,0.144,6.9,tests performed
+Europe,CZE,Czechia,2020,12,4,2020-12-25,14526.0,,,1.356,0.145,6.9,tests performed
+Europe,CZE,Czechia,2020,12,5,2020-12-26,20183.0,,,1.885,0.145,6.9,tests performed
+Europe,CZE,Czechia,2020,12,6,2020-12-27,22592.0,,,2.11,0.147,6.8,tests performed
+Europe,CZE,Czechia,2020,12,0,2020-12-28,73418.0,,,6.856,0.159,6.3,tests performed
+Europe,CZE,Czechia,2020,12,1,2020-12-29,67171.0,,,6.272,0.182,5.5,tests performed
+Europe,CZE,Czechia,2020,12,2,2020-12-30,66943.0,,,6.251,0.205,4.9,tests performed
+Europe,CZE,Czechia,2020,12,3,2020-12-31,47078.0,,,4.396,0.216,4.6,tests performed
+Europe,CZE,Czechia,2021,1,4,2021-01-01,11585.0,,,1.082,0.22,4.5,tests performed
+Europe,CZE,Czechia,2021,1,5,2021-01-02,28895.0,,,2.698,0.22,4.5,tests performed
+Europe,CZE,Czechia,2021,1,6,2021-01-03,29212.0,,,2.728,0.223,4.5,tests performed
+Europe,CZE,Czechia,2021,1,0,2021-01-04,89782.0,,,8.384,0.219,4.6,tests performed
+Europe,CZE,Czechia,2021,1,1,2021-01-05,78706.0,,,7.35,0.214,4.7,tests performed
+Europe,CZE,Czechia,2021,1,2,2021-01-06,68687.0,,,6.414,0.215,4.7,tests performed
+Europe,CZE,Czechia,2021,1,3,2021-01-07,67007.0,,,6.257,0.208,4.8,tests performed
+Europe,CZE,Czechia,2021,1,4,2021-01-08,69370.0,,,6.478,0.202,5.0,tests performed
+Europe,CZE,Czechia,2021,1,5,2021-01-09,35243.0,,,3.291,0.207,4.8,tests performed
+Europe,CZE,Czechia,2021,1,6,2021-01-10,24619.0,,,2.299,0.205,4.9,tests performed
+Europe,CZE,Czechia,2021,1,0,2021-01-11,83410.0,,,7.789,0.2,5.0,tests performed
+Europe,CZE,Czechia,2021,1,1,2021-01-12,66343.0,,,6.195,0.19,5.3,tests performed
+Europe,CZE,Czechia,2021,1,2,2021-01-13,60290.0,,,5.63,0.177,5.6,tests performed
+Europe,CZE,Czechia,2021,1,3,2021-01-14,56034.0,,,5.232,0.164,6.1,tests performed
+Europe,CZE,Czechia,2021,1,4,2021-01-15,59634.0,,,5.569,0.159,6.3,tests performed
+Europe,CZE,Czechia,2021,1,5,2021-01-16,27246.0,,,2.544,0.154,6.5,tests performed
+Europe,CZE,Czechia,2021,1,6,2021-01-17,17531.0,,,1.637,0.152,6.6,tests performed
+Europe,CZE,Czechia,2021,1,0,2021-01-18,70668.0,,,6.599,0.153,6.5,tests performed
+Europe,CZE,Czechia,2021,1,1,2021-01-19,55171.0,,,5.152,0.154,6.5,tests performed
+Europe,CZE,Czechia,2021,1,2,2021-01-20,50806.0,,,4.744,0.151,6.6,tests performed
+Europe,CZE,Czechia,2021,1,3,2021-01-21,48224.0,,,4.503,0.152,6.6,tests performed
+Europe,CZE,Czechia,2021,1,4,2021-01-22,58539.0,,,5.466,0.15,6.7,tests performed
+Europe,CZE,Czechia,2021,1,5,2021-01-23,26426.0,,,2.468,0.148,6.8,tests performed
+Europe,CZE,Czechia,2021,1,6,2021-01-24,17826.0,,,1.665,0.147,6.8,tests performed
+Europe,CZE,Czechia,2021,1,0,2021-01-25,73695.0,,,6.882,0.143,7.0,tests performed
+Europe,CZE,Czechia,2021,1,1,2021-01-26,57294.0,,,5.35,0.141,7.1,tests performed
+Europe,CZE,Czechia,2021,1,2,2021-01-27,58897.0,,,5.5,0.139,7.2,tests performed
+Europe,CZE,Czechia,2021,1,3,2021-01-28,53874.0,,,5.031,0.138,7.2,tests performed
+Europe,CZE,Czechia,2021,1,4,2021-01-29,62331.0,,,5.82,0.135,7.4,tests performed
+Europe,CZE,Czechia,2021,1,5,2021-01-30,30619.0,,,2.859,0.133,7.5,tests performed
+Europe,CZE,Czechia,2021,1,6,2021-01-31,22320.0,,,2.084,0.132,7.6,tests performed
+Europe,CZE,Czechia,2021,2,0,2021-02-01,80343.0,,,7.502,0.13,7.7,tests performed
+Europe,CZE,Czechia,2021,2,1,2021-02-02,62916.0,,,5.875,0.128,7.8,tests performed
+Europe,CZE,Czechia,2021,2,2,2021-02-03,64063.0,,,5.982,0.129,7.8,tests performed
+Europe,CZE,Czechia,2021,2,3,2021-02-04,60795.0,,,5.677,0.127,7.9,tests performed
+Europe,CZE,Czechia,2021,2,4,2021-02-05,67009.0,,,6.257,0.127,7.9,tests performed
+Europe,CZE,Czechia,2021,2,5,2021-02-06,31598.0,,,2.951,0.129,7.8,tests performed
+Europe,CZE,Czechia,2021,2,6,2021-02-07,23587.0,,,2.203,0.128,7.8,tests performed
+Europe,CZE,Czechia,2021,2,0,2021-02-08,78474.0,,,7.328,0.13,7.7,tests performed
+Europe,CZE,Czechia,2021,2,1,2021-02-09,66976.0,,,6.254,0.132,7.6,tests performed
+Europe,CZE,Czechia,2021,2,2,2021-02-10,63787.0,,,5.956,0.132,7.6,tests performed
+Europe,CZE,Czechia,2021,2,3,2021-02-11,62608.0,,,5.846,0.133,7.5,tests performed
+Europe,CZE,Czechia,2021,2,4,2021-02-12,68878.0,,,6.432,0.133,7.5,tests performed
+Europe,CZE,Czechia,2021,2,5,2021-02-13,35306.0,,,3.297,0.133,7.5,tests performed
+Europe,CZE,Czechia,2021,2,6,2021-02-14,28314.0,,,2.644,0.132,7.6,tests performed
+Europe,CZE,Czechia,2021,2,0,2021-02-15,87763.0,,,8.195,0.132,7.6,tests performed
+Europe,CZE,Czechia,2021,2,1,2021-02-16,76508.0,,,7.144,0.134,7.5,tests performed
+Europe,CZE,Czechia,2021,2,2,2021-02-17,73192.0,,,6.835,0.135,7.4,tests performed
+Europe,CZE,Czechia,2021,2,3,2021-02-18,76273.0,,,7.122,0.137,7.3,tests performed
+Europe,CZE,Czechia,2021,2,4,2021-02-19,80806.0,,,7.546,0.138,7.2,tests performed
+Europe,CZE,Czechia,2021,2,5,2021-02-20,37341.0,,,3.487,0.141,7.1,tests performed
+Europe,CZE,Czechia,2021,2,6,2021-02-21,30959.0,,,2.891,0.143,7.0,tests performed
+Europe,CZE,Czechia,2021,2,0,2021-02-22,,,,,,,
+Europe,CZE,Czechia,2021,2,1,2021-02-23,,,,,,,
+Europe,CZE,Czechia,2021,2,2,2021-02-24,,,,,,,

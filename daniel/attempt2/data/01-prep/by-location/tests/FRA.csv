@@ -1,0 +1,399 @@
+continent,iso_code,location,year,month,weekday,date,new_tests,total_tests,total_tests_per_thousand,new_tests_per_thousand,positive_rate,tests_per_case,tests_units
+Europe,FRA,France,2020,1,4,2020-01-24,,,,,,,
+Europe,FRA,France,2020,1,5,2020-01-25,,,,,,,
+Europe,FRA,France,2020,1,6,2020-01-26,,,,,,,
+Europe,FRA,France,2020,1,0,2020-01-27,,,,,,,
+Europe,FRA,France,2020,1,1,2020-01-28,,,,,,,
+Europe,FRA,France,2020,1,2,2020-01-29,,,,,,,
+Europe,FRA,France,2020,1,3,2020-01-30,,,,,,,
+Europe,FRA,France,2020,1,4,2020-01-31,,,,,,,
+Europe,FRA,France,2020,2,5,2020-02-01,,,,,,,
+Europe,FRA,France,2020,2,6,2020-02-02,,,,,,,
+Europe,FRA,France,2020,2,0,2020-02-03,,,,,,,
+Europe,FRA,France,2020,2,1,2020-02-04,,,,,,,
+Europe,FRA,France,2020,2,2,2020-02-05,,,,,,,
+Europe,FRA,France,2020,2,3,2020-02-06,,,,,,,
+Europe,FRA,France,2020,2,4,2020-02-07,,,,,,,
+Europe,FRA,France,2020,2,5,2020-02-08,,,,,,,
+Europe,FRA,France,2020,2,6,2020-02-09,,,,,,,
+Europe,FRA,France,2020,2,0,2020-02-10,,,,,,,
+Europe,FRA,France,2020,2,1,2020-02-11,,,,,,,
+Europe,FRA,France,2020,2,2,2020-02-12,,,,,,,
+Europe,FRA,France,2020,2,3,2020-02-13,,,,,,,
+Europe,FRA,France,2020,2,4,2020-02-14,,,,,,,
+Europe,FRA,France,2020,2,5,2020-02-15,,,,,,,
+Europe,FRA,France,2020,2,6,2020-02-16,,,,,,,
+Europe,FRA,France,2020,2,0,2020-02-17,,,,,,,
+Europe,FRA,France,2020,2,1,2020-02-18,,,,,,,
+Europe,FRA,France,2020,2,2,2020-02-19,,,,,,,
+Europe,FRA,France,2020,2,3,2020-02-20,,,,,,,
+Europe,FRA,France,2020,2,4,2020-02-21,,,,,,,
+Europe,FRA,France,2020,2,5,2020-02-22,,,,,,,
+Europe,FRA,France,2020,2,6,2020-02-23,,,,,,,
+Europe,FRA,France,2020,2,0,2020-02-24,,,,,,,
+Europe,FRA,France,2020,2,1,2020-02-25,,,,,,,
+Europe,FRA,France,2020,2,2,2020-02-26,,,,,,,
+Europe,FRA,France,2020,2,3,2020-02-27,,,,,,,
+Europe,FRA,France,2020,2,4,2020-02-28,,,,,,,
+Europe,FRA,France,2020,2,5,2020-02-29,,,,,,,
+Europe,FRA,France,2020,3,6,2020-03-01,,,,,,,
+Europe,FRA,France,2020,3,0,2020-03-02,,,,,,,
+Europe,FRA,France,2020,3,1,2020-03-03,,,,,,,
+Europe,FRA,France,2020,3,2,2020-03-04,,,,,,,
+Europe,FRA,France,2020,3,3,2020-03-05,,,,,,,
+Europe,FRA,France,2020,3,4,2020-03-06,,,,,,,
+Europe,FRA,France,2020,3,5,2020-03-07,,,,,,,
+Europe,FRA,France,2020,3,6,2020-03-08,,,,,,,
+Europe,FRA,France,2020,3,0,2020-03-09,,,,,,,
+Europe,FRA,France,2020,3,1,2020-03-10,,,,,,,
+Europe,FRA,France,2020,3,2,2020-03-11,,,,,,,
+Europe,FRA,France,2020,3,3,2020-03-12,,,,,,,
+Europe,FRA,France,2020,3,4,2020-03-13,,,,,,,
+Europe,FRA,France,2020,3,5,2020-03-14,,,,,,,
+Europe,FRA,France,2020,3,6,2020-03-15,,,,,,,
+Europe,FRA,France,2020,3,0,2020-03-16,,,,,,,
+Europe,FRA,France,2020,3,1,2020-03-17,,,,,,,
+Europe,FRA,France,2020,3,2,2020-03-18,,,,,,,
+Europe,FRA,France,2020,3,3,2020-03-19,,,,,,,
+Europe,FRA,France,2020,3,4,2020-03-20,,,,,,,
+Europe,FRA,France,2020,3,5,2020-03-21,,,,,,,
+Europe,FRA,France,2020,3,6,2020-03-22,,,,,,,
+Europe,FRA,France,2020,3,0,2020-03-23,,,,,,,
+Europe,FRA,France,2020,3,1,2020-03-24,,,,,,,
+Europe,FRA,France,2020,3,2,2020-03-25,,,,,,,
+Europe,FRA,France,2020,3,3,2020-03-26,,,,,,,
+Europe,FRA,France,2020,3,4,2020-03-27,,,,,,,
+Europe,FRA,France,2020,3,5,2020-03-28,,,,,,,
+Europe,FRA,France,2020,3,6,2020-03-29,,,,,,,
+Europe,FRA,France,2020,3,0,2020-03-30,,,,,,,
+Europe,FRA,France,2020,3,1,2020-03-31,,,,,,,
+Europe,FRA,France,2020,4,2,2020-04-01,,,,,,,
+Europe,FRA,France,2020,4,3,2020-04-02,,,,,,,
+Europe,FRA,France,2020,4,4,2020-04-03,,,,,,,
+Europe,FRA,France,2020,4,5,2020-04-04,,,,,,,
+Europe,FRA,France,2020,4,6,2020-04-05,,,,,,,
+Europe,FRA,France,2020,4,0,2020-04-06,,,,,,,
+Europe,FRA,France,2020,4,1,2020-04-07,,,,,,,
+Europe,FRA,France,2020,4,2,2020-04-08,,,,,,,
+Europe,FRA,France,2020,4,3,2020-04-09,,,,,,,
+Europe,FRA,France,2020,4,4,2020-04-10,,,,,,,
+Europe,FRA,France,2020,4,5,2020-04-11,,,,,,,
+Europe,FRA,France,2020,4,6,2020-04-12,,,,,,,
+Europe,FRA,France,2020,4,0,2020-04-13,,,,,,,
+Europe,FRA,France,2020,4,1,2020-04-14,,,,,,,
+Europe,FRA,France,2020,4,2,2020-04-15,,,,,,,
+Europe,FRA,France,2020,4,3,2020-04-16,,,,,,,
+Europe,FRA,France,2020,4,4,2020-04-17,,,,,,,
+Europe,FRA,France,2020,4,5,2020-04-18,,,,,,,
+Europe,FRA,France,2020,4,6,2020-04-19,,,,,,,
+Europe,FRA,France,2020,4,0,2020-04-20,,,,,,,
+Europe,FRA,France,2020,4,1,2020-04-21,,,,,,,
+Europe,FRA,France,2020,4,2,2020-04-22,,,,,,,
+Europe,FRA,France,2020,4,3,2020-04-23,,,,,,,
+Europe,FRA,France,2020,4,4,2020-04-24,,,,,,,
+Europe,FRA,France,2020,4,5,2020-04-25,,,,,,,
+Europe,FRA,France,2020,4,6,2020-04-26,,,,,,,
+Europe,FRA,France,2020,4,0,2020-04-27,,,,,,,
+Europe,FRA,France,2020,4,1,2020-04-28,,,,,,,
+Europe,FRA,France,2020,4,2,2020-04-29,,,,,,,
+Europe,FRA,France,2020,4,3,2020-04-30,,,,,,,
+Europe,FRA,France,2020,5,4,2020-05-01,,,,,,,
+Europe,FRA,France,2020,5,5,2020-05-02,,,,,,,
+Europe,FRA,France,2020,5,6,2020-05-03,,,,,,,
+Europe,FRA,France,2020,5,0,2020-05-04,,,,,,,
+Europe,FRA,France,2020,5,1,2020-05-05,,,,,,,
+Europe,FRA,France,2020,5,2,2020-05-06,,,,,,,
+Europe,FRA,France,2020,5,3,2020-05-07,,,,,,,
+Europe,FRA,France,2020,5,4,2020-05-08,,,,,,,
+Europe,FRA,France,2020,5,5,2020-05-09,,,,,,,
+Europe,FRA,France,2020,5,6,2020-05-10,,,,,,,
+Europe,FRA,France,2020,5,0,2020-05-11,,,,,,,
+Europe,FRA,France,2020,5,1,2020-05-12,,,,,,,
+Europe,FRA,France,2020,5,2,2020-05-13,39872.0,,,0.611,,,people tested
+Europe,FRA,France,2020,5,3,2020-05-14,43188.0,,,0.662,,,people tested
+Europe,FRA,France,2020,5,4,2020-05-15,48470.0,,,0.743,,,people tested
+Europe,FRA,France,2020,5,5,2020-05-16,16674.0,,,0.255,,,people tested
+Europe,FRA,France,2020,5,6,2020-05-17,6642.0,,,0.102,,,people tested
+Europe,FRA,France,2020,5,0,2020-05-18,51929.0,,,0.796,,,people tested
+Europe,FRA,France,2020,5,1,2020-05-19,53467.0,,,0.819,0.022,45.5,people tested
+Europe,FRA,France,2020,5,2,2020-05-20,53760.0,,,0.824,0.021,47.6,people tested
+Europe,FRA,France,2020,5,3,2020-05-21,9778.0,,,0.15,0.021,47.6,people tested
+Europe,FRA,France,2020,5,4,2020-05-22,51006.0,,,0.781,0.02,50.0,people tested
+Europe,FRA,France,2020,5,5,2020-05-23,19095.0,,,0.293,0.019,52.6,people tested
+Europe,FRA,France,2020,5,6,2020-05-24,7153.0,,,0.11,0.019,52.6,people tested
+Europe,FRA,France,2020,5,0,2020-05-25,52079.0,,,0.798,0.018,55.6,people tested
+Europe,FRA,France,2020,5,1,2020-05-26,54254.0,,,0.831,0.016,62.5,people tested
+Europe,FRA,France,2020,5,2,2020-05-27,46835.0,,,0.718,0.015,66.7,people tested
+Europe,FRA,France,2020,5,3,2020-05-28,44762.0,,,0.686,0.015,66.7,people tested
+Europe,FRA,France,2020,5,4,2020-05-29,49682.0,,,0.761,0.014,71.4,people tested
+Europe,FRA,France,2020,5,5,2020-05-30,20347.0,,,0.312,0.015,66.7,people tested
+Europe,FRA,France,2020,5,6,2020-05-31,8566.0,,,0.131,0.015,66.7,people tested
+Europe,FRA,France,2020,6,0,2020-06-01,10059.0,,,0.154,0.015,66.7,people tested
+Europe,FRA,France,2020,6,1,2020-06-02,49213.0,,,0.754,0.015,66.7,people tested
+Europe,FRA,France,2020,6,2,2020-06-03,45122.0,,,0.691,0.015,66.7,people tested
+Europe,FRA,France,2020,6,3,2020-06-04,41692.0,,,0.639,0.015,66.7,people tested
+Europe,FRA,France,2020,6,4,2020-06-05,46834.0,,,0.718,0.015,66.7,people tested
+Europe,FRA,France,2020,6,5,2020-06-06,19752.0,,,0.303,0.015,66.7,people tested
+Europe,FRA,France,2020,6,6,2020-06-07,7598.0,,,0.116,0.015,66.7,people tested
+Europe,FRA,France,2020,6,0,2020-06-08,45418.0,,,0.696,0.014,71.4,people tested
+Europe,FRA,France,2020,6,1,2020-06-09,44007.0,,,0.674,0.014,71.4,people tested
+Europe,FRA,France,2020,6,2,2020-06-10,40753.0,,,0.624,0.014,71.4,people tested
+Europe,FRA,France,2020,6,3,2020-06-11,38892.0,,,0.596,0.014,71.4,people tested
+Europe,FRA,France,2020,6,4,2020-06-12,44640.0,,,0.684,0.014,71.4,people tested
+Europe,FRA,France,2020,6,5,2020-06-13,19243.0,,,0.295,0.014,71.4,people tested
+Europe,FRA,France,2020,6,6,2020-06-14,6665.0,,,0.102,0.014,71.4,people tested
+Europe,FRA,France,2020,6,0,2020-06-15,43906.0,,,0.673,0.014,71.4,people tested
+Europe,FRA,France,2020,6,1,2020-06-16,43138.0,,,0.661,0.014,71.4,people tested
+Europe,FRA,France,2020,6,2,2020-06-17,40195.0,,,0.616,0.015,66.7,people tested
+Europe,FRA,France,2020,6,3,2020-06-18,37988.0,,,0.582,0.014,71.4,people tested
+Europe,FRA,France,2020,6,4,2020-06-19,46068.0,,,0.706,0.015,66.7,people tested
+Europe,FRA,France,2020,6,5,2020-06-20,21754.0,,,0.333,0.015,66.7,people tested
+Europe,FRA,France,2020,6,6,2020-06-21,6512.0,,,0.1,0.015,66.7,people tested
+Europe,FRA,France,2020,6,0,2020-06-22,48518.0,,,0.743,0.015,66.7,people tested
+Europe,FRA,France,2020,6,1,2020-06-23,48497.0,,,0.743,0.015,66.7,people tested
+Europe,FRA,France,2020,6,2,2020-06-24,45664.0,,,0.7,0.015,66.7,people tested
+Europe,FRA,France,2020,6,3,2020-06-25,39974.0,,,0.612,0.014,71.4,people tested
+Europe,FRA,France,2020,6,4,2020-06-26,51339.0,,,0.787,0.013,76.9,people tested
+Europe,FRA,France,2020,6,5,2020-06-27,24647.0,,,0.378,0.013,76.9,people tested
+Europe,FRA,France,2020,6,6,2020-06-28,8242.0,,,0.126,0.014,71.4,people tested
+Europe,FRA,France,2020,6,0,2020-06-29,61826.0,,,0.947,0.013,76.9,people tested
+Europe,FRA,France,2020,6,1,2020-06-30,59774.0,,,0.916,0.013,76.9,people tested
+Europe,FRA,France,2020,7,2,2020-07-01,57332.0,,,0.878,0.012,83.3,people tested
+Europe,FRA,France,2020,7,3,2020-07-02,55001.0,,,0.843,0.012,83.3,people tested
+Europe,FRA,France,2020,7,4,2020-07-03,64392.0,,,0.986,0.012,83.3,people tested
+Europe,FRA,France,2020,7,5,2020-07-04,29100.0,,,0.446,0.012,83.3,people tested
+Europe,FRA,France,2020,7,6,2020-07-05,8546.0,,,0.131,0.012,83.3,people tested
+Europe,FRA,France,2020,7,0,2020-07-06,67150.0,,,1.029,0.011,90.9,people tested
+Europe,FRA,France,2020,7,1,2020-07-07,66328.0,,,1.016,0.011,90.9,people tested
+Europe,FRA,France,2020,7,2,2020-07-08,65190.0,,,0.999,0.011,90.9,people tested
+Europe,FRA,France,2020,7,3,2020-07-09,68826.0,,,1.054,0.011,90.9,people tested
+Europe,FRA,France,2020,7,4,2020-07-10,77239.0,,,1.183,0.01,100.0,people tested
+Europe,FRA,France,2020,7,5,2020-07-11,32662.0,,,0.5,0.01,100.0,people tested
+Europe,FRA,France,2020,7,6,2020-07-12,8530.0,,,0.131,0.01,100.0,people tested
+Europe,FRA,France,2020,7,0,2020-07-13,80818.0,,,1.238,0.011,90.9,people tested
+Europe,FRA,France,2020,7,1,2020-07-14,12397.0,,,0.19,0.011,90.9,people tested
+Europe,FRA,France,2020,7,2,2020-07-15,80349.0,,,1.231,0.011,90.9,people tested
+Europe,FRA,France,2020,7,3,2020-07-16,84541.0,,,1.295,0.011,90.9,people tested
+Europe,FRA,France,2020,7,4,2020-07-17,94262.0,,,1.444,0.011,90.9,people tested
+Europe,FRA,France,2020,7,5,2020-07-18,40736.0,,,0.624,0.011,90.9,people tested
+Europe,FRA,France,2020,7,6,2020-07-19,12299.0,,,0.188,0.011,90.9,people tested
+Europe,FRA,France,2020,7,0,2020-07-20,93120.0,,,1.427,0.011,90.9,people tested
+Europe,FRA,France,2020,7,1,2020-07-21,89313.0,,,1.368,0.011,90.9,people tested
+Europe,FRA,France,2020,7,2,2020-07-22,89285.0,,,1.368,0.012,83.3,people tested
+Europe,FRA,France,2020,7,3,2020-07-23,88377.0,,,1.354,0.012,83.3,people tested
+Europe,FRA,France,2020,7,4,2020-07-24,96173.0,,,1.473,0.013,76.9,people tested
+Europe,FRA,France,2020,7,5,2020-07-25,43419.0,,,0.665,0.013,76.9,people tested
+Europe,FRA,France,2020,7,6,2020-07-26,14991.0,,,0.23,0.013,76.9,people tested
+Europe,FRA,France,2020,7,0,2020-07-27,103290.0,,,1.582,0.014,71.4,people tested
+Europe,FRA,France,2020,7,1,2020-07-28,104072.0,,,1.594,0.014,71.4,people tested
+Europe,FRA,France,2020,7,2,2020-07-29,108121.0,,,1.656,0.014,71.4,people tested
+Europe,FRA,France,2020,7,3,2020-07-30,105745.0,,,1.62,0.014,71.4,people tested
+Europe,FRA,France,2020,7,4,2020-07-31,110252.0,,,1.689,0.014,71.4,people tested
+Europe,FRA,France,2020,8,5,2020-08-01,47680.0,,,0.73,0.014,71.4,people tested
+Europe,FRA,France,2020,8,6,2020-08-02,16522.0,,,0.253,0.014,71.4,people tested
+Europe,FRA,France,2020,8,0,2020-08-03,113470.0,,,1.738,0.015,66.7,people tested
+Europe,FRA,France,2020,8,1,2020-08-04,106756.0,,,1.636,0.016,62.5,people tested
+Europe,FRA,France,2020,8,2,2020-08-05,106607.0,,,1.633,0.017,58.8,people tested
+Europe,FRA,France,2020,8,3,2020-08-06,109884.0,,,1.683,0.018,55.6,people tested
+Europe,FRA,France,2020,8,4,2020-08-07,112185.0,,,1.719,0.019,52.6,people tested
+Europe,FRA,France,2020,8,5,2020-08-08,49811.0,,,0.763,0.019,52.6,people tested
+Europe,FRA,France,2020,8,6,2020-08-09,17136.0,,,0.263,0.02,50.0,people tested
+Europe,FRA,France,2020,8,0,2020-08-10,116932.0,,,1.791,0.021,47.6,people tested
+Europe,FRA,France,2020,8,1,2020-08-11,106682.0,,,1.634,0.022,45.5,people tested
+Europe,FRA,France,2020,8,2,2020-08-12,111775.0,,,1.712,0.023,43.5,people tested
+Europe,FRA,France,2020,8,3,2020-08-13,121209.0,,,1.857,0.025,40.0,people tested
+Europe,FRA,France,2020,8,4,2020-08-14,132924.0,,,2.036,0.027,37.0,people tested
+Europe,FRA,France,2020,8,5,2020-08-15,26874.0,,,0.412,0.027,37.0,people tested
+Europe,FRA,France,2020,8,6,2020-08-16,22120.0,,,0.339,0.027,37.0,people tested
+Europe,FRA,France,2020,8,0,2020-08-17,154447.0,,,2.366,0.029,34.5,people tested
+Europe,FRA,France,2020,8,1,2020-08-18,145471.0,,,2.229,0.031,32.3,people tested
+Europe,FRA,France,2020,8,2,2020-08-19,145253.0,,,2.225,0.032,31.2,people tested
+Europe,FRA,France,2020,8,3,2020-08-20,153941.0,,,2.358,0.033,30.3,people tested
+Europe,FRA,France,2020,8,4,2020-08-21,164960.0,,,2.527,0.033,30.3,people tested
+Europe,FRA,France,2020,8,5,2020-08-22,69478.0,,,1.064,0.033,30.3,people tested
+Europe,FRA,France,2020,8,6,2020-08-23,23587.0,,,0.361,0.033,30.3,people tested
+Europe,FRA,France,2020,8,0,2020-08-24,187272.0,,,2.869,0.034,29.4,people tested
+Europe,FRA,France,2020,8,1,2020-08-25,177747.0,,,2.723,0.035,28.6,people tested
+Europe,FRA,France,2020,8,2,2020-08-26,182111.0,,,2.79,0.036,27.8,people tested
+Europe,FRA,France,2020,8,3,2020-08-27,195191.0,,,2.99,0.037,27.0,people tested
+Europe,FRA,France,2020,8,4,2020-08-28,201767.0,,,3.091,0.038,26.3,people tested
+Europe,FRA,France,2020,8,5,2020-08-29,84913.0,,,1.301,0.038,26.3,people tested
+Europe,FRA,France,2020,8,6,2020-08-30,27789.0,,,0.426,0.038,26.3,people tested
+Europe,FRA,France,2020,8,0,2020-08-31,219651.0,,,3.365,0.039,25.6,people tested
+Europe,FRA,France,2020,9,1,2020-09-01,196240.0,,,3.006,0.041,24.4,people tested
+Europe,FRA,France,2020,9,2,2020-09-02,195228.0,,,2.991,0.042,23.8,people tested
+Europe,FRA,France,2020,9,3,2020-09-03,203171.0,,,3.113,0.044,22.7,people tested
+Europe,FRA,France,2020,9,4,2020-09-04,217657.0,,,3.335,0.046,21.7,people tested
+Europe,FRA,France,2020,9,5,2020-09-05,93234.0,,,1.428,0.046,21.7,people tested
+Europe,FRA,France,2020,9,6,2020-09-06,28433.0,,,0.436,0.046,21.7,people tested
+Europe,FRA,France,2020,9,0,2020-09-07,244326.0,,,3.743,0.048,20.8,people tested
+Europe,FRA,France,2020,9,1,2020-09-08,241337.0,,,3.697,0.048,20.8,people tested
+Europe,FRA,France,2020,9,2,2020-09-09,237372.0,,,3.637,0.049,20.4,people tested
+Europe,FRA,France,2020,9,3,2020-09-10,251278.0,,,3.85,0.049,20.4,people tested
+Europe,FRA,France,2020,9,4,2020-09-11,260567.0,,,3.992,0.048,20.8,people tested
+Europe,FRA,France,2020,9,5,2020-09-12,101950.0,,,1.562,0.048,20.8,people tested
+Europe,FRA,France,2020,9,6,2020-09-13,29110.0,,,0.446,0.048,20.8,people tested
+Europe,FRA,France,2020,9,0,2020-09-14,275465.0,,,4.22,0.049,20.4,people tested
+Europe,FRA,France,2020,9,1,2020-09-15,265927.0,,,4.074,0.049,20.4,people tested
+Europe,FRA,France,2020,9,2,2020-09-16,247219.0,,,3.787,0.05,20.0,people tested
+Europe,FRA,France,2020,9,3,2020-09-17,244191.0,,,3.741,0.052,19.2,people tested
+Europe,FRA,France,2020,9,4,2020-09-18,244488.0,,,3.746,0.054,18.5,people tested
+Europe,FRA,France,2020,9,5,2020-09-19,94882.0,,,1.454,0.055,18.2,people tested
+Europe,FRA,France,2020,9,6,2020-09-20,29788.0,,,0.456,0.055,18.2,people tested
+Europe,FRA,France,2020,9,0,2020-09-21,243102.0,,,3.724,0.057,17.5,people tested
+Europe,FRA,France,2020,9,1,2020-09-22,219180.0,,,3.358,0.059,16.9,people tested
+Europe,FRA,France,2020,9,2,2020-09-23,202580.0,,,3.104,0.061,16.4,people tested
+Europe,FRA,France,2020,9,3,2020-09-24,203465.0,,,3.117,0.062,16.1,people tested
+Europe,FRA,France,2020,9,4,2020-09-25,209799.0,,,3.214,0.063,15.9,people tested
+Europe,FRA,France,2020,9,5,2020-09-26,84877.0,,,1.3,0.063,15.9,people tested
+Europe,FRA,France,2020,9,6,2020-09-27,23290.0,,,0.357,0.063,15.9,people tested
+Europe,FRA,France,2020,9,0,2020-09-28,218706.0,,,3.351,0.063,15.9,people tested
+Europe,FRA,France,2020,9,1,2020-09-29,195949.0,,,3.002,0.063,15.9,people tested
+Europe,FRA,France,2020,9,2,2020-09-30,187880.0,,,2.878,0.064,15.6,people tested
+Europe,FRA,France,2020,10,3,2020-10-01,191721.0,,,2.937,0.067,14.9,people tested
+Europe,FRA,France,2020,10,4,2020-10-02,205949.0,,,3.155,0.07,14.3,people tested
+Europe,FRA,France,2020,10,5,2020-10-03,89098.0,,,1.365,0.072,13.9,people tested
+Europe,FRA,France,2020,10,6,2020-10-04,25052.0,,,0.384,0.073,13.7,people tested
+Europe,FRA,France,2020,10,0,2020-10-05,235422.0,,,3.607,0.079,12.7,people tested
+Europe,FRA,France,2020,10,1,2020-10-06,213509.0,,,3.271,0.084,11.9,people tested
+Europe,FRA,France,2020,10,2,2020-10-07,209893.0,,,3.216,0.089,11.2,people tested
+Europe,FRA,France,2020,10,3,2020-10-08,226346.0,,,3.468,0.093,10.8,people tested
+Europe,FRA,France,2020,10,4,2020-10-09,253737.0,,,3.887,0.095,10.5,people tested
+Europe,FRA,France,2020,10,5,2020-10-10,112247.0,,,1.72,0.097,10.3,people tested
+Europe,FRA,France,2020,10,6,2020-10-11,31608.0,,,0.484,0.097,10.3,people tested
+Europe,FRA,France,2020,10,0,2020-10-12,292227.0,,,4.477,0.101,9.9,people tested
+Europe,FRA,France,2020,10,1,2020-10-13,269962.0,,,4.136,0.104,9.6,people tested
+Europe,FRA,France,2020,10,2,2020-10-14,273506.0,,,4.19,0.105,9.5,people tested
+Europe,FRA,France,2020,10,3,2020-10-15,294254.0,,,4.508,0.106,9.4,people tested
+Europe,FRA,France,2020,10,4,2020-10-16,314866.0,,,4.824,0.108,9.3,people tested
+Europe,FRA,France,2020,10,5,2020-10-17,137614.0,,,2.108,0.109,9.2,people tested
+Europe,FRA,France,2020,10,6,2020-10-18,39252.0,,,0.601,0.109,9.2,people tested
+Europe,FRA,France,2020,10,0,2020-10-19,346440.0,,,5.308,0.114,8.8,people tested
+Europe,FRA,France,2020,10,1,2020-10-20,313235.0,,,4.799,0.121,8.3,people tested
+Europe,FRA,France,2020,10,2,2020-10-21,321827.0,,,4.93,0.128,7.8,people tested
+Europe,FRA,France,2020,10,3,2020-10-22,347574.0,,,5.325,0.135,7.4,people tested
+Europe,FRA,France,2020,10,4,2020-10-23,378474.0,,,5.798,0.142,7.0,people tested
+Europe,FRA,France,2020,10,5,2020-10-24,162166.0,,,2.484,0.145,6.9,people tested
+Europe,FRA,France,2020,10,6,2020-10-25,46092.0,,,0.706,0.146,6.8,people tested
+Europe,FRA,France,2020,10,0,2020-10-26,418340.0,,,6.409,0.153,6.5,people tested
+Europe,FRA,France,2020,10,1,2020-10-27,376286.0,,,5.765,0.157,6.4,people tested
+Europe,FRA,France,2020,10,2,2020-10-28,367992.0,,,5.638,0.159,6.3,people tested
+Europe,FRA,France,2020,10,3,2020-10-29,376967.0,,,5.775,0.159,6.3,people tested
+Europe,FRA,France,2020,10,4,2020-10-30,401679.0,,,6.154,0.158,6.3,people tested
+Europe,FRA,France,2020,10,5,2020-10-31,172327.0,,,2.64,0.158,6.3,people tested
+Europe,FRA,France,2020,11,6,2020-11-01,45667.0,,,0.7,0.158,6.3,people tested
+Europe,FRA,France,2020,11,0,2020-11-02,435938.0,,,6.679,0.157,6.4,people tested
+Europe,FRA,France,2020,11,1,2020-11-03,383060.0,,,5.869,0.156,6.4,people tested
+Europe,FRA,France,2020,11,2,2020-11-04,354207.0,,,5.427,0.154,6.5,people tested
+Europe,FRA,France,2020,11,3,2020-11-05,368409.0,,,5.644,0.15,6.7,people tested
+Europe,FRA,France,2020,11,4,2020-11-06,376500.0,,,5.768,0.145,6.9,people tested
+Europe,FRA,France,2020,11,5,2020-11-07,147131.0,,,2.254,0.143,7.0,people tested
+Europe,FRA,France,2020,11,6,2020-11-08,34772.0,,,0.533,0.142,7.0,people tested
+Europe,FRA,France,2020,11,0,2020-11-09,390285.0,,,5.979,0.135,7.4,people tested
+Europe,FRA,France,2020,11,1,2020-11-10,349988.0,,,5.362,0.126,7.9,people tested
+Europe,FRA,France,2020,11,2,2020-11-11,50587.0,,,0.775,0.121,8.3,people tested
+Europe,FRA,France,2020,11,3,2020-11-12,360115.0,,,5.517,0.116,8.6,people tested
+Europe,FRA,France,2020,11,4,2020-11-13,308969.0,,,4.733,0.111,9.0,people tested
+Europe,FRA,France,2020,11,5,2020-11-14,115321.0,,,1.767,0.108,9.3,people tested
+Europe,FRA,France,2020,11,6,2020-11-15,26460.0,,,0.405,0.108,9.3,people tested
+Europe,FRA,France,2020,11,0,2020-11-16,311813.0,,,4.777,0.102,9.8,people tested
+Europe,FRA,France,2020,11,1,2020-11-17,258225.0,,,3.956,0.097,10.3,people tested
+Europe,FRA,France,2020,11,2,2020-11-18,214942.0,,,3.293,0.096,10.4,people tested
+Europe,FRA,France,2020,11,3,2020-11-19,236501.0,,,3.623,0.09,11.1,people tested
+Europe,FRA,France,2020,11,4,2020-11-20,246587.0,,,3.778,0.084,11.9,people tested
+Europe,FRA,France,2020,11,5,2020-11-21,105324.0,,,1.614,0.082,12.2,people tested
+Europe,FRA,France,2020,11,6,2020-11-22,24463.0,,,0.375,0.081,12.3,people tested
+Europe,FRA,France,2020,11,0,2020-11-23,257229.0,,,3.941,0.075,13.3,people tested
+Europe,FRA,France,2020,11,1,2020-11-24,214087.0,,,3.28,0.072,13.9,people tested
+Europe,FRA,France,2020,11,2,2020-11-25,194554.0,,,2.981,0.069,14.5,people tested
+Europe,FRA,France,2020,11,3,2020-11-26,207925.0,,,3.185,0.067,14.9,people tested
+Europe,FRA,France,2020,11,4,2020-11-27,220189.0,,,3.373,0.065,15.4,people tested
+Europe,FRA,France,2020,11,5,2020-11-28,99264.0,,,1.521,0.064,15.6,people tested
+Europe,FRA,France,2020,11,6,2020-11-29,23705.0,,,0.363,0.064,15.6,people tested
+Europe,FRA,France,2020,11,0,2020-11-30,238869.0,,,3.66,0.064,15.6,people tested
+Europe,FRA,France,2020,12,1,2020-12-01,199254.0,,,3.053,0.064,15.6,people tested
+Europe,FRA,France,2020,12,2,2020-12-02,180322.0,,,2.763,0.063,15.9,people tested
+Europe,FRA,France,2020,12,3,2020-12-03,199779.0,,,3.061,0.063,15.9,people tested
+Europe,FRA,France,2020,12,4,2020-12-04,218153.0,,,3.342,0.063,15.9,people tested
+Europe,FRA,France,2020,12,5,2020-12-05,105011.0,,,1.609,0.063,15.9,people tested
+Europe,FRA,France,2020,12,6,2020-12-06,26232.0,,,0.402,0.063,15.9,people tested
+Europe,FRA,France,2020,12,0,2020-12-07,256803.0,,,3.934,0.064,15.6,people tested
+Europe,FRA,France,2020,12,1,2020-12-08,224908.0,,,3.446,0.063,15.9,people tested
+Europe,FRA,France,2020,12,2,2020-12-09,206526.0,,,3.164,0.063,15.9,people tested
+Europe,FRA,France,2020,12,3,2020-12-10,226028.0,,,3.463,0.063,15.9,people tested
+Europe,FRA,France,2020,12,4,2020-12-11,251869.0,,,3.859,0.062,16.1,people tested
+Europe,FRA,France,2020,12,5,2020-12-12,132772.0,,,2.034,0.061,16.4,people tested
+Europe,FRA,France,2020,12,6,2020-12-13,34172.0,,,0.524,0.061,16.4,people tested
+Europe,FRA,France,2020,12,0,2020-12-14,329009.0,,,5.04,0.061,16.4,people tested
+Europe,FRA,France,2020,12,1,2020-12-15,313209.0,,,4.798,0.059,16.9,people tested
+Europe,FRA,France,2020,12,2,2020-12-16,336348.0,,,5.153,0.056,17.9,people tested
+Europe,FRA,France,2020,12,3,2020-12-17,398523.0,,,6.105,0.052,19.2,people tested
+Europe,FRA,France,2020,12,4,2020-12-18,505683.0,,,7.747,0.047,21.3,people tested
+Europe,FRA,France,2020,12,5,2020-12-19,334667.0,,,5.127,0.044,22.7,people tested
+Europe,FRA,France,2020,12,6,2020-12-20,117561.0,,,1.801,0.043,23.3,people tested
+Europe,FRA,France,2020,12,0,2020-12-21,677530.0,,,10.38,0.038,26.3,people tested
+Europe,FRA,France,2020,12,1,2020-12-22,739281.0,,,11.326,0.034,29.4,people tested
+Europe,FRA,France,2020,12,2,2020-12-23,730827.0,,,11.196,0.03,33.3,people tested
+Europe,FRA,France,2020,12,3,2020-12-24,503071.0,,,7.707,0.029,34.5,people tested
+Europe,FRA,France,2020,12,4,2020-12-25,38540.0,,,0.59,0.027,37.0,people tested
+Europe,FRA,France,2020,12,5,2020-12-26,221795.0,,,3.398,0.028,35.7,people tested
+Europe,FRA,France,2020,12,6,2020-12-27,47921.0,,,0.734,0.028,35.7,people tested
+Europe,FRA,France,2020,12,0,2020-12-28,400170.0,,,6.131,0.032,31.2,people tested
+Europe,FRA,France,2020,12,1,2020-12-29,368487.0,,,5.645,0.038,26.3,people tested
+Europe,FRA,France,2020,12,2,2020-12-30,402234.0,,,6.162,0.046,21.7,people tested
+Europe,FRA,France,2020,12,3,2020-12-31,340576.0,,,5.218,0.051,19.6,people tested
+Europe,FRA,France,2021,1,4,2021-01-01,33430.0,,,0.512,0.052,19.2,people tested
+Europe,FRA,France,2021,1,5,2021-01-02,231902.0,,,3.553,0.054,18.5,people tested
+Europe,FRA,France,2021,1,6,2021-01-03,47214.0,,,0.723,0.054,18.5,people tested
+Europe,FRA,France,2021,1,0,2021-01-04,431757.0,,,6.615,0.057,17.5,people tested
+Europe,FRA,France,2021,1,1,2021-01-05,347418.0,,,5.322,0.059,16.9,people tested
+Europe,FRA,France,2021,1,2,2021-01-06,316305.0,,,4.846,0.062,16.1,people tested
+Europe,FRA,France,2021,1,3,2021-01-07,329880.0,,,5.054,0.065,15.4,people tested
+Europe,FRA,France,2021,1,4,2021-01-08,353748.0,,,5.419,0.064,15.6,people tested
+Europe,FRA,France,2021,1,5,2021-01-09,190657.0,,,2.921,0.064,15.6,people tested
+Europe,FRA,France,2021,1,6,2021-01-10,42651.0,,,0.653,0.064,15.6,people tested
+Europe,FRA,France,2021,1,0,2021-01-11,402871.0,,,6.172,0.065,15.4,people tested
+Europe,FRA,France,2021,1,1,2021-01-12,342091.0,,,5.241,0.065,15.4,people tested
+Europe,FRA,France,2021,1,2,2021-01-13,316597.0,,,4.85,0.065,15.4,people tested
+Europe,FRA,France,2021,1,3,2021-01-14,326669.0,,,5.005,0.066,15.2,people tested
+Europe,FRA,France,2021,1,4,2021-01-15,355010.0,,,5.439,0.066,15.2,people tested
+Europe,FRA,France,2021,1,5,2021-01-16,200961.0,,,3.079,0.066,15.2,people tested
+Europe,FRA,France,2021,1,6,2021-01-17,45074.0,,,0.691,0.066,15.2,people tested
+Europe,FRA,France,2021,1,0,2021-01-18,402730.0,,,6.17,0.068,14.7,people tested
+Europe,FRA,France,2021,1,1,2021-01-19,340886.0,,,5.222,0.07,14.3,people tested
+Europe,FRA,France,2021,1,2,2021-01-20,324007.0,,,4.964,0.07,14.3,people tested
+Europe,FRA,France,2021,1,3,2021-01-21,344263.0,,,5.274,0.071,14.1,people tested
+Europe,FRA,France,2021,1,4,2021-01-22,387041.0,,,5.93,0.07,14.3,people tested
+Europe,FRA,France,2021,1,5,2021-01-23,203821.0,,,3.123,0.071,14.1,people tested
+Europe,FRA,France,2021,1,6,2021-01-24,43152.0,,,0.661,0.071,14.1,people tested
+Europe,FRA,France,2021,1,0,2021-01-25,437283.0,,,6.699,0.071,14.1,people tested
+Europe,FRA,France,2021,1,1,2021-01-26,364259.0,,,5.581,0.07,14.3,people tested
+Europe,FRA,France,2021,1,2,2021-01-27,344587.0,,,5.279,0.069,14.5,people tested
+Europe,FRA,France,2021,1,3,2021-01-28,389638.0,,,5.969,0.068,14.7,people tested
+Europe,FRA,France,2021,1,4,2021-01-29,419862.0,,,6.432,0.067,14.9,people tested
+Europe,FRA,France,2021,1,5,2021-01-30,219297.0,,,3.36,0.066,15.2,people tested
+Europe,FRA,France,2021,1,6,2021-01-31,45126.0,,,0.691,0.067,14.9,people tested
+Europe,FRA,France,2021,2,0,2021-02-01,446894.0,,,6.846,0.067,14.9,people tested
+Europe,FRA,France,2021,2,1,2021-02-02,389035.0,,,5.96,0.066,15.2,people tested
+Europe,FRA,France,2021,2,2,2021-02-03,353938.0,,,5.422,0.066,15.2,people tested
+Europe,FRA,France,2021,2,3,2021-02-04,382828.0,,,5.865,0.065,15.4,people tested
+Europe,FRA,France,2021,2,4,2021-02-05,427626.0,,,6.551,0.064,15.6,people tested
+Europe,FRA,France,2021,2,5,2021-02-06,224447.0,,,3.439,0.063,15.9,people tested
+Europe,FRA,France,2021,2,6,2021-02-07,43913.0,,,0.673,0.063,15.9,people tested
+Europe,FRA,France,2021,2,0,2021-02-08,432981.0,,,6.633,0.062,16.1,people tested
+Europe,FRA,France,2021,2,1,2021-02-09,384871.0,,,5.896,0.062,16.1,people tested
+Europe,FRA,France,2021,2,2,2021-02-10,350653.0,,,5.372,0.061,16.4,people tested
+Europe,FRA,France,2021,2,3,2021-02-11,368752.0,,,5.649,0.06,16.7,people tested
+Europe,FRA,France,2021,2,4,2021-02-12,408825.0,,,6.263,0.06,16.7,people tested
+Europe,FRA,France,2021,2,5,2021-02-13,218330.0,,,3.345,0.059,16.9,people tested
+Europe,FRA,France,2021,2,6,2021-02-14,43213.0,,,0.662,0.06,16.7,people tested
+Europe,FRA,France,2021,2,0,2021-02-15,426885.0,,,6.54,0.06,16.7,people tested
+Europe,FRA,France,2021,2,1,2021-02-16,365464.0,,,5.599,0.06,16.7,people tested
+Europe,FRA,France,2021,2,2,2021-02-17,341123.0,,,5.226,0.061,16.4,people tested
+Europe,FRA,France,2021,2,3,2021-02-18,363905.0,,,5.575,0.063,15.9,people tested
+Europe,FRA,France,2021,2,4,2021-02-19,,,,,,,
+Europe,FRA,France,2021,2,5,2021-02-20,,,,,,,
+Europe,FRA,France,2021,2,6,2021-02-21,,,,,,,
+Europe,FRA,France,2021,2,0,2021-02-22,,,,,,,
+Europe,FRA,France,2021,2,1,2021-02-23,,,,,,,
+Europe,FRA,France,2021,2,2,2021-02-24,,,,,,,

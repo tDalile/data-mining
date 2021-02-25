@@ -1,0 +1,358 @@
+continent,iso_code,location,year,month,weekday,date,new_tests,total_tests,total_tests_per_thousand,new_tests_per_thousand,positive_rate,tests_per_case,tests_units
+Asia,PSE,Palestine,2020,3,3,2020-03-05,,,,,,,
+Asia,PSE,Palestine,2020,3,4,2020-03-06,,,,,,,
+Asia,PSE,Palestine,2020,3,5,2020-03-07,,,,,,,
+Asia,PSE,Palestine,2020,3,6,2020-03-08,,,,,,,
+Asia,PSE,Palestine,2020,3,0,2020-03-09,,,,,,,
+Asia,PSE,Palestine,2020,3,1,2020-03-10,,,,,,,
+Asia,PSE,Palestine,2020,3,2,2020-03-11,,,,,,,
+Asia,PSE,Palestine,2020,3,3,2020-03-12,,,,,,,
+Asia,PSE,Palestine,2020,3,4,2020-03-13,,,,,,,
+Asia,PSE,Palestine,2020,3,5,2020-03-14,,,,,,,
+Asia,PSE,Palestine,2020,3,6,2020-03-15,,,,,,,
+Asia,PSE,Palestine,2020,3,0,2020-03-16,,,,,,,
+Asia,PSE,Palestine,2020,3,1,2020-03-17,,,,,,,
+Asia,PSE,Palestine,2020,3,2,2020-03-18,,,,,,,
+Asia,PSE,Palestine,2020,3,3,2020-03-19,,,,,,,
+Asia,PSE,Palestine,2020,3,4,2020-03-20,,,,,,,
+Asia,PSE,Palestine,2020,3,5,2020-03-21,,,,,,,
+Asia,PSE,Palestine,2020,3,6,2020-03-22,,,,,,,
+Asia,PSE,Palestine,2020,3,0,2020-03-23,,,,,,,
+Asia,PSE,Palestine,2020,3,1,2020-03-24,,,,,,,
+Asia,PSE,Palestine,2020,3,2,2020-03-25,,,,,,,
+Asia,PSE,Palestine,2020,3,3,2020-03-26,,,,,,,
+Asia,PSE,Palestine,2020,3,4,2020-03-27,,,,,,,
+Asia,PSE,Palestine,2020,3,5,2020-03-28,,,,,,,
+Asia,PSE,Palestine,2020,3,6,2020-03-29,,,,,,,
+Asia,PSE,Palestine,2020,3,0,2020-03-30,,,,,,,
+Asia,PSE,Palestine,2020,3,1,2020-03-31,,,,,,,
+Asia,PSE,Palestine,2020,4,2,2020-04-01,,,,,,,
+Asia,PSE,Palestine,2020,4,3,2020-04-02,,,,,,,
+Asia,PSE,Palestine,2020,4,4,2020-04-03,,,,,,,
+Asia,PSE,Palestine,2020,4,5,2020-04-04,,,,,,,
+Asia,PSE,Palestine,2020,4,6,2020-04-05,,,,,,,
+Asia,PSE,Palestine,2020,4,0,2020-04-06,,,,,,,
+Asia,PSE,Palestine,2020,4,1,2020-04-07,,,,,,,
+Asia,PSE,Palestine,2020,4,2,2020-04-08,,,,,,,
+Asia,PSE,Palestine,2020,4,3,2020-04-09,,,,,,,
+Asia,PSE,Palestine,2020,4,4,2020-04-10,,,,,,,
+Asia,PSE,Palestine,2020,4,5,2020-04-11,,,,,,,
+Asia,PSE,Palestine,2020,4,6,2020-04-12,,,,,,,
+Asia,PSE,Palestine,2020,4,0,2020-04-13,,,,,,,
+Asia,PSE,Palestine,2020,4,1,2020-04-14,,,,,,,
+Asia,PSE,Palestine,2020,4,2,2020-04-15,,,,,,,
+Asia,PSE,Palestine,2020,4,3,2020-04-16,,,,,,,
+Asia,PSE,Palestine,2020,4,4,2020-04-17,,,,,,,
+Asia,PSE,Palestine,2020,4,5,2020-04-18,,,,,,,
+Asia,PSE,Palestine,2020,4,6,2020-04-19,,,,,,,
+Asia,PSE,Palestine,2020,4,0,2020-04-20,,,,,,,
+Asia,PSE,Palestine,2020,4,1,2020-04-21,,,,,,,
+Asia,PSE,Palestine,2020,4,2,2020-04-22,,,,,,,
+Asia,PSE,Palestine,2020,4,3,2020-04-23,,,,,,,
+Asia,PSE,Palestine,2020,4,4,2020-04-24,,,,,,,
+Asia,PSE,Palestine,2020,4,5,2020-04-25,,,,,,,
+Asia,PSE,Palestine,2020,4,6,2020-04-26,,,,,,,
+Asia,PSE,Palestine,2020,4,0,2020-04-27,,,,,,,
+Asia,PSE,Palestine,2020,4,1,2020-04-28,,,,,,,
+Asia,PSE,Palestine,2020,4,2,2020-04-29,,,,,,,
+Asia,PSE,Palestine,2020,4,3,2020-04-30,,,,,,,
+Asia,PSE,Palestine,2020,5,4,2020-05-01,,,,,,,
+Asia,PSE,Palestine,2020,5,5,2020-05-02,,,,,,,
+Asia,PSE,Palestine,2020,5,6,2020-05-03,,,,,,,
+Asia,PSE,Palestine,2020,5,0,2020-05-04,,,,,,,
+Asia,PSE,Palestine,2020,5,1,2020-05-05,,,,,,,
+Asia,PSE,Palestine,2020,5,2,2020-05-06,,,,,,,
+Asia,PSE,Palestine,2020,5,3,2020-05-07,,,,,,,
+Asia,PSE,Palestine,2020,5,4,2020-05-08,,,,,,,
+Asia,PSE,Palestine,2020,5,5,2020-05-09,,,,,,,
+Asia,PSE,Palestine,2020,5,6,2020-05-10,,,,,,,
+Asia,PSE,Palestine,2020,5,0,2020-05-11,,,,,,,
+Asia,PSE,Palestine,2020,5,1,2020-05-12,,,,,,,
+Asia,PSE,Palestine,2020,5,2,2020-05-13,,,,,,,
+Asia,PSE,Palestine,2020,5,3,2020-05-14,,,,,,,
+Asia,PSE,Palestine,2020,5,4,2020-05-15,,,,,,,
+Asia,PSE,Palestine,2020,5,5,2020-05-16,,,,,,,
+Asia,PSE,Palestine,2020,5,6,2020-05-17,,,,,,,
+Asia,PSE,Palestine,2020,5,0,2020-05-18,,,,,,,
+Asia,PSE,Palestine,2020,5,1,2020-05-19,,,,,,,
+Asia,PSE,Palestine,2020,5,2,2020-05-20,,,,,,,
+Asia,PSE,Palestine,2020,5,3,2020-05-21,,,,,,,
+Asia,PSE,Palestine,2020,5,4,2020-05-22,,,,,,,
+Asia,PSE,Palestine,2020,5,5,2020-05-23,,,,,,,
+Asia,PSE,Palestine,2020,5,6,2020-05-24,,,,,,,
+Asia,PSE,Palestine,2020,5,0,2020-05-25,,,,,,,
+Asia,PSE,Palestine,2020,5,1,2020-05-26,,,,,,,
+Asia,PSE,Palestine,2020,5,2,2020-05-27,,,,,,,
+Asia,PSE,Palestine,2020,5,3,2020-05-28,,,,,,,
+Asia,PSE,Palestine,2020,5,4,2020-05-29,,,,,,,
+Asia,PSE,Palestine,2020,5,5,2020-05-30,,,,,,,
+Asia,PSE,Palestine,2020,5,6,2020-05-31,,,,,,,
+Asia,PSE,Palestine,2020,6,0,2020-06-01,,,,,,,
+Asia,PSE,Palestine,2020,6,1,2020-06-02,,,,,,,
+Asia,PSE,Palestine,2020,6,2,2020-06-03,,,,,,,
+Asia,PSE,Palestine,2020,6,3,2020-06-04,,,,,,,
+Asia,PSE,Palestine,2020,6,4,2020-06-05,,,,,,,
+Asia,PSE,Palestine,2020,6,5,2020-06-06,,,,,,,
+Asia,PSE,Palestine,2020,6,6,2020-06-07,,,,,,,
+Asia,PSE,Palestine,2020,6,0,2020-06-08,,,,,,,
+Asia,PSE,Palestine,2020,6,1,2020-06-09,,,,,,,
+Asia,PSE,Palestine,2020,6,2,2020-06-10,,,,,,,
+Asia,PSE,Palestine,2020,6,3,2020-06-11,,,,,,,
+Asia,PSE,Palestine,2020,6,4,2020-06-12,,,,,,,
+Asia,PSE,Palestine,2020,6,5,2020-06-13,,,,,,,
+Asia,PSE,Palestine,2020,6,6,2020-06-14,,,,,,,
+Asia,PSE,Palestine,2020,6,0,2020-06-15,,,,,,,
+Asia,PSE,Palestine,2020,6,1,2020-06-16,,,,,,,
+Asia,PSE,Palestine,2020,6,2,2020-06-17,,,,,,,
+Asia,PSE,Palestine,2020,6,3,2020-06-18,,,,,,,
+Asia,PSE,Palestine,2020,6,4,2020-06-19,,,,,,,
+Asia,PSE,Palestine,2020,6,5,2020-06-20,,,,,,,
+Asia,PSE,Palestine,2020,6,6,2020-06-21,,,,,,,
+Asia,PSE,Palestine,2020,6,0,2020-06-22,,,,,,,
+Asia,PSE,Palestine,2020,6,1,2020-06-23,,,,,,,
+Asia,PSE,Palestine,2020,6,2,2020-06-24,,,,,,,
+Asia,PSE,Palestine,2020,6,3,2020-06-25,,,,,,,
+Asia,PSE,Palestine,2020,6,4,2020-06-26,,,,,,,
+Asia,PSE,Palestine,2020,6,5,2020-06-27,,,,,,,
+Asia,PSE,Palestine,2020,6,6,2020-06-28,,,,,,,
+Asia,PSE,Palestine,2020,6,0,2020-06-29,,,,,,,
+Asia,PSE,Palestine,2020,6,1,2020-06-30,,,,,,,
+Asia,PSE,Palestine,2020,7,2,2020-07-01,,,,,,,
+Asia,PSE,Palestine,2020,7,3,2020-07-02,,,,,,,
+Asia,PSE,Palestine,2020,7,4,2020-07-03,,,,,,,
+Asia,PSE,Palestine,2020,7,5,2020-07-04,,,,,,,
+Asia,PSE,Palestine,2020,7,6,2020-07-05,,,,,,,
+Asia,PSE,Palestine,2020,7,0,2020-07-06,,,,,,,
+Asia,PSE,Palestine,2020,7,1,2020-07-07,,,,,,,
+Asia,PSE,Palestine,2020,7,2,2020-07-08,,,,,,,
+Asia,PSE,Palestine,2020,7,3,2020-07-09,,,,,,,
+Asia,PSE,Palestine,2020,7,4,2020-07-10,,,,,,,
+Asia,PSE,Palestine,2020,7,5,2020-07-11,,,,,,,
+Asia,PSE,Palestine,2020,7,6,2020-07-12,,,,,,,
+Asia,PSE,Palestine,2020,7,0,2020-07-13,,,,,,,
+Asia,PSE,Palestine,2020,7,1,2020-07-14,,,,,,,
+Asia,PSE,Palestine,2020,7,2,2020-07-15,,,,,,,
+Asia,PSE,Palestine,2020,7,3,2020-07-16,,,,,,,
+Asia,PSE,Palestine,2020,7,4,2020-07-17,,,,,,,
+Asia,PSE,Palestine,2020,7,5,2020-07-18,,,,,,,
+Asia,PSE,Palestine,2020,7,6,2020-07-19,,,,,,,
+Asia,PSE,Palestine,2020,7,0,2020-07-20,,,,,,,
+Asia,PSE,Palestine,2020,7,1,2020-07-21,,,,,,,
+Asia,PSE,Palestine,2020,7,2,2020-07-22,,,,,,,
+Asia,PSE,Palestine,2020,7,3,2020-07-23,,,,,,,
+Asia,PSE,Palestine,2020,7,4,2020-07-24,,,,,,,
+Asia,PSE,Palestine,2020,7,5,2020-07-25,,,,,,,
+Asia,PSE,Palestine,2020,7,6,2020-07-26,,,,,,,
+Asia,PSE,Palestine,2020,7,0,2020-07-27,,,,,,,
+Asia,PSE,Palestine,2020,7,1,2020-07-28,,,,,,,
+Asia,PSE,Palestine,2020,7,2,2020-07-29,,,,,,,
+Asia,PSE,Palestine,2020,7,3,2020-07-30,,,,,,,
+Asia,PSE,Palestine,2020,7,4,2020-07-31,,,,,,,
+Asia,PSE,Palestine,2020,8,5,2020-08-01,,,,,,,
+Asia,PSE,Palestine,2020,8,6,2020-08-02,,,,,,,
+Asia,PSE,Palestine,2020,8,0,2020-08-03,,,,,,,
+Asia,PSE,Palestine,2020,8,1,2020-08-04,,,,,,,
+Asia,PSE,Palestine,2020,8,2,2020-08-05,,,,,,,
+Asia,PSE,Palestine,2020,8,3,2020-08-06,,,,,,,
+Asia,PSE,Palestine,2020,8,4,2020-08-07,,,,,,,
+Asia,PSE,Palestine,2020,8,5,2020-08-08,,,,,,,
+Asia,PSE,Palestine,2020,8,6,2020-08-09,,,,,,,
+Asia,PSE,Palestine,2020,8,0,2020-08-10,,,,,,,
+Asia,PSE,Palestine,2020,8,1,2020-08-11,,,,,,,
+Asia,PSE,Palestine,2020,8,2,2020-08-12,,,,,,,
+Asia,PSE,Palestine,2020,8,3,2020-08-13,,,,,,,
+Asia,PSE,Palestine,2020,8,4,2020-08-14,,,,,,,
+Asia,PSE,Palestine,2020,8,5,2020-08-15,,,,,,,
+Asia,PSE,Palestine,2020,8,6,2020-08-16,,,,,,,
+Asia,PSE,Palestine,2020,8,0,2020-08-17,,,,,,,
+Asia,PSE,Palestine,2020,8,1,2020-08-18,,,,,,,
+Asia,PSE,Palestine,2020,8,2,2020-08-19,,,,,,,
+Asia,PSE,Palestine,2020,8,3,2020-08-20,,,,,,,
+Asia,PSE,Palestine,2020,8,4,2020-08-21,,,,,,,
+Asia,PSE,Palestine,2020,8,5,2020-08-22,,,,,,,
+Asia,PSE,Palestine,2020,8,6,2020-08-23,,,,,,,
+Asia,PSE,Palestine,2020,8,0,2020-08-24,,,,,,,
+Asia,PSE,Palestine,2020,8,1,2020-08-25,,,,,,,
+Asia,PSE,Palestine,2020,8,2,2020-08-26,,,,,,,
+Asia,PSE,Palestine,2020,8,3,2020-08-27,,,,,,,
+Asia,PSE,Palestine,2020,8,4,2020-08-28,4115.0,,,0.807,,,tests performed
+Asia,PSE,Palestine,2020,8,5,2020-08-29,7996.0,,,1.567,,,tests performed
+Asia,PSE,Palestine,2020,8,6,2020-08-30,4135.0,,,0.811,,,tests performed
+Asia,PSE,Palestine,2020,8,0,2020-08-31,4433.0,,,0.869,,,tests performed
+Asia,PSE,Palestine,2020,9,1,2020-09-01,4433.0,,,0.869,,,tests performed
+Asia,PSE,Palestine,2020,9,2,2020-09-02,5418.0,,,1.062,,,tests performed
+Asia,PSE,Palestine,2020,9,3,2020-09-03,5076.0,,,0.995,0.107,9.4,tests performed
+Asia,PSE,Palestine,2020,9,4,2020-09-04,5621.0,,,1.102,0.105,9.5,tests performed
+Asia,PSE,Palestine,2020,9,5,2020-09-05,3697.0,,,0.725,0.119,8.4,tests performed
+Asia,PSE,Palestine,2020,9,6,2020-09-06,4129.0,,,0.809,0.12,8.4,tests performed
+Asia,PSE,Palestine,2020,9,0,2020-09-07,5328.0,,,1.044,0.12,8.3,tests performed
+Asia,PSE,Palestine,2020,9,1,2020-09-08,5560.0,,,1.09,0.117,8.5,tests performed
+Asia,PSE,Palestine,2020,9,2,2020-09-09,5471.0,,,1.072,0.116,8.6,tests performed
+Asia,PSE,Palestine,2020,9,3,2020-09-10,5714.0,,,1.12,0.118,8.5,tests performed
+Asia,PSE,Palestine,2020,9,4,2020-09-11,5981.0,,,1.172,0.115,8.7,tests performed
+Asia,PSE,Palestine,2020,9,5,2020-09-12,4919.0,,,0.964,0.117,8.6,tests performed
+Asia,PSE,Palestine,2020,9,6,2020-09-13,6602.0,,,1.294,0.112,8.9,tests performed
+Asia,PSE,Palestine,2020,9,0,2020-09-14,7000.0,,,1.372,0.111,9.0,tests performed
+Asia,PSE,Palestine,2020,9,1,2020-09-15,,,,,,,tests performed
+Asia,PSE,Palestine,2020,9,2,2020-09-16,7113.0,,,1.394,,,tests performed
+Asia,PSE,Palestine,2020,9,3,2020-09-17,5937.0,,,1.164,,,tests performed
+Asia,PSE,Palestine,2020,9,4,2020-09-18,6734.0,,,1.32,,,tests performed
+Asia,PSE,Palestine,2020,9,5,2020-09-19,4494.0,,,0.881,,,tests performed
+Asia,PSE,Palestine,2020,9,6,2020-09-20,6948.0,,,1.362,,,tests performed
+Asia,PSE,Palestine,2020,9,0,2020-09-21,6201.0,,,1.216,,,tests performed
+Asia,PSE,Palestine,2020,9,1,2020-09-22,4978.0,,,0.976,0.102,9.8,tests performed
+Asia,PSE,Palestine,2020,9,2,2020-09-23,5156.0,,,1.011,0.101,9.9,tests performed
+Asia,PSE,Palestine,2020,9,3,2020-09-24,5028.0,,,0.986,0.095,10.5,tests performed
+Asia,PSE,Palestine,2020,9,4,2020-09-25,3283.0,,,0.644,0.099,10.1,tests performed
+Asia,PSE,Palestine,2020,9,5,2020-09-26,3177.0,,,0.623,0.093,10.7,tests performed
+Asia,PSE,Palestine,2020,9,6,2020-09-27,3898.0,,,0.764,0.095,10.5,tests performed
+Asia,PSE,Palestine,2020,9,0,2020-09-28,4516.0,,,0.885,0.099,10.1,tests performed
+Asia,PSE,Palestine,2020,9,1,2020-09-29,,,,,,,tests performed
+Asia,PSE,Palestine,2020,9,2,2020-09-30,4009.0,,,0.786,,,tests performed
+Asia,PSE,Palestine,2020,10,3,2020-10-01,4066.0,,,0.797,,,tests performed
+Asia,PSE,Palestine,2020,10,4,2020-10-02,3886.0,,,0.762,,,tests performed
+Asia,PSE,Palestine,2020,10,5,2020-10-03,2885.0,,,0.566,,,tests performed
+Asia,PSE,Palestine,2020,10,6,2020-10-04,4211.0,,,0.825,,,tests performed
+Asia,PSE,Palestine,2020,10,0,2020-10-05,4157.0,,,0.815,,,tests performed
+Asia,PSE,Palestine,2020,10,1,2020-10-06,4493.0,,,0.881,0.104,9.6,tests performed
+Asia,PSE,Palestine,2020,10,2,2020-10-07,4285.0,,,0.84,0.105,9.5,tests performed
+Asia,PSE,Palestine,2020,10,3,2020-10-08,3488.0,,,0.684,0.107,9.3,tests performed
+Asia,PSE,Palestine,2020,10,4,2020-10-09,3892.0,,,0.763,0.106,9.5,tests performed
+Asia,PSE,Palestine,2020,10,5,2020-10-10,2918.0,,,0.572,0.104,9.6,tests performed
+Asia,PSE,Palestine,2020,10,6,2020-10-11,2550.0,,,0.5,0.109,9.2,tests performed
+Asia,PSE,Palestine,2020,10,0,2020-10-12,3767.0,,,0.738,0.107,9.3,tests performed
+Asia,PSE,Palestine,2020,10,1,2020-10-13,4002.0,,,0.784,0.111,9.0,tests performed
+Asia,PSE,Palestine,2020,10,2,2020-10-14,4097.0,,,0.803,0.114,8.8,tests performed
+Asia,PSE,Palestine,2020,10,3,2020-10-15,4661.0,,,0.914,0.11,9.1,tests performed
+Asia,PSE,Palestine,2020,10,4,2020-10-16,3829.0,,,0.751,0.107,9.3,tests performed
+Asia,PSE,Palestine,2020,10,5,2020-10-17,2954.0,,,0.579,0.108,9.2,tests performed
+Asia,PSE,Palestine,2020,10,6,2020-10-18,3536.0,,,0.693,0.106,9.5,tests performed
+Asia,PSE,Palestine,2020,10,0,2020-10-19,4270.0,,,0.837,0.107,9.3,tests performed
+Asia,PSE,Palestine,2020,10,1,2020-10-20,3969.0,,,0.778,0.107,9.3,tests performed
+Asia,PSE,Palestine,2020,10,2,2020-10-21,4036.0,,,0.791,0.109,9.2,tests performed
+Asia,PSE,Palestine,2020,10,3,2020-10-22,4116.0,,,0.807,0.114,8.8,tests performed
+Asia,PSE,Palestine,2020,10,4,2020-10-23,3701.0,,,0.725,0.118,8.5,tests performed
+Asia,PSE,Palestine,2020,10,5,2020-10-24,3470.0,,,0.68,0.12,8.4,tests performed
+Asia,PSE,Palestine,2020,10,6,2020-10-25,4228.0,,,0.829,0.119,8.4,tests performed
+Asia,PSE,Palestine,2020,10,0,2020-10-26,4228.0,,,0.829,0.12,8.3,tests performed
+Asia,PSE,Palestine,2020,10,1,2020-10-27,4212.0,,,0.826,0.121,8.2,tests performed
+Asia,PSE,Palestine,2020,10,2,2020-10-28,4228.0,,,0.829,0.118,8.5,tests performed
+Asia,PSE,Palestine,2020,10,3,2020-10-29,4228.0,,,0.829,0.121,8.2,tests performed
+Asia,PSE,Palestine,2020,10,4,2020-10-30,4228.0,,,0.829,0.121,8.2,tests performed
+Asia,PSE,Palestine,2020,10,5,2020-10-31,4002.0,,,0.784,0.12,8.3,tests performed
+Asia,PSE,Palestine,2020,11,6,2020-11-01,4053.0,,,0.794,0.124,8.1,tests performed
+Asia,PSE,Palestine,2020,11,0,2020-11-02,4485.0,,,0.879,0.13,7.7,tests performed
+Asia,PSE,Palestine,2020,11,1,2020-11-03,5464.0,,,1.071,0.126,7.9,tests performed
+Asia,PSE,Palestine,2020,11,2,2020-11-04,5632.0,,,1.104,0.129,7.7,tests performed
+Asia,PSE,Palestine,2020,11,3,2020-11-05,5448.0,,,1.068,0.123,8.1,tests performed
+Asia,PSE,Palestine,2020,11,4,2020-11-06,4625.0,,,0.907,0.123,8.1,tests performed
+Asia,PSE,Palestine,2020,11,5,2020-11-07,2895.0,,,0.567,0.127,7.9,tests performed
+Asia,PSE,Palestine,2020,11,6,2020-11-08,4427.0,,,0.868,0.124,8.0,tests performed
+Asia,PSE,Palestine,2020,11,0,2020-11-09,5041.0,,,0.988,0.121,8.3,tests performed
+Asia,PSE,Palestine,2020,11,1,2020-11-10,4731.0,,,0.927,0.122,8.2,tests performed
+Asia,PSE,Palestine,2020,11,2,2020-11-11,5106.0,,,1.001,0.123,8.1,tests performed
+Asia,PSE,Palestine,2020,11,3,2020-11-12,4593.0,,,0.9,0.131,7.6,tests performed
+Asia,PSE,Palestine,2020,11,4,2020-11-13,4646.0,,,0.911,0.136,7.3,tests performed
+Asia,PSE,Palestine,2020,11,5,2020-11-14,3922.0,,,0.769,0.139,7.2,tests performed
+Asia,PSE,Palestine,2020,11,6,2020-11-15,4476.0,,,0.877,0.15,6.7,tests performed
+Asia,PSE,Palestine,2020,11,0,2020-11-16,4770.0,,,0.935,0.156,6.4,tests performed
+Asia,PSE,Palestine,2020,11,1,2020-11-17,5389.0,,,1.056,0.168,6.0,tests performed
+Asia,PSE,Palestine,2020,11,2,2020-11-18,6128.0,,,1.201,0.18,5.5,tests performed
+Asia,PSE,Palestine,2020,11,3,2020-11-19,5609.0,,,1.099,0.186,5.4,tests performed
+Asia,PSE,Palestine,2020,11,4,2020-11-20,7256.0,,,1.422,0.193,5.2,tests performed
+Asia,PSE,Palestine,2020,11,5,2020-11-21,5076.0,,,0.995,0.209,4.8,tests performed
+Asia,PSE,Palestine,2020,11,6,2020-11-22,5915.0,,,1.159,0.215,4.7,tests performed
+Asia,PSE,Palestine,2020,11,0,2020-11-23,7189.0,,,1.409,0.219,4.6,tests performed
+Asia,PSE,Palestine,2020,11,1,2020-11-24,6964.0,,,1.365,0.228,4.4,tests performed
+Asia,PSE,Palestine,2020,11,2,2020-11-25,7366.0,,,1.444,0.232,4.3,tests performed
+Asia,PSE,Palestine,2020,11,3,2020-11-26,7642.0,,,1.498,0.236,4.2,tests performed
+Asia,PSE,Palestine,2020,11,4,2020-11-27,7717.0,,,1.513,0.244,4.1,tests performed
+Asia,PSE,Palestine,2020,11,5,2020-11-28,5382.0,,,1.055,0.242,4.1,tests performed
+Asia,PSE,Palestine,2020,11,6,2020-11-29,6380.0,,,1.251,0.245,4.1,tests performed
+Asia,PSE,Palestine,2020,11,0,2020-11-30,8661.0,,,1.698,0.248,4.0,tests performed
+Asia,PSE,Palestine,2020,12,1,2020-12-01,8969.0,,,1.758,0.249,4.0,tests performed
+Asia,PSE,Palestine,2020,12,2,2020-12-02,9567.0,,,1.875,0.248,4.0,tests performed
+Asia,PSE,Palestine,2020,12,3,2020-12-03,9191.0,,,1.802,0.254,3.9,tests performed
+Asia,PSE,Palestine,2020,12,4,2020-12-04,804.0,,,0.158,0.291,3.4,tests performed
+Asia,PSE,Palestine,2020,12,5,2020-12-05,5307.0,,,1.04,0.291,3.4,tests performed
+Asia,PSE,Palestine,2020,12,6,2020-12-06,6051.0,,,1.186,0.298,3.4,tests performed
+Asia,PSE,Palestine,2020,12,0,2020-12-07,8204.0,,,1.608,0.293,3.4,tests performed
+Asia,PSE,Palestine,2020,12,1,2020-12-08,5171.0,,,1.014,0.296,3.4,tests performed
+Asia,PSE,Palestine,2020,12,2,2020-12-09,6672.0,,,1.308,0.309,3.2,tests performed
+Asia,PSE,Palestine,2020,12,3,2020-12-10,6229.0,,,1.221,0.317,3.2,tests performed
+Asia,PSE,Palestine,2020,12,4,2020-12-11,6187.0,,,1.213,0.273,3.7,tests performed
+Asia,PSE,Palestine,2020,12,5,2020-12-12,4469.0,,,0.876,0.279,3.6,tests performed
+Asia,PSE,Palestine,2020,12,6,2020-12-13,5654.0,,,1.108,0.275,3.6,tests performed
+Asia,PSE,Palestine,2020,12,0,2020-12-14,5461.0,,,1.07,0.285,3.5,tests performed
+Asia,PSE,Palestine,2020,12,1,2020-12-15,7296.0,,,1.43,0.293,3.4,tests performed
+Asia,PSE,Palestine,2020,12,2,2020-12-16,6937.0,,,1.36,0.299,3.3,tests performed
+Asia,PSE,Palestine,2020,12,3,2020-12-17,6961.0,,,1.365,0.3,3.3,tests performed
+Asia,PSE,Palestine,2020,12,4,2020-12-18,4954.0,,,0.971,0.311,3.2,tests performed
+Asia,PSE,Palestine,2020,12,5,2020-12-19,4695.0,,,0.92,0.313,3.2,tests performed
+Asia,PSE,Palestine,2020,12,6,2020-12-20,7163.0,,,1.404,0.297,3.4,tests performed
+Asia,PSE,Palestine,2020,12,0,2020-12-21,5458.0,,,1.07,0.295,3.4,tests performed
+Asia,PSE,Palestine,2020,12,1,2020-12-22,6242.0,,,1.224,0.285,3.5,tests performed
+Asia,PSE,Palestine,2020,12,2,2020-12-23,6367.0,,,1.248,0.281,3.6,tests performed
+Asia,PSE,Palestine,2020,12,3,2020-12-24,5879.0,,,1.152,0.278,3.6,tests performed
+Asia,PSE,Palestine,2020,12,4,2020-12-25,6134.0,,,1.202,0.262,3.8,tests performed
+Asia,PSE,Palestine,2020,12,5,2020-12-26,3840.0,,,0.753,0.26,3.8,tests performed
+Asia,PSE,Palestine,2020,12,6,2020-12-27,4723.0,,,0.926,0.27,3.7,tests performed
+Asia,PSE,Palestine,2020,12,0,2020-12-28,5059.0,,,0.992,0.271,3.7,tests performed
+Asia,PSE,Palestine,2020,12,1,2020-12-29,4525.0,,,0.887,0.272,3.7,tests performed
+Asia,PSE,Palestine,2020,12,2,2020-12-30,4936.0,,,0.968,0.267,3.7,tests performed
+Asia,PSE,Palestine,2020,12,3,2020-12-31,5336.0,,,1.046,0.258,3.9,tests performed
+Asia,PSE,Palestine,2021,1,4,2021-01-01,5110.0,,,1.002,0.257,3.9,tests performed
+Asia,PSE,Palestine,2021,1,5,2021-01-02,3225.0,,,0.632,0.255,3.9,tests performed
+Asia,PSE,Palestine,2021,1,6,2021-01-03,4539.0,,,0.89,0.248,4.0,tests performed
+Asia,PSE,Palestine,2021,1,0,2021-01-04,5463.0,,,1.071,0.239,4.2,tests performed
+Asia,PSE,Palestine,2021,1,1,2021-01-05,4211.0,,,0.825,0.235,4.3,tests performed
+Asia,PSE,Palestine,2021,1,2,2021-01-06,5104.0,,,1.001,0.228,4.4,tests performed
+Asia,PSE,Palestine,2021,1,3,2021-01-07,4581.0,,,0.898,0.225,4.4,tests performed
+Asia,PSE,Palestine,2021,1,4,2021-01-08,4007.0,,,0.785,0.22,4.5,tests performed
+Asia,PSE,Palestine,2021,1,5,2021-01-09,2913.0,,,0.571,0.208,4.8,tests performed
+Asia,PSE,Palestine,2021,1,6,2021-01-10,3393.0,,,0.665,0.208,4.8,tests performed
+Asia,PSE,Palestine,2021,1,0,2021-01-11,4609.0,,,0.903,0.206,4.8,tests performed
+Asia,PSE,Palestine,2021,1,1,2021-01-12,4086.0,,,0.801,0.202,4.9,tests performed
+Asia,PSE,Palestine,2021,1,2,2021-01-13,4717.0,,,0.925,0.195,5.1,tests performed
+Asia,PSE,Palestine,2021,1,3,2021-01-14,4286.0,,,0.84,0.188,5.3,tests performed
+Asia,PSE,Palestine,2021,1,4,2021-01-15,4184.0,,,0.82,0.18,5.6,tests performed
+Asia,PSE,Palestine,2021,1,5,2021-01-16,,,,,,,tests performed
+Asia,PSE,Palestine,2021,1,6,2021-01-17,4086.0,,,0.801,,,tests performed
+Asia,PSE,Palestine,2021,1,0,2021-01-18,4013.0,,,0.787,,,tests performed
+Asia,PSE,Palestine,2021,1,1,2021-01-19,3339.0,,,0.655,,,tests performed
+Asia,PSE,Palestine,2021,1,2,2021-01-20,4193.0,,,0.822,,,tests performed
+Asia,PSE,Palestine,2021,1,3,2021-01-21,3692.0,,,0.724,,,tests performed
+Asia,PSE,Palestine,2021,1,4,2021-01-22,4228.0,,,0.829,,,tests performed
+Asia,PSE,Palestine,2021,1,5,2021-01-23,3069.0,,,0.602,0.129,7.7,tests performed
+Asia,PSE,Palestine,2021,1,6,2021-01-24,3979.0,,,0.78,0.128,7.8,tests performed
+Asia,PSE,Palestine,2021,1,0,2021-01-25,4078.0,,,0.799,0.125,8.0,tests performed
+Asia,PSE,Palestine,2021,1,1,2021-01-26,3579.0,,,0.702,0.123,8.1,tests performed
+Asia,PSE,Palestine,2021,1,2,2021-01-27,4355.0,,,0.854,0.126,7.9,tests performed
+Asia,PSE,Palestine,2021,1,3,2021-01-28,4421.0,,,0.867,0.127,7.8,tests performed
+Asia,PSE,Palestine,2021,1,4,2021-01-29,4524.0,,,0.887,0.129,7.8,tests performed
+Asia,PSE,Palestine,2021,1,5,2021-01-30,3001.0,,,0.588,0.127,7.9,tests performed
+Asia,PSE,Palestine,2021,1,6,2021-01-31,3893.0,,,0.763,0.127,7.9,tests performed
+Asia,PSE,Palestine,2021,2,0,2021-02-01,4230.0,,,0.829,0.127,7.9,tests performed
+Asia,PSE,Palestine,2021,2,1,2021-02-02,4835.0,,,0.948,0.122,8.2,tests performed
+Asia,PSE,Palestine,2021,2,2,2021-02-03,4111.0,,,0.806,0.118,8.5,tests performed
+Asia,PSE,Palestine,2021,2,3,2021-02-04,4771.0,,,0.935,0.119,8.4,tests performed
+Asia,PSE,Palestine,2021,2,4,2021-02-05,4252.0,,,0.833,0.117,8.6,tests performed
+Asia,PSE,Palestine,2021,2,5,2021-02-06,2875.0,,,0.564,0.12,8.3,tests performed
+Asia,PSE,Palestine,2021,2,6,2021-02-07,4303.0,,,0.843,0.124,8.1,tests performed
+Asia,PSE,Palestine,2021,2,0,2021-02-08,4533.0,,,0.889,0.127,7.9,tests performed
+Asia,PSE,Palestine,2021,2,1,2021-02-09,4457.0,,,0.874,0.137,7.3,tests performed
+Asia,PSE,Palestine,2021,2,2,2021-02-10,5204.0,,,1.02,0.142,7.1,tests performed
+Asia,PSE,Palestine,2021,2,3,2021-02-11,5471.0,,,1.072,0.143,7.0,tests performed
+Asia,PSE,Palestine,2021,2,4,2021-02-12,5238.0,,,1.027,0.145,6.9,tests performed
+Asia,PSE,Palestine,2021,2,5,2021-02-13,3163.0,,,0.62,0.147,6.8,tests performed
+Asia,PSE,Palestine,2021,2,6,2021-02-14,5177.0,,,1.015,0.15,6.6,tests performed
+Asia,PSE,Palestine,2021,2,0,2021-02-15,5090.0,,,0.998,0.155,6.5,tests performed
+Asia,PSE,Palestine,2021,2,1,2021-02-16,5510.0,,,1.08,0.158,6.3,tests performed
+Asia,PSE,Palestine,2021,2,2,2021-02-17,6022.0,,,1.18,0.162,6.2,tests performed
+Asia,PSE,Palestine,2021,2,3,2021-02-18,4427.0,,,0.868,0.162,6.2,tests performed
+Asia,PSE,Palestine,2021,2,4,2021-02-19,3788.0,,,0.743,0.166,6.0,tests performed
+Asia,PSE,Palestine,2021,2,5,2021-02-20,3618.0,,,0.709,0.164,6.1,tests performed
+Asia,PSE,Palestine,2021,2,6,2021-02-21,5767.0,,,1.13,0.176,5.7,tests performed
+Asia,PSE,Palestine,2021,2,0,2021-02-22,,,,,,,
+Asia,PSE,Palestine,2021,2,1,2021-02-23,,,,,,,
+Asia,PSE,Palestine,2021,2,2,2021-02-24,,,,,,,

@@ -1,0 +1,12 @@
+continent,iso_code,location,year,month,weekday,date,new_tests,total_tests,total_tests_per_thousand,new_tests_per_thousand,positive_rate,tests_per_case,tests_units
+Asia,MAC,Macao,2021,2,0,2021-02-08,,,,,,,
+Asia,MAC,Macao,2021,2,1,2021-02-09,,,,,,,
+Asia,MAC,Macao,2021,2,2,2021-02-10,,,,,,,
+Asia,MAC,Macao,2021,2,3,2021-02-11,,,,,,,
+Asia,MAC,Macao,2021,2,4,2021-02-12,,,,,,,
+Asia,MAC,Macao,2021,2,5,2021-02-13,,,,,,,
+Asia,MAC,Macao,2021,2,6,2021-02-14,,,,,,,
+Asia,MAC,Macao,2021,2,0,2021-02-15,,,,,,,
+Asia,MAC,Macao,2021,2,1,2021-02-16,,,,,,,
+Asia,MAC,Macao,2021,2,2,2021-02-17,,,,,,,
+Asia,MAC,Macao,2021,2,3,2021-02-18,,,,,,,

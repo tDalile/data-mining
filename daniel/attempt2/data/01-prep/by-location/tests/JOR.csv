@@ -1,0 +1,360 @@
+continent,iso_code,location,year,month,weekday,date,new_tests,total_tests,total_tests_per_thousand,new_tests_per_thousand,positive_rate,tests_per_case,tests_units
+Asia,JOR,Jordan,2020,3,1,2020-03-03,,,,,,,
+Asia,JOR,Jordan,2020,3,2,2020-03-04,,,,,,,
+Asia,JOR,Jordan,2020,3,3,2020-03-05,,,,,,,
+Asia,JOR,Jordan,2020,3,4,2020-03-06,,,,,,,
+Asia,JOR,Jordan,2020,3,5,2020-03-07,,,,,,,
+Asia,JOR,Jordan,2020,3,6,2020-03-08,,,,,,,
+Asia,JOR,Jordan,2020,3,0,2020-03-09,,,,,,,
+Asia,JOR,Jordan,2020,3,1,2020-03-10,,,,,,,
+Asia,JOR,Jordan,2020,3,2,2020-03-11,,,,,,,
+Asia,JOR,Jordan,2020,3,3,2020-03-12,,,,,,,
+Asia,JOR,Jordan,2020,3,4,2020-03-13,,,,,,,
+Asia,JOR,Jordan,2020,3,5,2020-03-14,,,,,,,
+Asia,JOR,Jordan,2020,3,6,2020-03-15,,,,,,,
+Asia,JOR,Jordan,2020,3,0,2020-03-16,,,,,,,
+Asia,JOR,Jordan,2020,3,1,2020-03-17,,,,,,,
+Asia,JOR,Jordan,2020,3,2,2020-03-18,,,,,,,
+Asia,JOR,Jordan,2020,3,3,2020-03-19,,,,,,,
+Asia,JOR,Jordan,2020,3,4,2020-03-20,,,,,,,
+Asia,JOR,Jordan,2020,3,5,2020-03-21,,,,,,,
+Asia,JOR,Jordan,2020,3,6,2020-03-22,,,,,,,
+Asia,JOR,Jordan,2020,3,0,2020-03-23,,,,,,,
+Asia,JOR,Jordan,2020,3,1,2020-03-24,,,,,,,
+Asia,JOR,Jordan,2020,3,2,2020-03-25,,,,,,,
+Asia,JOR,Jordan,2020,3,3,2020-03-26,,,,,,,
+Asia,JOR,Jordan,2020,3,4,2020-03-27,,,,,,,
+Asia,JOR,Jordan,2020,3,5,2020-03-28,,,,,,,
+Asia,JOR,Jordan,2020,3,6,2020-03-29,,,,,,,
+Asia,JOR,Jordan,2020,3,0,2020-03-30,,,,,,,
+Asia,JOR,Jordan,2020,3,1,2020-03-31,,,,,,,
+Asia,JOR,Jordan,2020,4,2,2020-04-01,,,,,,,
+Asia,JOR,Jordan,2020,4,3,2020-04-02,,,,,,,
+Asia,JOR,Jordan,2020,4,4,2020-04-03,,,,,,,
+Asia,JOR,Jordan,2020,4,5,2020-04-04,,,,,,,
+Asia,JOR,Jordan,2020,4,6,2020-04-05,,,,,,,
+Asia,JOR,Jordan,2020,4,0,2020-04-06,,,,,,,
+Asia,JOR,Jordan,2020,4,1,2020-04-07,,,,,,,
+Asia,JOR,Jordan,2020,4,2,2020-04-08,,,,,,,
+Asia,JOR,Jordan,2020,4,3,2020-04-09,,,,,,,
+Asia,JOR,Jordan,2020,4,4,2020-04-10,,,,,,,
+Asia,JOR,Jordan,2020,4,5,2020-04-11,,,,,,,
+Asia,JOR,Jordan,2020,4,6,2020-04-12,,,,,,,
+Asia,JOR,Jordan,2020,4,0,2020-04-13,,,,,,,
+Asia,JOR,Jordan,2020,4,1,2020-04-14,,,,,,,
+Asia,JOR,Jordan,2020,4,2,2020-04-15,,,,,,,
+Asia,JOR,Jordan,2020,4,3,2020-04-16,,,,,,,
+Asia,JOR,Jordan,2020,4,4,2020-04-17,,,,,,,
+Asia,JOR,Jordan,2020,4,5,2020-04-18,,,,,,,
+Asia,JOR,Jordan,2020,4,6,2020-04-19,,,,,,,
+Asia,JOR,Jordan,2020,4,0,2020-04-20,,,,,,,
+Asia,JOR,Jordan,2020,4,1,2020-04-21,,,,,,,
+Asia,JOR,Jordan,2020,4,2,2020-04-22,,,,,,,
+Asia,JOR,Jordan,2020,4,3,2020-04-23,,,,,,,
+Asia,JOR,Jordan,2020,4,4,2020-04-24,,,,,,,
+Asia,JOR,Jordan,2020,4,5,2020-04-25,,,,,,,
+Asia,JOR,Jordan,2020,4,6,2020-04-26,,,,,,,
+Asia,JOR,Jordan,2020,4,0,2020-04-27,,,,,,,
+Asia,JOR,Jordan,2020,4,1,2020-04-28,,,,,,,
+Asia,JOR,Jordan,2020,4,2,2020-04-29,,,,,,,
+Asia,JOR,Jordan,2020,4,3,2020-04-30,,,,,,,
+Asia,JOR,Jordan,2020,5,4,2020-05-01,,78885.0,7.731,,,,tests performed
+Asia,JOR,Jordan,2020,5,5,2020-05-02,,,,,,,
+Asia,JOR,Jordan,2020,5,6,2020-05-03,,,,,,,
+Asia,JOR,Jordan,2020,5,0,2020-05-04,,,,,,,
+Asia,JOR,Jordan,2020,5,1,2020-05-05,,,,,,,
+Asia,JOR,Jordan,2020,5,2,2020-05-06,,,,,,,
+Asia,JOR,Jordan,2020,5,3,2020-05-07,,,,,,,
+Asia,JOR,Jordan,2020,5,4,2020-05-08,,,,,,,
+Asia,JOR,Jordan,2020,5,5,2020-05-09,,,,,,,
+Asia,JOR,Jordan,2020,5,6,2020-05-10,,,,,,,
+Asia,JOR,Jordan,2020,5,0,2020-05-11,,,,,,,
+Asia,JOR,Jordan,2020,5,1,2020-05-12,,,,,,,
+Asia,JOR,Jordan,2020,5,2,2020-05-13,,,,,,,
+Asia,JOR,Jordan,2020,5,3,2020-05-14,,,,,,,
+Asia,JOR,Jordan,2020,5,4,2020-05-15,,,,,,,
+Asia,JOR,Jordan,2020,5,5,2020-05-16,,,,,,,
+Asia,JOR,Jordan,2020,5,6,2020-05-17,,,,,,,
+Asia,JOR,Jordan,2020,5,0,2020-05-18,,,,,,,
+Asia,JOR,Jordan,2020,5,1,2020-05-19,,,,,,,
+Asia,JOR,Jordan,2020,5,2,2020-05-20,,,,,,,
+Asia,JOR,Jordan,2020,5,3,2020-05-21,,,,,,,
+Asia,JOR,Jordan,2020,5,4,2020-05-22,,,,,,,
+Asia,JOR,Jordan,2020,5,5,2020-05-23,,,,,,,
+Asia,JOR,Jordan,2020,5,6,2020-05-24,,,,,,,
+Asia,JOR,Jordan,2020,5,0,2020-05-25,,,,,,,
+Asia,JOR,Jordan,2020,5,1,2020-05-26,,,,,,,
+Asia,JOR,Jordan,2020,5,2,2020-05-27,,,,,,,
+Asia,JOR,Jordan,2020,5,3,2020-05-28,,,,,,,
+Asia,JOR,Jordan,2020,5,4,2020-05-29,,,,,,,
+Asia,JOR,Jordan,2020,5,5,2020-05-30,,,,,,,
+Asia,JOR,Jordan,2020,5,6,2020-05-31,,,,,,,
+Asia,JOR,Jordan,2020,6,0,2020-06-01,,,,,,,
+Asia,JOR,Jordan,2020,6,1,2020-06-02,,,,,,,
+Asia,JOR,Jordan,2020,6,2,2020-06-03,,,,,,,
+Asia,JOR,Jordan,2020,6,3,2020-06-04,,,,,,,
+Asia,JOR,Jordan,2020,6,4,2020-06-05,,,,,,,
+Asia,JOR,Jordan,2020,6,5,2020-06-06,,,,,,,
+Asia,JOR,Jordan,2020,6,6,2020-06-07,,,,,,,
+Asia,JOR,Jordan,2020,6,0,2020-06-08,,,,,,,
+Asia,JOR,Jordan,2020,6,1,2020-06-09,,,,,,,
+Asia,JOR,Jordan,2020,6,2,2020-06-10,,,,,,,
+Asia,JOR,Jordan,2020,6,3,2020-06-11,,,,,,,
+Asia,JOR,Jordan,2020,6,4,2020-06-12,,,,,,,
+Asia,JOR,Jordan,2020,6,5,2020-06-13,,,,,,,
+Asia,JOR,Jordan,2020,6,6,2020-06-14,,,,,,,
+Asia,JOR,Jordan,2020,6,0,2020-06-15,,,,,,,
+Asia,JOR,Jordan,2020,6,1,2020-06-16,,,,,,,
+Asia,JOR,Jordan,2020,6,2,2020-06-17,,,,,,,
+Asia,JOR,Jordan,2020,6,3,2020-06-18,,,,,,,
+Asia,JOR,Jordan,2020,6,4,2020-06-19,,,,,,,
+Asia,JOR,Jordan,2020,6,5,2020-06-20,,,,,,,
+Asia,JOR,Jordan,2020,6,6,2020-06-21,,,,,,,
+Asia,JOR,Jordan,2020,6,0,2020-06-22,,,,,,,
+Asia,JOR,Jordan,2020,6,1,2020-06-23,,,,,,,
+Asia,JOR,Jordan,2020,6,2,2020-06-24,,,,,,,
+Asia,JOR,Jordan,2020,6,3,2020-06-25,,,,,,,
+Asia,JOR,Jordan,2020,6,4,2020-06-26,,,,,,,
+Asia,JOR,Jordan,2020,6,5,2020-06-27,,,,,,,
+Asia,JOR,Jordan,2020,6,6,2020-06-28,,,,,,,
+Asia,JOR,Jordan,2020,6,0,2020-06-29,,,,,,,
+Asia,JOR,Jordan,2020,6,1,2020-06-30,,,,,,,
+Asia,JOR,Jordan,2020,7,2,2020-07-01,,,,,,,
+Asia,JOR,Jordan,2020,7,3,2020-07-02,,,,,,,
+Asia,JOR,Jordan,2020,7,4,2020-07-03,,,,,,,
+Asia,JOR,Jordan,2020,7,5,2020-07-04,,,,,,,
+Asia,JOR,Jordan,2020,7,6,2020-07-05,,,,,,,
+Asia,JOR,Jordan,2020,7,0,2020-07-06,,,,,,,
+Asia,JOR,Jordan,2020,7,1,2020-07-07,,,,,,,
+Asia,JOR,Jordan,2020,7,2,2020-07-08,,,,,,,
+Asia,JOR,Jordan,2020,7,3,2020-07-09,,,,,,,
+Asia,JOR,Jordan,2020,7,4,2020-07-10,,,,,,,
+Asia,JOR,Jordan,2020,7,5,2020-07-11,,,,,,,
+Asia,JOR,Jordan,2020,7,6,2020-07-12,,,,,,,
+Asia,JOR,Jordan,2020,7,0,2020-07-13,,,,,,,
+Asia,JOR,Jordan,2020,7,1,2020-07-14,,,,,,,
+Asia,JOR,Jordan,2020,7,2,2020-07-15,,,,,,,
+Asia,JOR,Jordan,2020,7,3,2020-07-16,,,,,,,
+Asia,JOR,Jordan,2020,7,4,2020-07-17,,,,,,,
+Asia,JOR,Jordan,2020,7,5,2020-07-18,,,,,,,
+Asia,JOR,Jordan,2020,7,6,2020-07-19,,,,,,,
+Asia,JOR,Jordan,2020,7,0,2020-07-20,,,,,,,
+Asia,JOR,Jordan,2020,7,1,2020-07-21,,,,,,,
+Asia,JOR,Jordan,2020,7,2,2020-07-22,,,,,,,
+Asia,JOR,Jordan,2020,7,3,2020-07-23,,,,,,,
+Asia,JOR,Jordan,2020,7,4,2020-07-24,,,,,,,
+Asia,JOR,Jordan,2020,7,5,2020-07-25,,,,,,,
+Asia,JOR,Jordan,2020,7,6,2020-07-26,,,,,,,
+Asia,JOR,Jordan,2020,7,0,2020-07-27,,,,,,,
+Asia,JOR,Jordan,2020,7,1,2020-07-28,,,,,,,
+Asia,JOR,Jordan,2020,7,2,2020-07-29,,,,,,,
+Asia,JOR,Jordan,2020,7,3,2020-07-30,,,,,,,
+Asia,JOR,Jordan,2020,7,4,2020-07-31,,,,,,,
+Asia,JOR,Jordan,2020,8,5,2020-08-01,,,,,,,
+Asia,JOR,Jordan,2020,8,6,2020-08-02,,,,,,,
+Asia,JOR,Jordan,2020,8,0,2020-08-03,,,,,,,
+Asia,JOR,Jordan,2020,8,1,2020-08-04,,,,,,,
+Asia,JOR,Jordan,2020,8,2,2020-08-05,,,,,,,
+Asia,JOR,Jordan,2020,8,3,2020-08-06,,,,,,,
+Asia,JOR,Jordan,2020,8,4,2020-08-07,,,,,,,
+Asia,JOR,Jordan,2020,8,5,2020-08-08,,,,,,,
+Asia,JOR,Jordan,2020,8,6,2020-08-09,,,,,,,
+Asia,JOR,Jordan,2020,8,0,2020-08-10,,,,,,,
+Asia,JOR,Jordan,2020,8,1,2020-08-11,,,,,,,
+Asia,JOR,Jordan,2020,8,2,2020-08-12,,,,,,,
+Asia,JOR,Jordan,2020,8,3,2020-08-13,,,,,,,
+Asia,JOR,Jordan,2020,8,4,2020-08-14,,,,,,,
+Asia,JOR,Jordan,2020,8,5,2020-08-15,,,,,,,
+Asia,JOR,Jordan,2020,8,6,2020-08-16,,,,,,,
+Asia,JOR,Jordan,2020,8,0,2020-08-17,,,,,,,
+Asia,JOR,Jordan,2020,8,1,2020-08-18,,,,,,,
+Asia,JOR,Jordan,2020,8,2,2020-08-19,,,,,,,
+Asia,JOR,Jordan,2020,8,3,2020-08-20,,,,,,,
+Asia,JOR,Jordan,2020,8,4,2020-08-21,,,,,,,
+Asia,JOR,Jordan,2020,8,5,2020-08-22,,,,,,,
+Asia,JOR,Jordan,2020,8,6,2020-08-23,,,,,,,
+Asia,JOR,Jordan,2020,8,0,2020-08-24,,,,,,,
+Asia,JOR,Jordan,2020,8,1,2020-08-25,,,,,,,
+Asia,JOR,Jordan,2020,8,2,2020-08-26,,,,,,,
+Asia,JOR,Jordan,2020,8,3,2020-08-27,,,,,,,
+Asia,JOR,Jordan,2020,8,4,2020-08-28,,,,,,,
+Asia,JOR,Jordan,2020,8,5,2020-08-29,,,,,,,
+Asia,JOR,Jordan,2020,8,6,2020-08-30,,,,,,,
+Asia,JOR,Jordan,2020,8,0,2020-08-31,,,,,,,
+Asia,JOR,Jordan,2020,9,1,2020-09-01,,,,,,,
+Asia,JOR,Jordan,2020,9,2,2020-09-02,,,,,,,
+Asia,JOR,Jordan,2020,9,3,2020-09-03,,,,,,,
+Asia,JOR,Jordan,2020,9,4,2020-09-04,,,,,,,
+Asia,JOR,Jordan,2020,9,5,2020-09-05,,,,,,,
+Asia,JOR,Jordan,2020,9,6,2020-09-06,,,,,,,
+Asia,JOR,Jordan,2020,9,0,2020-09-07,,,,,,,
+Asia,JOR,Jordan,2020,9,1,2020-09-08,,,,,,,
+Asia,JOR,Jordan,2020,9,2,2020-09-09,,,,,,,
+Asia,JOR,Jordan,2020,9,3,2020-09-10,,,,,,,
+Asia,JOR,Jordan,2020,9,4,2020-09-11,,,,,,,
+Asia,JOR,Jordan,2020,9,5,2020-09-12,,,,,,,
+Asia,JOR,Jordan,2020,9,6,2020-09-13,,,,,,,
+Asia,JOR,Jordan,2020,9,0,2020-09-14,,,,,,,
+Asia,JOR,Jordan,2020,9,1,2020-09-15,,,,,,,
+Asia,JOR,Jordan,2020,9,2,2020-09-16,,,,,,,
+Asia,JOR,Jordan,2020,9,3,2020-09-17,,,,,,,
+Asia,JOR,Jordan,2020,9,4,2020-09-18,,,,,,,
+Asia,JOR,Jordan,2020,9,5,2020-09-19,,,,,,,
+Asia,JOR,Jordan,2020,9,6,2020-09-20,,,,,,,
+Asia,JOR,Jordan,2020,9,0,2020-09-21,,,,,,,
+Asia,JOR,Jordan,2020,9,1,2020-09-22,,,,,,,
+Asia,JOR,Jordan,2020,9,2,2020-09-23,,,,,,,
+Asia,JOR,Jordan,2020,9,3,2020-09-24,,,,,,,
+Asia,JOR,Jordan,2020,9,4,2020-09-25,,,,,,,
+Asia,JOR,Jordan,2020,9,5,2020-09-26,,,,,,,
+Asia,JOR,Jordan,2020,9,6,2020-09-27,,,,,,,
+Asia,JOR,Jordan,2020,9,0,2020-09-28,,,,,,,
+Asia,JOR,Jordan,2020,9,1,2020-09-29,,,,,,,
+Asia,JOR,Jordan,2020,9,2,2020-09-30,,,,,,,
+Asia,JOR,Jordan,2020,10,3,2020-10-01,,,,,,,
+Asia,JOR,Jordan,2020,10,4,2020-10-02,,,,,,,
+Asia,JOR,Jordan,2020,10,5,2020-10-03,,,,,,,
+Asia,JOR,Jordan,2020,10,6,2020-10-04,,,,,,,
+Asia,JOR,Jordan,2020,10,0,2020-10-05,,,,,,,
+Asia,JOR,Jordan,2020,10,1,2020-10-06,,,,,,,
+Asia,JOR,Jordan,2020,10,2,2020-10-07,,,,,,,
+Asia,JOR,Jordan,2020,10,3,2020-10-08,,,,,,,
+Asia,JOR,Jordan,2020,10,4,2020-10-09,,,,,,,
+Asia,JOR,Jordan,2020,10,5,2020-10-10,,,,,,,
+Asia,JOR,Jordan,2020,10,6,2020-10-11,,,,,,,
+Asia,JOR,Jordan,2020,10,0,2020-10-12,,,,,,,
+Asia,JOR,Jordan,2020,10,1,2020-10-13,,,,,,,
+Asia,JOR,Jordan,2020,10,2,2020-10-14,,,,,,,
+Asia,JOR,Jordan,2020,10,3,2020-10-15,,,,,,,
+Asia,JOR,Jordan,2020,10,4,2020-10-16,,,,,,,
+Asia,JOR,Jordan,2020,10,5,2020-10-17,,,,,,,
+Asia,JOR,Jordan,2020,10,6,2020-10-18,,,,,,,
+Asia,JOR,Jordan,2020,10,0,2020-10-19,,,,,,,
+Asia,JOR,Jordan,2020,10,1,2020-10-20,,,,,,,
+Asia,JOR,Jordan,2020,10,2,2020-10-21,,,,,,,
+Asia,JOR,Jordan,2020,10,3,2020-10-22,,,,,,,
+Asia,JOR,Jordan,2020,10,4,2020-10-23,,,,,,,
+Asia,JOR,Jordan,2020,10,5,2020-10-24,,,,,,,
+Asia,JOR,Jordan,2020,10,6,2020-10-25,,,,,,,
+Asia,JOR,Jordan,2020,10,0,2020-10-26,,,,,,,
+Asia,JOR,Jordan,2020,10,1,2020-10-27,,,,,,,
+Asia,JOR,Jordan,2020,10,2,2020-10-28,,,,,,,
+Asia,JOR,Jordan,2020,10,3,2020-10-29,,,,,,,
+Asia,JOR,Jordan,2020,10,4,2020-10-30,,,,,,,
+Asia,JOR,Jordan,2020,10,5,2020-10-31,22513.0,1860367.0,182.333,2.206,,,tests performed
+Asia,JOR,Jordan,2020,11,6,2020-11-01,19588.0,1879955.0,184.253,1.92,,,tests performed
+Asia,JOR,Jordan,2020,11,0,2020-11-02,33846.0,1913801.0,187.57,3.317,,,tests performed
+Asia,JOR,Jordan,2020,11,1,2020-11-03,20887.0,1934688.0,189.617,2.047,,,tests performed
+Asia,JOR,Jordan,2020,11,2,2020-11-04,20737.0,1955425.0,191.649,2.032,,,tests performed
+Asia,JOR,Jordan,2020,11,3,2020-11-05,25258.0,1980683.0,194.125,2.476,,,tests performed
+Asia,JOR,Jordan,2020,11,4,2020-11-06,23306.0,2003989.0,196.409,2.284,,,tests performed
+Asia,JOR,Jordan,2020,11,5,2020-11-07,13642.0,2017631.0,197.746,1.337,0.205,4.9,tests performed
+Asia,JOR,Jordan,2020,11,6,2020-11-08,23056.0,2040687.0,200.006,2.26,0.208,4.8,tests performed
+Asia,JOR,Jordan,2020,11,0,2020-11-09,27689.0,2068376.0,202.72,2.714,0.215,4.6,tests performed
+Asia,JOR,Jordan,2020,11,1,2020-11-10,27324.0,2095700.0,205.398,2.678,0.214,4.7,tests performed
+Asia,JOR,Jordan,2020,11,2,2020-11-11,21342.0,2117042.0,207.489,2.092,0.218,4.6,tests performed
+Asia,JOR,Jordan,2020,11,3,2020-11-12,24128.0,2141170.0,209.854,2.365,0.226,4.4,tests performed
+Asia,JOR,Jordan,2020,11,4,2020-11-13,16771.0,2157941.0,211.498,1.644,0.229,4.4,tests performed
+Asia,JOR,Jordan,2020,11,5,2020-11-14,16502.0,2174443.0,213.115,1.617,0.233,4.3,tests performed
+Asia,JOR,Jordan,2020,11,6,2020-11-15,9583.0,2184026.0,214.054,0.939,0.24,4.2,tests performed
+Asia,JOR,Jordan,2020,11,0,2020-11-16,26475.0,2210501.0,216.649,2.595,0.243,4.1,tests performed
+Asia,JOR,Jordan,2020,11,1,2020-11-17,27441.0,2237942.0,219.339,2.689,0.246,4.1,tests performed
+Asia,JOR,Jordan,2020,11,2,2020-11-18,30792.0,2268734.0,222.356,3.018,0.247,4.0,tests performed
+Asia,JOR,Jordan,2020,11,3,2020-11-19,24210.0,2292944.0,224.729,2.373,0.246,4.1,tests performed
+Asia,JOR,Jordan,2020,11,4,2020-11-20,22814.0,2315758.0,226.965,2.236,0.239,4.2,tests performed
+Asia,JOR,Jordan,2020,11,5,2020-11-21,18518.0,2334276.0,228.78,1.815,0.231,4.3,tests performed
+Asia,JOR,Jordan,2020,11,6,2020-11-22,23953.0,2358229.0,231.128,2.348,0.228,4.4,tests performed
+Asia,JOR,Jordan,2020,11,0,2020-11-23,25349.0,2383578.0,233.612,2.484,0.225,4.5,tests performed
+Asia,JOR,Jordan,2020,11,1,2020-11-24,24664.0,2408242.0,236.029,2.417,0.217,4.6,tests performed
+Asia,JOR,Jordan,2020,11,2,2020-11-25,27098.0,2435340.0,238.685,2.656,0.205,4.9,tests performed
+Asia,JOR,Jordan,2020,11,3,2020-11-26,25964.0,2461304.0,241.23,2.545,0.2,5.0,tests performed
+Asia,JOR,Jordan,2020,11,4,2020-11-27,26257.0,2487561.0,243.803,2.573,0.194,5.2,tests performed
+Asia,JOR,Jordan,2020,11,5,2020-11-28,17755.0,2505316.0,245.544,1.74,0.19,5.3,tests performed
+Asia,JOR,Jordan,2020,11,6,2020-11-29,20676.0,2525992.0,247.57,2.026,0.184,5.4,tests performed
+Asia,JOR,Jordan,2020,11,0,2020-11-30,25239.0,2551231.0,250.044,2.474,0.185,5.4,tests performed
+Asia,JOR,Jordan,2020,12,1,2020-12-01,26050.0,2577281.0,252.597,2.553,0.181,5.5,tests performed
+Asia,JOR,Jordan,2020,12,2,2020-12-02,24615.0,2601896.0,255.009,2.412,0.175,5.7,tests performed
+Asia,JOR,Jordan,2020,12,3,2020-12-03,25260.0,2627156.0,257.485,2.476,0.17,5.9,tests performed
+Asia,JOR,Jordan,2020,12,4,2020-12-04,21761.0,2648917.0,259.618,2.133,0.166,6.0,tests performed
+Asia,JOR,Jordan,2020,12,5,2020-12-05,18624.0,2667541.0,261.443,1.825,0.165,6.1,tests performed
+Asia,JOR,Jordan,2020,12,6,2020-12-06,16979.0,2684520.0,263.107,1.664,0.163,6.1,tests performed
+Asia,JOR,Jordan,2020,12,0,2020-12-07,25051.0,2709571.0,265.562,2.455,0.156,6.4,tests performed
+Asia,JOR,Jordan,2020,12,1,2020-12-08,22308.0,2731879.0,267.749,2.186,0.152,6.6,tests performed
+Asia,JOR,Jordan,2020,12,2,2020-12-09,23420.0,2755299.0,270.044,2.295,0.15,6.7,tests performed
+Asia,JOR,Jordan,2020,12,3,2020-12-10,,,,,0.147,6.8,tests performed
+Asia,JOR,Jordan,2020,12,4,2020-12-11,19225.0,2797026.0,274.134,1.884,0.143,7.0,tests performed
+Asia,JOR,Jordan,2020,12,5,2020-12-12,13268.0,2810294.0,275.434,1.3,0.138,7.2,tests performed
+Asia,JOR,Jordan,2020,12,6,2020-12-13,18712.0,2829006.0,277.268,1.834,0.135,7.4,tests performed
+Asia,JOR,Jordan,2020,12,0,2020-12-14,21717.0,2850723.0,279.397,2.128,0.13,7.7,tests performed
+Asia,JOR,Jordan,2020,12,1,2020-12-15,20827.0,2871550.0,281.438,2.041,0.128,7.8,tests performed
+Asia,JOR,Jordan,2020,12,2,2020-12-16,22540.0,2894090.0,283.647,2.209,0.125,8.0,tests performed
+Asia,JOR,Jordan,2020,12,3,2020-12-17,21176.0,2915266.0,285.722,2.075,0.12,8.3,tests performed
+Asia,JOR,Jordan,2020,12,4,2020-12-18,17735.0,2933001.0,287.461,1.738,0.118,8.5,tests performed
+Asia,JOR,Jordan,2020,12,5,2020-12-19,11336.0,2944337.0,288.572,1.111,0.116,8.6,tests performed
+Asia,JOR,Jordan,2020,12,6,2020-12-20,18536.0,2962873.0,290.388,1.817,0.115,8.7,tests performed
+Asia,JOR,Jordan,2020,12,0,2020-12-21,20215.0,2983088.0,292.37,1.981,0.113,8.8,tests performed
+Asia,JOR,Jordan,2020,12,1,2020-12-22,19085.0,3002173.0,294.24,1.871,0.114,8.8,tests performed
+Asia,JOR,Jordan,2020,12,2,2020-12-23,20453.0,3022626.0,296.245,2.005,0.112,8.9,tests performed
+Asia,JOR,Jordan,2020,12,3,2020-12-24,17716.0,3040342.0,297.981,1.736,0.111,9.0,tests performed
+Asia,JOR,Jordan,2020,12,4,2020-12-25,16827.0,3057169.0,299.63,1.649,0.111,9.0,tests performed
+Asia,JOR,Jordan,2020,12,5,2020-12-26,11123.0,3068292.0,300.72,1.09,0.109,9.1,tests performed
+Asia,JOR,Jordan,2020,12,6,2020-12-27,15041.0,3083333.0,302.195,1.474,0.108,9.3,tests performed
+Asia,JOR,Jordan,2020,12,0,2020-12-28,21124.0,3104457.0,304.265,2.07,0.101,9.9,tests performed
+Asia,JOR,Jordan,2020,12,1,2020-12-29,21735.0,3126192.0,306.395,2.13,0.093,10.8,tests performed
+Asia,JOR,Jordan,2020,12,2,2020-12-30,25933.0,3152125.0,308.937,2.542,0.086,11.7,tests performed
+Asia,JOR,Jordan,2020,12,3,2020-12-31,23430.0,3175555.0,311.233,2.296,0.08,12.5,tests performed
+Asia,JOR,Jordan,2021,1,4,2021-01-01,21313.0,3196868.0,313.322,2.089,0.075,13.4,tests performed
+Asia,JOR,Jordan,2021,1,5,2021-01-02,14498.0,3211366.0,314.743,1.421,0.072,13.9,tests performed
+Asia,JOR,Jordan,2021,1,6,2021-01-03,20893.0,3232259.0,316.791,2.048,0.069,14.5,tests performed
+Asia,JOR,Jordan,2021,1,0,2021-01-04,27777.0,3260036.0,319.513,2.722,0.065,15.4,tests performed
+Asia,JOR,Jordan,2021,1,1,2021-01-05,26985.0,3287021.0,322.158,2.645,0.062,16.2,tests performed
+Asia,JOR,Jordan,2021,1,2,2021-01-06,29594.0,3316615.0,325.058,2.9,0.06,16.8,tests performed
+Asia,JOR,Jordan,2021,1,3,2021-01-07,29327.0,3345942.0,327.933,2.874,0.056,17.8,tests performed
+Asia,JOR,Jordan,2021,1,4,2021-01-08,24350.0,3370292.0,330.319,2.387,0.054,18.5,tests performed
+Asia,JOR,Jordan,2021,1,5,2021-01-09,16815.0,3387107.0,331.967,1.648,0.053,18.9,tests performed
+Asia,JOR,Jordan,2021,1,6,2021-01-10,24560.0,3411667.0,334.374,2.407,0.05,19.9,tests performed
+Asia,JOR,Jordan,2021,1,0,2021-01-11,27279.0,3438946.0,337.048,2.674,0.049,20.2,tests performed
+Asia,JOR,Jordan,2021,1,1,2021-01-12,24238.0,3463184.0,339.423,2.376,0.048,20.6,tests performed
+Asia,JOR,Jordan,2021,1,2,2021-01-13,26934.0,3490118.0,342.063,2.64,0.047,21.4,tests performed
+Asia,JOR,Jordan,2021,1,3,2021-01-14,25014.0,3515132.0,344.515,2.452,0.047,21.2,tests performed
+Asia,JOR,Jordan,2021,1,4,2021-01-15,19541.0,3534673.0,346.43,1.915,0.047,21.4,tests performed
+Asia,JOR,Jordan,2021,1,5,2021-01-16,17738.0,3552411.0,348.168,1.738,0.046,21.8,tests performed
+Asia,JOR,Jordan,2021,1,6,2021-01-17,19623.0,3572034.0,350.092,1.923,0.046,22.0,tests performed
+Asia,JOR,Jordan,2021,1,0,2021-01-18,22271.0,3594305.0,352.274,2.183,0.044,22.6,tests performed
+Asia,JOR,Jordan,2021,1,1,2021-01-19,21930.0,3616235.0,354.424,2.149,0.043,23.3,tests performed
+Asia,JOR,Jordan,2021,1,2,2021-01-20,23315.0,3639550.0,356.709,2.285,0.043,23.2,tests performed
+Asia,JOR,Jordan,2021,1,3,2021-01-21,20409.0,3659959.0,358.709,2.0,0.042,23.6,tests performed
+Asia,JOR,Jordan,2021,1,4,2021-01-22,18372.0,3678331.0,360.51,1.801,0.042,23.7,tests performed
+Asia,JOR,Jordan,2021,1,5,2021-01-23,13019.0,3691350.0,361.786,1.276,0.043,23.3,tests performed
+Asia,JOR,Jordan,2021,1,6,2021-01-24,19808.0,3711158.0,363.727,1.941,0.043,23.4,tests performed
+Asia,JOR,Jordan,2021,1,0,2021-01-25,23980.0,3735138.0,366.077,2.35,0.041,24.5,tests performed
+Asia,JOR,Jordan,2021,1,1,2021-01-26,24332.0,3759470.0,368.462,2.385,0.041,24.6,tests performed
+Asia,JOR,Jordan,2021,1,2,2021-01-27,24763.0,3784233.0,370.889,2.427,0.039,25.4,tests performed
+Asia,JOR,Jordan,2021,1,3,2021-01-28,22716.0,3806949.0,373.115,2.226,0.041,24.5,tests performed
+Asia,JOR,Jordan,2021,1,4,2021-01-29,22359.0,3829308.0,375.307,2.191,0.041,24.7,tests performed
+Asia,JOR,Jordan,2021,1,5,2021-01-30,15605.0,3844913.0,376.836,1.529,0.04,24.9,tests performed
+Asia,JOR,Jordan,2021,1,6,2021-01-31,21270.0,3866183.0,378.921,2.085,0.041,24.2,tests performed
+Asia,JOR,Jordan,2021,2,0,2021-02-01,24002.0,3890185.0,381.273,2.352,0.044,22.9,tests performed
+Asia,JOR,Jordan,2021,2,1,2021-02-02,23585.0,3913770.0,383.585,2.312,0.045,22.2,tests performed
+Asia,JOR,Jordan,2021,2,2,2021-02-03,22315.0,3936085.0,385.772,2.187,0.048,20.6,tests performed
+Asia,JOR,Jordan,2021,2,3,2021-02-04,26830.0,3962915.0,388.402,2.63,0.049,20.5,tests performed
+Asia,JOR,Jordan,2021,2,4,2021-02-05,21311.0,3984226.0,390.49,2.089,0.051,19.5,tests performed
+Asia,JOR,Jordan,2021,2,5,2021-02-06,20703.0,4004929.0,392.519,2.029,0.051,19.6,tests performed
+Asia,JOR,Jordan,2021,2,6,2021-02-07,21142.0,4026071.0,394.591,2.072,0.052,19.3,tests performed
+Asia,JOR,Jordan,2021,2,0,2021-02-08,26723.0,4052794.0,397.21,2.619,0.054,18.5,tests performed
+Asia,JOR,Jordan,2021,2,1,2021-02-09,24854.0,4077648.0,399.646,2.436,0.056,18.0,tests performed
+Asia,JOR,Jordan,2021,2,2,2021-02-10,29541.0,4107189.0,402.542,2.895,0.057,17.6,tests performed
+Asia,JOR,Jordan,2021,2,3,2021-02-11,27660.0,4134849.0,405.253,2.711,0.059,16.8,tests performed
+Asia,JOR,Jordan,2021,2,4,2021-02-12,24501.0,4159350.0,407.654,2.401,0.06,16.6,tests performed
+Asia,JOR,Jordan,2021,2,5,2021-02-13,19571.0,4178921.0,409.572,1.918,0.063,15.9,tests performed
+Asia,JOR,Jordan,2021,2,6,2021-02-14,26313.0,4205234.0,412.151,2.579,0.068,14.8,tests performed
+Asia,JOR,Jordan,2021,2,0,2021-02-15,29225.0,4234459.0,415.015,2.864,0.07,14.3,tests performed
+Asia,JOR,Jordan,2021,2,1,2021-02-16,32347.0,4266806.0,418.186,3.17,0.073,13.6,tests performed
+Asia,JOR,Jordan,2021,2,2,2021-02-17,32850.0,4299656.0,421.405,3.22,0.078,12.9,tests performed
+Asia,JOR,Jordan,2021,2,3,2021-02-18,16133.0,4315789.0,422.986,1.581,0.082,12.3,tests performed
+Asia,JOR,Jordan,2021,2,4,2021-02-19,12421.0,4328210.0,424.204,1.217,0.083,12.0,tests performed
+Asia,JOR,Jordan,2021,2,5,2021-02-20,,,,,,,
+Asia,JOR,Jordan,2021,2,6,2021-02-21,,,,,,,
+Asia,JOR,Jordan,2021,2,0,2021-02-22,,,,,,,
+Asia,JOR,Jordan,2021,2,1,2021-02-23,,,,,,,
+Asia,JOR,Jordan,2021,2,2,2021-02-24,,,,,,,

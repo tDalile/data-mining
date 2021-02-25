@@ -1,0 +1,353 @@
+continent,iso_code,location,year,month,weekday,date,new_tests,total_tests,total_tests_per_thousand,new_tests_per_thousand,positive_rate,tests_per_case,tests_units
+Asia,MNG,Mongolia,2020,3,1,2020-03-10,,,,,,,
+Asia,MNG,Mongolia,2020,3,2,2020-03-11,,,,,,,
+Asia,MNG,Mongolia,2020,3,3,2020-03-12,,,,,,,
+Asia,MNG,Mongolia,2020,3,4,2020-03-13,,,,,,,
+Asia,MNG,Mongolia,2020,3,5,2020-03-14,,,,,,,
+Asia,MNG,Mongolia,2020,3,6,2020-03-15,,,,,,,
+Asia,MNG,Mongolia,2020,3,0,2020-03-16,,,,,,,
+Asia,MNG,Mongolia,2020,3,1,2020-03-17,,,,,,,
+Asia,MNG,Mongolia,2020,3,2,2020-03-18,,,,,,,
+Asia,MNG,Mongolia,2020,3,3,2020-03-19,,,,,,,
+Asia,MNG,Mongolia,2020,3,4,2020-03-20,,,,,,,
+Asia,MNG,Mongolia,2020,3,5,2020-03-21,,,,,,,
+Asia,MNG,Mongolia,2020,3,6,2020-03-22,,,,,,,
+Asia,MNG,Mongolia,2020,3,0,2020-03-23,,,,,,,
+Asia,MNG,Mongolia,2020,3,1,2020-03-24,,,,,,,
+Asia,MNG,Mongolia,2020,3,2,2020-03-25,,,,,,,
+Asia,MNG,Mongolia,2020,3,3,2020-03-26,,,,,,,
+Asia,MNG,Mongolia,2020,3,4,2020-03-27,,,,,,,
+Asia,MNG,Mongolia,2020,3,5,2020-03-28,,,,,,,
+Asia,MNG,Mongolia,2020,3,6,2020-03-29,,,,,,,
+Asia,MNG,Mongolia,2020,3,0,2020-03-30,,,,,,,
+Asia,MNG,Mongolia,2020,3,1,2020-03-31,,,,,,,
+Asia,MNG,Mongolia,2020,4,2,2020-04-01,,,,,,,
+Asia,MNG,Mongolia,2020,4,3,2020-04-02,,,,,,,
+Asia,MNG,Mongolia,2020,4,4,2020-04-03,,,,,,,
+Asia,MNG,Mongolia,2020,4,5,2020-04-04,,,,,,,
+Asia,MNG,Mongolia,2020,4,6,2020-04-05,,,,,,,
+Asia,MNG,Mongolia,2020,4,0,2020-04-06,,,,,,,
+Asia,MNG,Mongolia,2020,4,1,2020-04-07,,,,,,,
+Asia,MNG,Mongolia,2020,4,2,2020-04-08,,,,,,,
+Asia,MNG,Mongolia,2020,4,3,2020-04-09,,,,,,,
+Asia,MNG,Mongolia,2020,4,4,2020-04-10,,,,,,,
+Asia,MNG,Mongolia,2020,4,5,2020-04-11,,,,,,,
+Asia,MNG,Mongolia,2020,4,6,2020-04-12,,,,,,,
+Asia,MNG,Mongolia,2020,4,0,2020-04-13,,,,,,,
+Asia,MNG,Mongolia,2020,4,1,2020-04-14,,,,,,,
+Asia,MNG,Mongolia,2020,4,2,2020-04-15,,,,,,,
+Asia,MNG,Mongolia,2020,4,3,2020-04-16,,,,,,,
+Asia,MNG,Mongolia,2020,4,4,2020-04-17,,,,,,,
+Asia,MNG,Mongolia,2020,4,5,2020-04-18,,,,,,,
+Asia,MNG,Mongolia,2020,4,6,2020-04-19,,,,,,,
+Asia,MNG,Mongolia,2020,4,0,2020-04-20,,,,,,,
+Asia,MNG,Mongolia,2020,4,1,2020-04-21,,,,,,,
+Asia,MNG,Mongolia,2020,4,2,2020-04-22,,,,,,,
+Asia,MNG,Mongolia,2020,4,3,2020-04-23,,,,,,,
+Asia,MNG,Mongolia,2020,4,4,2020-04-24,,,,,,,
+Asia,MNG,Mongolia,2020,4,5,2020-04-25,,,,,,,
+Asia,MNG,Mongolia,2020,4,6,2020-04-26,,,,,,,
+Asia,MNG,Mongolia,2020,4,0,2020-04-27,,,,,,,
+Asia,MNG,Mongolia,2020,4,1,2020-04-28,,,,,,,
+Asia,MNG,Mongolia,2020,4,2,2020-04-29,,,,,,,
+Asia,MNG,Mongolia,2020,4,3,2020-04-30,,,,,,,
+Asia,MNG,Mongolia,2020,5,4,2020-05-01,,,,,,,
+Asia,MNG,Mongolia,2020,5,5,2020-05-02,,,,,,,
+Asia,MNG,Mongolia,2020,5,6,2020-05-03,,,,,,,
+Asia,MNG,Mongolia,2020,5,0,2020-05-04,,,,,,,
+Asia,MNG,Mongolia,2020,5,1,2020-05-05,,,,,,,
+Asia,MNG,Mongolia,2020,5,2,2020-05-06,,,,,,,
+Asia,MNG,Mongolia,2020,5,3,2020-05-07,,,,,,,
+Asia,MNG,Mongolia,2020,5,4,2020-05-08,,,,,,,
+Asia,MNG,Mongolia,2020,5,5,2020-05-09,,,,,,,
+Asia,MNG,Mongolia,2020,5,6,2020-05-10,,,,,,,
+Asia,MNG,Mongolia,2020,5,0,2020-05-11,,,,,,,
+Asia,MNG,Mongolia,2020,5,1,2020-05-12,,,,,,,
+Asia,MNG,Mongolia,2020,5,2,2020-05-13,,,,,,,
+Asia,MNG,Mongolia,2020,5,3,2020-05-14,,,,,,,
+Asia,MNG,Mongolia,2020,5,4,2020-05-15,,,,,,,
+Asia,MNG,Mongolia,2020,5,5,2020-05-16,,,,,,,
+Asia,MNG,Mongolia,2020,5,6,2020-05-17,,,,,,,
+Asia,MNG,Mongolia,2020,5,0,2020-05-18,,,,,,,
+Asia,MNG,Mongolia,2020,5,1,2020-05-19,,,,,,,
+Asia,MNG,Mongolia,2020,5,2,2020-05-20,,,,,,,
+Asia,MNG,Mongolia,2020,5,3,2020-05-21,,,,,,,
+Asia,MNG,Mongolia,2020,5,4,2020-05-22,,,,,,,
+Asia,MNG,Mongolia,2020,5,5,2020-05-23,,,,,,,
+Asia,MNG,Mongolia,2020,5,6,2020-05-24,,,,,,,
+Asia,MNG,Mongolia,2020,5,0,2020-05-25,,,,,,,
+Asia,MNG,Mongolia,2020,5,1,2020-05-26,,,,,,,
+Asia,MNG,Mongolia,2020,5,2,2020-05-27,,,,,,,
+Asia,MNG,Mongolia,2020,5,3,2020-05-28,,,,,,,
+Asia,MNG,Mongolia,2020,5,4,2020-05-29,,,,,,,
+Asia,MNG,Mongolia,2020,5,5,2020-05-30,,,,,,,
+Asia,MNG,Mongolia,2020,5,6,2020-05-31,,,,,,,
+Asia,MNG,Mongolia,2020,6,0,2020-06-01,,,,,,,
+Asia,MNG,Mongolia,2020,6,1,2020-06-02,,,,,,,
+Asia,MNG,Mongolia,2020,6,2,2020-06-03,,,,,,,
+Asia,MNG,Mongolia,2020,6,3,2020-06-04,,,,,,,
+Asia,MNG,Mongolia,2020,6,4,2020-06-05,,,,,,,
+Asia,MNG,Mongolia,2020,6,5,2020-06-06,,,,,,,
+Asia,MNG,Mongolia,2020,6,6,2020-06-07,,,,,,,
+Asia,MNG,Mongolia,2020,6,0,2020-06-08,,,,,,,
+Asia,MNG,Mongolia,2020,6,1,2020-06-09,,,,,,,
+Asia,MNG,Mongolia,2020,6,2,2020-06-10,,,,,,,
+Asia,MNG,Mongolia,2020,6,3,2020-06-11,,,,,,,
+Asia,MNG,Mongolia,2020,6,4,2020-06-12,,,,,,,
+Asia,MNG,Mongolia,2020,6,5,2020-06-13,,,,,,,
+Asia,MNG,Mongolia,2020,6,6,2020-06-14,,,,,,,
+Asia,MNG,Mongolia,2020,6,0,2020-06-15,,,,,,,
+Asia,MNG,Mongolia,2020,6,1,2020-06-16,,,,,,,
+Asia,MNG,Mongolia,2020,6,2,2020-06-17,,,,,,,
+Asia,MNG,Mongolia,2020,6,3,2020-06-18,,,,,,,
+Asia,MNG,Mongolia,2020,6,4,2020-06-19,,,,,,,
+Asia,MNG,Mongolia,2020,6,5,2020-06-20,,,,,,,
+Asia,MNG,Mongolia,2020,6,6,2020-06-21,,,,,,,
+Asia,MNG,Mongolia,2020,6,0,2020-06-22,,,,,,,
+Asia,MNG,Mongolia,2020,6,1,2020-06-23,,,,,,,
+Asia,MNG,Mongolia,2020,6,2,2020-06-24,,,,,,,
+Asia,MNG,Mongolia,2020,6,3,2020-06-25,,,,,,,
+Asia,MNG,Mongolia,2020,6,4,2020-06-26,,,,,,,
+Asia,MNG,Mongolia,2020,6,5,2020-06-27,,,,,,,
+Asia,MNG,Mongolia,2020,6,6,2020-06-28,,,,,,,
+Asia,MNG,Mongolia,2020,6,0,2020-06-29,,,,,,,
+Asia,MNG,Mongolia,2020,6,1,2020-06-30,,,,,,,
+Asia,MNG,Mongolia,2020,7,2,2020-07-01,,,,,,,
+Asia,MNG,Mongolia,2020,7,3,2020-07-02,,,,,,,
+Asia,MNG,Mongolia,2020,7,4,2020-07-03,,,,,,,
+Asia,MNG,Mongolia,2020,7,5,2020-07-04,,,,,,,
+Asia,MNG,Mongolia,2020,7,6,2020-07-05,,,,,,,
+Asia,MNG,Mongolia,2020,7,0,2020-07-06,,,,,,,
+Asia,MNG,Mongolia,2020,7,1,2020-07-07,,,,,,,
+Asia,MNG,Mongolia,2020,7,2,2020-07-08,,,,,,,
+Asia,MNG,Mongolia,2020,7,3,2020-07-09,,,,,,,
+Asia,MNG,Mongolia,2020,7,4,2020-07-10,,,,,,,
+Asia,MNG,Mongolia,2020,7,5,2020-07-11,,,,,,,
+Asia,MNG,Mongolia,2020,7,6,2020-07-12,,,,,,,
+Asia,MNG,Mongolia,2020,7,0,2020-07-13,,,,,,,
+Asia,MNG,Mongolia,2020,7,1,2020-07-14,,,,,,,
+Asia,MNG,Mongolia,2020,7,2,2020-07-15,,,,,,,
+Asia,MNG,Mongolia,2020,7,3,2020-07-16,,,,,,,
+Asia,MNG,Mongolia,2020,7,4,2020-07-17,,,,,,,
+Asia,MNG,Mongolia,2020,7,5,2020-07-18,,,,,,,
+Asia,MNG,Mongolia,2020,7,6,2020-07-19,,,,,,,
+Asia,MNG,Mongolia,2020,7,0,2020-07-20,,,,,,,
+Asia,MNG,Mongolia,2020,7,1,2020-07-21,,,,,,,
+Asia,MNG,Mongolia,2020,7,2,2020-07-22,,,,,,,
+Asia,MNG,Mongolia,2020,7,3,2020-07-23,,,,,,,
+Asia,MNG,Mongolia,2020,7,4,2020-07-24,,,,,,,
+Asia,MNG,Mongolia,2020,7,5,2020-07-25,,,,,,,
+Asia,MNG,Mongolia,2020,7,6,2020-07-26,,,,,,,
+Asia,MNG,Mongolia,2020,7,0,2020-07-27,,,,,,,
+Asia,MNG,Mongolia,2020,7,1,2020-07-28,,,,,,,
+Asia,MNG,Mongolia,2020,7,2,2020-07-29,,,,,,,
+Asia,MNG,Mongolia,2020,7,3,2020-07-30,,,,,,,
+Asia,MNG,Mongolia,2020,7,4,2020-07-31,,,,,,,
+Asia,MNG,Mongolia,2020,8,5,2020-08-01,,,,,,,
+Asia,MNG,Mongolia,2020,8,6,2020-08-02,,,,,,,
+Asia,MNG,Mongolia,2020,8,0,2020-08-03,,,,,,,
+Asia,MNG,Mongolia,2020,8,1,2020-08-04,,,,,,,
+Asia,MNG,Mongolia,2020,8,2,2020-08-05,,,,,,,
+Asia,MNG,Mongolia,2020,8,3,2020-08-06,,,,,,,
+Asia,MNG,Mongolia,2020,8,4,2020-08-07,,,,,,,
+Asia,MNG,Mongolia,2020,8,5,2020-08-08,,,,,,,
+Asia,MNG,Mongolia,2020,8,6,2020-08-09,,,,,,,
+Asia,MNG,Mongolia,2020,8,0,2020-08-10,,,,,,,
+Asia,MNG,Mongolia,2020,8,1,2020-08-11,,,,,,,
+Asia,MNG,Mongolia,2020,8,2,2020-08-12,,,,,,,
+Asia,MNG,Mongolia,2020,8,3,2020-08-13,,,,,,,
+Asia,MNG,Mongolia,2020,8,4,2020-08-14,,,,,,,
+Asia,MNG,Mongolia,2020,8,5,2020-08-15,,,,,,,
+Asia,MNG,Mongolia,2020,8,6,2020-08-16,,,,,,,
+Asia,MNG,Mongolia,2020,8,0,2020-08-17,,,,,,,
+Asia,MNG,Mongolia,2020,8,1,2020-08-18,,,,,,,
+Asia,MNG,Mongolia,2020,8,2,2020-08-19,,,,,,,
+Asia,MNG,Mongolia,2020,8,3,2020-08-20,,,,,,,
+Asia,MNG,Mongolia,2020,8,4,2020-08-21,,,,,,,
+Asia,MNG,Mongolia,2020,8,5,2020-08-22,,,,,,,
+Asia,MNG,Mongolia,2020,8,6,2020-08-23,,,,,,,
+Asia,MNG,Mongolia,2020,8,0,2020-08-24,,,,,,,
+Asia,MNG,Mongolia,2020,8,1,2020-08-25,,,,,,,
+Asia,MNG,Mongolia,2020,8,2,2020-08-26,,,,,,,
+Asia,MNG,Mongolia,2020,8,3,2020-08-27,,,,,,,
+Asia,MNG,Mongolia,2020,8,4,2020-08-28,,,,,,,
+Asia,MNG,Mongolia,2020,8,5,2020-08-29,,,,,,,
+Asia,MNG,Mongolia,2020,8,6,2020-08-30,,,,,,,
+Asia,MNG,Mongolia,2020,8,0,2020-08-31,,,,,,,
+Asia,MNG,Mongolia,2020,9,1,2020-09-01,,,,,,,
+Asia,MNG,Mongolia,2020,9,2,2020-09-02,,,,,,,
+Asia,MNG,Mongolia,2020,9,3,2020-09-03,,,,,,,
+Asia,MNG,Mongolia,2020,9,4,2020-09-04,,,,,,,
+Asia,MNG,Mongolia,2020,9,5,2020-09-05,,,,,,,
+Asia,MNG,Mongolia,2020,9,6,2020-09-06,,,,,,,
+Asia,MNG,Mongolia,2020,9,0,2020-09-07,,,,,,,
+Asia,MNG,Mongolia,2020,9,1,2020-09-08,,,,,,,
+Asia,MNG,Mongolia,2020,9,2,2020-09-09,,,,,,,
+Asia,MNG,Mongolia,2020,9,3,2020-09-10,,,,,,,
+Asia,MNG,Mongolia,2020,9,4,2020-09-11,,,,,,,
+Asia,MNG,Mongolia,2020,9,5,2020-09-12,,,,,,,
+Asia,MNG,Mongolia,2020,9,6,2020-09-13,,,,,,,
+Asia,MNG,Mongolia,2020,9,0,2020-09-14,,,,,,,
+Asia,MNG,Mongolia,2020,9,1,2020-09-15,,,,,,,
+Asia,MNG,Mongolia,2020,9,2,2020-09-16,,,,,,,
+Asia,MNG,Mongolia,2020,9,3,2020-09-17,,,,,,,
+Asia,MNG,Mongolia,2020,9,4,2020-09-18,,,,,,,
+Asia,MNG,Mongolia,2020,9,5,2020-09-19,,,,,,,
+Asia,MNG,Mongolia,2020,9,6,2020-09-20,,,,,,,
+Asia,MNG,Mongolia,2020,9,0,2020-09-21,,,,,,,
+Asia,MNG,Mongolia,2020,9,1,2020-09-22,,,,,,,
+Asia,MNG,Mongolia,2020,9,2,2020-09-23,,,,,,,
+Asia,MNG,Mongolia,2020,9,3,2020-09-24,,,,,,,
+Asia,MNG,Mongolia,2020,9,4,2020-09-25,,,,,,,
+Asia,MNG,Mongolia,2020,9,5,2020-09-26,,,,,,,
+Asia,MNG,Mongolia,2020,9,6,2020-09-27,,,,,,,
+Asia,MNG,Mongolia,2020,9,0,2020-09-28,,,,,,,
+Asia,MNG,Mongolia,2020,9,1,2020-09-29,,,,,,,
+Asia,MNG,Mongolia,2020,9,2,2020-09-30,,,,,,,
+Asia,MNG,Mongolia,2020,10,3,2020-10-01,,,,,,,
+Asia,MNG,Mongolia,2020,10,4,2020-10-02,,,,,,,
+Asia,MNG,Mongolia,2020,10,5,2020-10-03,,,,,,,
+Asia,MNG,Mongolia,2020,10,6,2020-10-04,,,,,,,
+Asia,MNG,Mongolia,2020,10,0,2020-10-05,,,,,,,
+Asia,MNG,Mongolia,2020,10,1,2020-10-06,,,,,,,
+Asia,MNG,Mongolia,2020,10,2,2020-10-07,,,,,,,
+Asia,MNG,Mongolia,2020,10,3,2020-10-08,,,,,,,
+Asia,MNG,Mongolia,2020,10,4,2020-10-09,,,,,,,
+Asia,MNG,Mongolia,2020,10,5,2020-10-10,,,,,,,
+Asia,MNG,Mongolia,2020,10,6,2020-10-11,,,,,,,
+Asia,MNG,Mongolia,2020,10,0,2020-10-12,,,,,,,
+Asia,MNG,Mongolia,2020,10,1,2020-10-13,,,,,,,
+Asia,MNG,Mongolia,2020,10,2,2020-10-14,,,,,,,
+Asia,MNG,Mongolia,2020,10,3,2020-10-15,,,,,,,
+Asia,MNG,Mongolia,2020,10,4,2020-10-16,,,,,,,
+Asia,MNG,Mongolia,2020,10,5,2020-10-17,,,,,,,
+Asia,MNG,Mongolia,2020,10,6,2020-10-18,,,,,,,
+Asia,MNG,Mongolia,2020,10,0,2020-10-19,,,,,,,
+Asia,MNG,Mongolia,2020,10,1,2020-10-20,,,,,,,
+Asia,MNG,Mongolia,2020,10,2,2020-10-21,,,,,,,
+Asia,MNG,Mongolia,2020,10,3,2020-10-22,,,,,,,
+Asia,MNG,Mongolia,2020,10,4,2020-10-23,,,,,,,
+Asia,MNG,Mongolia,2020,10,5,2020-10-24,,,,,,,
+Asia,MNG,Mongolia,2020,10,6,2020-10-25,,,,,,,
+Asia,MNG,Mongolia,2020,10,0,2020-10-26,,,,,,,
+Asia,MNG,Mongolia,2020,10,1,2020-10-27,,,,,,,
+Asia,MNG,Mongolia,2020,10,2,2020-10-28,,,,,,,
+Asia,MNG,Mongolia,2020,10,3,2020-10-29,,,,,,,
+Asia,MNG,Mongolia,2020,10,4,2020-10-30,,,,,,,
+Asia,MNG,Mongolia,2020,10,5,2020-10-31,,,,,,,
+Asia,MNG,Mongolia,2020,11,6,2020-11-01,,,,,,,
+Asia,MNG,Mongolia,2020,11,0,2020-11-02,,,,,,,
+Asia,MNG,Mongolia,2020,11,1,2020-11-03,,,,,,,
+Asia,MNG,Mongolia,2020,11,2,2020-11-04,,,,,,,
+Asia,MNG,Mongolia,2020,11,3,2020-11-05,,,,,,,
+Asia,MNG,Mongolia,2020,11,4,2020-11-06,,,,,,,
+Asia,MNG,Mongolia,2020,11,5,2020-11-07,,,,,,,
+Asia,MNG,Mongolia,2020,11,6,2020-11-08,,,,,,,
+Asia,MNG,Mongolia,2020,11,0,2020-11-09,,,,,,,
+Asia,MNG,Mongolia,2020,11,1,2020-11-10,,,,,,,
+Asia,MNG,Mongolia,2020,11,2,2020-11-11,,95082.0,29.004,,,,samples tested
+Asia,MNG,Mongolia,2020,11,3,2020-11-12,644.0,95726.0,29.2,0.196,,,samples tested
+Asia,MNG,Mongolia,2020,11,4,2020-11-13,1030.0,96756.0,29.514,0.314,,,samples tested
+Asia,MNG,Mongolia,2020,11,5,2020-11-14,820.0,97576.0,29.764,0.25,,,samples tested
+Asia,MNG,Mongolia,2020,11,6,2020-11-15,814.0,98390.0,30.013,0.248,,,samples tested
+Asia,MNG,Mongolia,2020,11,0,2020-11-16,1818.0,100208.0,30.567,0.555,,,samples tested
+Asia,MNG,Mongolia,2020,11,1,2020-11-17,1762.0,101970.0,31.105,0.537,,,samples tested
+Asia,MNG,Mongolia,2020,11,2,2020-11-18,1643.0,103613.0,31.606,0.501,0.012,86.2,samples tested
+Asia,MNG,Mongolia,2020,11,3,2020-11-19,1390.0,105003.0,32.03,0.424,0.015,64.9,samples tested
+Asia,MNG,Mongolia,2020,11,4,2020-11-20,3625.0,108628.0,33.136,1.106,0.014,73.3,samples tested
+Asia,MNG,Mongolia,2020,11,5,2020-11-21,1681.0,110309.0,33.648,0.513,0.014,70.7,samples tested
+Asia,MNG,Mongolia,2020,11,6,2020-11-22,1305.0,111614.0,34.046,0.398,0.016,63.3,samples tested
+Asia,MNG,Mongolia,2020,11,0,2020-11-23,3011.0,114625.0,34.965,0.918,0.017,60.6,samples tested
+Asia,MNG,Mongolia,2020,11,1,2020-11-24,4335.0,118960.0,36.287,1.322,0.014,69.6,samples tested
+Asia,MNG,Mongolia,2020,11,2,2020-11-25,3011.0,121971.0,37.206,0.918,0.011,88.7,samples tested
+Asia,MNG,Mongolia,2020,11,3,2020-11-26,4176.0,126147.0,38.479,1.274,0.009,115.6,samples tested
+Asia,MNG,Mongolia,2020,11,4,2020-11-27,18031.0,144178.0,43.98,5.5,0.005,195.3,samples tested
+Asia,MNG,Mongolia,2020,11,5,2020-11-28,11929.0,156107.0,47.618,3.639,0.004,260.2,samples tested
+Asia,MNG,Mongolia,2020,11,6,2020-11-29,9513.0,165620.0,50.52,2.902,0.003,357.7,samples tested
+Asia,MNG,Mongolia,2020,11,0,2020-11-30,10308.0,175928.0,53.665,3.144,0.002,475.2,samples tested
+Asia,MNG,Mongolia,2020,12,1,2020-12-01,12116.0,188044.0,57.36,3.696,0.002,611.3,samples tested
+Asia,MNG,Mongolia,2020,12,2,2020-12-02,12015.0,200059.0,61.025,3.665,0.001,729.8,samples tested
+Asia,MNG,Mongolia,2020,12,3,2020-12-03,16530.0,216589.0,66.068,5.042,0.001,972.5,samples tested
+Asia,MNG,Mongolia,2020,12,4,2020-12-04,19680.0,236269.0,72.071,6.003,0.001,1123.1,samples tested
+Asia,MNG,Mongolia,2020,12,5,2020-12-05,20240.0,256509.0,78.245,6.174,0.001,1544.6,samples tested
+Asia,MNG,Mongolia,2020,12,6,2020-12-06,14019.0,270528.0,82.521,4.276,0.001,1092.8,samples tested
+Asia,MNG,Mongolia,2020,12,0,2020-12-07,23341.0,293869.0,89.641,7.12,0.001,1355.6,samples tested
+Asia,MNG,Mongolia,2020,12,1,2020-12-08,27488.0,321357.0,98.026,8.385,0.001,1645.9,samples tested
+Asia,MNG,Mongolia,2020,12,2,2020-12-09,24024.0,345381.0,105.354,7.328,0.001,1839.4,samples tested
+Asia,MNG,Mongolia,2020,12,3,2020-12-10,21470.0,366851.0,111.903,6.549,0.0,2030.6,samples tested
+Asia,MNG,Mongolia,2020,12,4,2020-12-11,20633.0,387484.0,118.197,6.294,0.0,2362.7,samples tested
+Asia,MNG,Mongolia,2020,12,5,2020-12-12,17529.0,405013.0,123.544,5.347,0.0,2560.3,samples tested
+Asia,MNG,Mongolia,2020,12,6,2020-12-13,14987.0,420000.0,128.115,4.572,0.0,5979.6,samples tested
+Asia,MNG,Mongolia,2020,12,0,2020-12-14,8574.0,428574.0,130.731,2.615,0.0,4644.9,samples tested
+Asia,MNG,Mongolia,2020,12,1,2020-12-15,10949.0,439523.0,134.071,3.34,0.0,4727.2,samples tested
+Asia,MNG,Mongolia,2020,12,2,2020-12-16,12711.0,452234.0,137.948,3.877,0.0,4274.7,samples tested
+Asia,MNG,Mongolia,2020,12,3,2020-12-17,10559.0,462793.0,141.169,3.221,0.0,2665.0,samples tested
+Asia,MNG,Mongolia,2020,12,4,2020-12-18,9070.0,471863.0,143.936,2.767,0.001,1795.4,samples tested
+Asia,MNG,Mongolia,2020,12,5,2020-12-19,11191.0,483054.0,147.349,3.414,0.001,1445.3,samples tested
+Asia,MNG,Mongolia,2020,12,6,2020-12-20,8416.0,491470.0,149.916,2.567,0.001,882.4,samples tested
+Asia,MNG,Mongolia,2020,12,0,2020-12-21,5961.0,497431.0,151.735,1.818,0.001,773.7,samples tested
+Asia,MNG,Mongolia,2020,12,1,2020-12-22,12357.0,509788.0,155.504,3.769,0.002,484.6,samples tested
+Asia,MNG,Mongolia,2020,12,2,2020-12-23,4134.0,513922.0,156.765,1.261,0.002,422.5,samples tested
+Asia,MNG,Mongolia,2020,12,3,2020-12-24,11800.0,525722.0,160.365,3.599,0.002,469.6,samples tested
+Asia,MNG,Mongolia,2020,12,4,2020-12-25,8863.0,534585.0,163.068,2.704,0.002,486.2,samples tested
+Asia,MNG,Mongolia,2020,12,5,2020-12-26,14227.0,548812.0,167.408,4.34,0.002,411.0,samples tested
+Asia,MNG,Mongolia,2020,12,6,2020-12-27,14646.0,563458.0,171.875,4.468,0.002,499.9,samples tested
+Asia,MNG,Mongolia,2020,12,0,2020-12-28,8894.0,572352.0,174.588,2.713,0.002,443.3,samples tested
+Asia,MNG,Mongolia,2020,12,1,2020-12-29,14035.0,586387.0,178.87,4.281,0.002,580.3,samples tested
+Asia,MNG,Mongolia,2020,12,2,2020-12-30,,,,,0.002,546.3,samples tested
+Asia,MNG,Mongolia,2020,12,3,2020-12-31,,600984.0,183.322,,0.002,519.1,samples tested
+Asia,MNG,Mongolia,2021,1,4,2021-01-01,17764.0,618748.0,188.741,5.419,0.002,526.0,samples tested
+Asia,MNG,Mongolia,2021,1,5,2021-01-02,11152.0,629900.0,192.143,3.402,0.002,571.0,samples tested
+Asia,MNG,Mongolia,2021,1,6,2021-01-03,5807.0,635707.0,193.914,1.771,0.002,484.9,samples tested
+Asia,MNG,Mongolia,2021,1,0,2021-01-04,13621.0,649328.0,198.069,4.155,0.002,578.8,samples tested
+Asia,MNG,Mongolia,2021,1,1,2021-01-05,11581.0,660909.0,201.602,3.533,0.002,659.5,samples tested
+Asia,MNG,Mongolia,2021,1,2,2021-01-06,16377.0,677286.0,206.597,4.996,0.001,898.9,samples tested
+Asia,MNG,Mongolia,2021,1,3,2021-01-07,12200.0,689486.0,210.319,3.721,0.002,505.7,samples tested
+Asia,MNG,Mongolia,2021,1,4,2021-01-08,14225.0,703711.0,214.658,4.339,0.002,511.8,samples tested
+Asia,MNG,Mongolia,2021,1,5,2021-01-09,13773.0,717484.0,218.859,4.201,0.002,527.6,samples tested
+Asia,MNG,Mongolia,2021,1,6,2021-01-10,22993.0,740477.0,225.873,7.014,0.001,671.6,samples tested
+Asia,MNG,Mongolia,2021,1,0,2021-01-11,14216.0,754693.0,230.209,4.336,0.001,711.9,samples tested
+Asia,MNG,Mongolia,2021,1,1,2021-01-12,15849.0,770542.0,235.044,4.835,0.001,681.0,samples tested
+Asia,MNG,Mongolia,2021,1,2,2021-01-13,16975.0,787517.0,240.222,5.178,0.002,644.6,samples tested
+Asia,MNG,Mongolia,2021,1,3,2021-01-14,15899.0,803416.0,245.072,4.85,0.001,1186.8,samples tested
+Asia,MNG,Mongolia,2021,1,4,2021-01-15,16854.0,820270.0,250.213,5.141,0.001,1120.8,samples tested
+Asia,MNG,Mongolia,2021,1,5,2021-01-16,18487.0,838757.0,255.852,5.639,0.001,1378.2,samples tested
+Asia,MNG,Mongolia,2021,1,6,2021-01-17,15342.0,854099.0,260.532,4.68,0.001,1352.7,samples tested
+Asia,MNG,Mongolia,2021,1,0,2021-01-18,9115.0,863214.0,263.312,2.78,0.001,1356.5,samples tested
+Asia,MNG,Mongolia,2021,1,1,2021-01-19,17646.0,880860.0,268.695,5.383,0.001,1114.3,samples tested
+Asia,MNG,Mongolia,2021,1,2,2021-01-20,13318.0,894178.0,272.757,4.062,0.001,1015.8,samples tested
+Asia,MNG,Mongolia,2021,1,3,2021-01-21,12940.0,907118.0,276.704,3.947,0.001,1026.8,samples tested
+Asia,MNG,Mongolia,2021,1,4,2021-01-22,,,,,0.001,1031.9,samples tested
+Asia,MNG,Mongolia,2021,1,5,2021-01-23,,937735.0,286.044,,0.001,899.8,samples tested
+Asia,MNG,Mongolia,2021,1,6,2021-01-24,12848.0,950583.0,289.963,3.919,0.001,824.6,samples tested
+Asia,MNG,Mongolia,2021,1,0,2021-01-25,7065.0,957648.0,292.118,2.155,0.001,787.0,samples tested
+Asia,MNG,Mongolia,2021,1,1,2021-01-26,12039.0,969687.0,295.79,3.672,0.001,897.3,samples tested
+Asia,MNG,Mongolia,2021,1,2,2021-01-27,12703.0,982390.0,299.665,3.875,0.001,816.8,samples tested
+Asia,MNG,Mongolia,2021,1,3,2021-01-28,15202.0,997592.0,304.302,4.637,0.001,766.7,samples tested
+Asia,MNG,Mongolia,2021,1,4,2021-01-29,12885.0,1010477.0,308.233,3.93,0.001,672.2,samples tested
+Asia,MNG,Mongolia,2021,1,5,2021-01-30,14495.0,1024972.0,312.654,4.422,0.002,573.9,samples tested
+Asia,MNG,Mongolia,2021,1,6,2021-01-31,11202.0,1036174.0,316.071,3.417,0.002,500.5,samples tested
+Asia,MNG,Mongolia,2021,2,0,2021-02-01,5433.0,1041607.0,317.729,1.657,0.002,477.0,samples tested
+Asia,MNG,Mongolia,2021,2,1,2021-02-02,9415.0,1051022.0,320.6,2.872,0.002,423.6,samples tested
+Asia,MNG,Mongolia,2021,2,2,2021-02-03,15897.0,1066919.0,325.45,4.849,0.002,426.9,samples tested
+Asia,MNG,Mongolia,2021,2,3,2021-02-04,16960.0,1083879.0,330.623,5.173,0.003,395.8,samples tested
+Asia,MNG,Mongolia,2021,2,4,2021-02-05,14283.0,1098162.0,334.98,4.357,0.003,355.0,samples tested
+Asia,MNG,Mongolia,2021,2,5,2021-02-06,20853.0,1119015.0,341.341,6.361,0.003,385.4,samples tested
+Asia,MNG,Mongolia,2021,2,6,2021-02-07,14978.0,1133993.0,345.91,4.569,0.003,377.7,samples tested
+Asia,MNG,Mongolia,2021,2,0,2021-02-08,12252.0,1146245.0,349.647,3.737,0.003,363.3,samples tested
+Asia,MNG,Mongolia,2021,2,1,2021-02-09,18871.0,1165116.0,355.403,5.756,0.003,362.2,samples tested
+Asia,MNG,Mongolia,2021,2,2,2021-02-10,25245.0,1190361.0,363.104,7.701,0.003,389.4,samples tested
+Asia,MNG,Mongolia,2021,2,3,2021-02-11,57833.0,1248194.0,380.745,17.641,0.002,515.1,samples tested
+Asia,MNG,Mongolia,2021,2,4,2021-02-12,30468.0,1278662.0,390.039,9.294,0.002,593.8,samples tested
+Asia,MNG,Mongolia,2021,2,5,2021-02-13,30287.0,1308949.0,399.278,9.239,0.002,579.1,samples tested
+Asia,MNG,Mongolia,2021,2,6,2021-02-14,38450.0,1347399.0,411.006,11.729,0.001,688.4,samples tested
+Asia,MNG,Mongolia,2021,2,0,2021-02-15,28851.0,1376250.0,419.807,8.801,0.001,777.0,samples tested
+Asia,MNG,Mongolia,2021,2,1,2021-02-16,37530.0,1413780.0,431.255,11.448,0.001,921.0,samples tested
+Asia,MNG,Mongolia,2021,2,2,2021-02-17,38409.0,1452189.0,442.971,11.716,0.001,915.5,samples tested
+Asia,MNG,Mongolia,2021,2,3,2021-02-18,40217.0,1492406.0,455.239,12.268,0.001,803.3,samples tested
+Asia,MNG,Mongolia,2021,2,4,2021-02-19,47110.0,1539516.0,469.609,14.37,0.001,890.3,samples tested
+Asia,MNG,Mongolia,2021,2,5,2021-02-20,43667.0,1583183.0,482.929,13.32,0.001,955.5,samples tested
+Asia,MNG,Mongolia,2021,2,6,2021-02-21,,,,,,,
+Asia,MNG,Mongolia,2021,2,0,2021-02-22,,,,,,,
+Asia,MNG,Mongolia,2021,2,1,2021-02-23,,,,,,,
+Asia,MNG,Mongolia,2021,2,2,2021-02-24,,,,,,,

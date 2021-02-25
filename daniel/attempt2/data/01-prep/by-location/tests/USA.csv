@@ -1,0 +1,401 @@
+continent,iso_code,location,year,month,weekday,date,new_tests,total_tests,total_tests_per_thousand,new_tests_per_thousand,positive_rate,tests_per_case,tests_units
+North America,USA,United States,2020,1,2,2020-01-22,,,,,,,
+North America,USA,United States,2020,1,3,2020-01-23,,,,,,,
+North America,USA,United States,2020,1,4,2020-01-24,,,,,,,
+North America,USA,United States,2020,1,5,2020-01-25,,,,,,,
+North America,USA,United States,2020,1,6,2020-01-26,,,,,,,
+North America,USA,United States,2020,1,0,2020-01-27,,,,,,,
+North America,USA,United States,2020,1,1,2020-01-28,,,,,,,
+North America,USA,United States,2020,1,2,2020-01-29,,,,,,,
+North America,USA,United States,2020,1,3,2020-01-30,,,,,,,
+North America,USA,United States,2020,1,4,2020-01-31,,,,,,,
+North America,USA,United States,2020,2,5,2020-02-01,,,,,,,
+North America,USA,United States,2020,2,6,2020-02-02,,,,,,,
+North America,USA,United States,2020,2,0,2020-02-03,,,,,,,
+North America,USA,United States,2020,2,1,2020-02-04,,,,,,,
+North America,USA,United States,2020,2,2,2020-02-05,,,,,,,
+North America,USA,United States,2020,2,3,2020-02-06,,,,,,,
+North America,USA,United States,2020,2,4,2020-02-07,,,,,,,
+North America,USA,United States,2020,2,5,2020-02-08,,,,,,,
+North America,USA,United States,2020,2,6,2020-02-09,,,,,,,
+North America,USA,United States,2020,2,0,2020-02-10,,,,,,,
+North America,USA,United States,2020,2,1,2020-02-11,,,,,,,
+North America,USA,United States,2020,2,2,2020-02-12,,,,,,,
+North America,USA,United States,2020,2,3,2020-02-13,,,,,,,
+North America,USA,United States,2020,2,4,2020-02-14,,,,,,,
+North America,USA,United States,2020,2,5,2020-02-15,,,,,,,
+North America,USA,United States,2020,2,6,2020-02-16,,,,,,,
+North America,USA,United States,2020,2,0,2020-02-17,,,,,,,
+North America,USA,United States,2020,2,1,2020-02-18,,,,,,,
+North America,USA,United States,2020,2,2,2020-02-19,,,,,,,
+North America,USA,United States,2020,2,3,2020-02-20,,,,,,,
+North America,USA,United States,2020,2,4,2020-02-21,,,,,,,
+North America,USA,United States,2020,2,5,2020-02-22,,,,,,,
+North America,USA,United States,2020,2,6,2020-02-23,,,,,,,
+North America,USA,United States,2020,2,0,2020-02-24,,,,,,,
+North America,USA,United States,2020,2,1,2020-02-25,,,,,,,
+North America,USA,United States,2020,2,2,2020-02-26,,,,,,,
+North America,USA,United States,2020,2,3,2020-02-27,,,,,,,
+North America,USA,United States,2020,2,4,2020-02-28,,,,,,,
+North America,USA,United States,2020,2,5,2020-02-29,,,,,,,
+North America,USA,United States,2020,3,6,2020-03-01,183.0,183.0,0.001,0.001,,,tests performed
+North America,USA,United States,2020,3,0,2020-03-02,455.0,638.0,0.002,0.001,,,tests performed
+North America,USA,United States,2020,3,1,2020-03-03,808.0,1446.0,0.004,0.002,,,tests performed
+North America,USA,United States,2020,3,2,2020-03-04,899.0,2345.0,0.007,0.003,,,tests performed
+North America,USA,United States,2020,3,3,2020-03-05,1150.0,3495.0,0.011,0.003,,,tests performed
+North America,USA,United States,2020,3,4,2020-03-06,1512.0,5007.0,0.015,0.005,,,tests performed
+North America,USA,United States,2020,3,5,2020-03-07,1797.0,6804.0,0.021,0.005,0.037,27.0,tests performed
+North America,USA,United States,2020,3,6,2020-03-08,1586.0,8390.0,0.025,0.005,0.049,20.4,tests performed
+North America,USA,United States,2020,3,0,2020-03-09,2240.0,10630.0,0.032,0.007,0.059,16.9,tests performed
+North America,USA,United States,2020,3,1,2020-03-10,3241.0,13871.0,0.042,0.01,0.07,14.3,tests performed
+North America,USA,United States,2020,3,2,2020-03-11,4562.0,18433.0,0.056,0.014,0.07,14.3,tests performed
+North America,USA,United States,2020,3,3,2020-03-12,8620.0,27053.0,0.082,0.026,0.064,15.6,tests performed
+North America,USA,United States,2020,3,4,2020-03-13,11421.0,38474.0,0.116,0.035,0.052,19.2,tests performed
+North America,USA,United States,2020,3,5,2020-03-14,12819.0,51293.0,0.155,0.039,0.046,21.7,tests performed
+North America,USA,United States,2020,3,6,2020-03-15,14271.0,65564.0,0.198,0.043,0.054,18.5,tests performed
+North America,USA,United States,2020,3,0,2020-03-16,26871.0,92435.0,0.279,0.081,0.045,22.2,tests performed
+North America,USA,United States,2020,3,1,2020-03-17,39574.0,132009.0,0.399,0.12,0.052,19.2,tests performed
+North America,USA,United States,2020,3,2,2020-03-18,50079.0,182088.0,0.55,0.151,0.057,17.5,tests performed
+North America,USA,United States,2020,3,3,2020-03-19,59874.0,241962.0,0.731,0.181,0.063,15.9,tests performed
+North America,USA,United States,2020,3,4,2020-03-20,74829.0,316791.0,0.957,0.226,0.061,16.4,tests performed
+North America,USA,United States,2020,3,5,2020-03-21,74899.0,391690.0,1.183,0.226,0.066,15.2,tests performed
+North America,USA,United States,2020,3,6,2020-03-22,72916.0,464606.0,1.404,0.22,0.075,13.3,tests performed
+North America,USA,United States,2020,3,0,2020-03-23,77516.0,542122.0,1.638,0.234,0.089,11.2,tests performed
+North America,USA,United States,2020,3,1,2020-03-24,102144.0,644266.0,1.946,0.309,0.093,10.8,tests performed
+North America,USA,United States,2020,3,2,2020-03-25,112530.0,756796.0,2.286,0.34,0.101,9.9,tests performed
+North America,USA,United States,2020,3,3,2020-03-26,127628.0,884424.0,2.672,0.386,0.109,9.2,tests performed
+North America,USA,United States,2020,3,4,2020-03-27,133089.0,1017513.0,3.074,0.402,0.121,8.3,tests performed
+North America,USA,United States,2020,3,5,2020-03-28,118979.0,1136492.0,3.433,0.359,0.132,7.6,tests performed
+North America,USA,United States,2020,3,6,2020-03-29,107830.0,1244322.0,3.759,0.326,0.138,7.2,tests performed
+North America,USA,United States,2020,3,0,2020-03-30,119969.0,1364291.0,4.122,0.362,0.144,6.9,tests performed
+North America,USA,United States,2020,3,1,2020-03-31,139360.0,1503651.0,4.543,0.421,0.153,6.5,tests performed
+North America,USA,United States,2020,4,2,2020-04-01,150282.0,1653933.0,4.997,0.454,0.161,6.2,tests performed
+North America,USA,United States,2020,4,3,2020-04-02,159338.0,1813271.0,5.478,0.481,0.165,6.1,tests performed
+North America,USA,United States,2020,4,4,2020-04-03,166454.0,1979725.0,5.981,0.503,0.177,5.6,tests performed
+North America,USA,United States,2020,4,5,2020-04-04,145111.0,2124836.0,6.419,0.438,0.184,5.4,tests performed
+North America,USA,United States,2020,4,6,2020-04-05,138048.0,2262884.0,6.836,0.417,0.186,5.4,tests performed
+North America,USA,United States,2020,4,0,2020-04-06,139947.0,2402831.0,7.259,0.423,0.202,5.0,tests performed
+North America,USA,United States,2020,4,1,2020-04-07,176548.0,2579379.0,7.793,0.533,0.195,5.1,tests performed
+North America,USA,United States,2020,4,2,2020-04-08,165163.0,2744542.0,8.292,0.499,0.196,5.1,tests performed
+North America,USA,United States,2020,4,3,2020-04-09,171091.0,2915633.0,8.808,0.517,0.199,5.0,tests performed
+North America,USA,United States,2020,4,4,2020-04-10,175494.0,3091127.0,9.339,0.53,0.197,5.1,tests performed
+North America,USA,United States,2020,4,5,2020-04-11,211876.0,3303003.0,9.979,0.64,0.187,5.3,tests performed
+North America,USA,United States,2020,4,6,2020-04-12,110414.0,3413417.0,10.312,0.334,0.194,5.2,tests performed
+North America,USA,United States,2020,4,0,2020-04-13,113144.0,3526561.0,10.654,0.342,0.183,5.5,tests performed
+North America,USA,United States,2020,4,1,2020-04-14,160787.0,3687348.0,11.14,0.486,0.189,5.3,tests performed
+North America,USA,United States,2020,4,2,2020-04-15,171098.0,3858446.0,11.657,0.517,0.184,5.4,tests performed
+North America,USA,United States,2020,4,3,2020-04-16,180719.0,4039165.0,12.203,0.546,0.18,5.6,tests performed
+North America,USA,United States,2020,4,4,2020-04-17,194819.0,4233984.0,12.791,0.589,0.173,5.8,tests performed
+North America,USA,United States,2020,4,5,2020-04-18,164261.0,4398245.0,13.288,0.496,0.178,5.6,tests performed
+North America,USA,United States,2020,4,6,2020-04-19,133971.0,4532216.0,13.692,0.405,0.171,5.8,tests performed
+North America,USA,United States,2020,4,0,2020-04-20,156983.0,4689199.0,14.167,0.474,0.169,5.9,tests performed
+North America,USA,United States,2020,4,1,2020-04-21,226531.0,4915730.0,14.851,0.684,0.16,6.2,tests performed
+North America,USA,United States,2020,4,2,2020-04-22,231905.0,5147635.0,15.552,0.701,0.152,6.6,tests performed
+North America,USA,United States,2020,4,3,2020-04-23,228555.0,5376190.0,16.242,0.69,0.152,6.6,tests performed
+North America,USA,United States,2020,4,4,2020-04-24,262287.0,5638477.0,17.035,0.792,0.145,6.9,tests performed
+North America,USA,United States,2020,4,5,2020-04-25,214933.0,5853410.0,17.684,0.649,0.143,7.0,tests performed
+North America,USA,United States,2020,4,6,2020-04-26,168949.0,6022359.0,18.194,0.51,0.142,7.0,tests performed
+North America,USA,United States,2020,4,0,2020-04-27,224793.0,6247152.0,18.873,0.679,0.132,7.6,tests performed
+North America,USA,United States,2020,4,1,2020-04-28,266210.0,6513362.0,19.678,0.804,0.127,7.9,tests performed
+North America,USA,United States,2020,4,2,2020-04-29,290467.0,6803829.0,20.555,0.878,0.122,8.2,tests performed
+North America,USA,United States,2020,4,3,2020-04-30,318398.0,7122227.0,21.517,0.962,0.113,8.8,tests performed
+North America,USA,United States,2020,5,4,2020-05-01,333155.0,7455382.0,22.524,1.007,0.108,9.3,tests performed
+North America,USA,United States,2020,5,5,2020-05-02,265677.0,7721059.0,23.326,0.803,0.103,9.7,tests performed
+North America,USA,United States,2020,5,6,2020-05-03,214395.0,7935454.0,23.974,0.648,0.101,9.9,tests performed
+North America,USA,United States,2020,5,0,2020-05-04,247645.0,8183099.0,24.722,0.748,0.098,10.2,tests performed
+North America,USA,United States,2020,5,1,2020-05-05,317861.0,8500960.0,25.682,0.96,0.095,10.5,tests performed
+North America,USA,United States,2020,5,2,2020-05-06,355674.0,8856634.0,26.757,1.075,0.09,11.1,tests performed
+North America,USA,United States,2020,5,3,2020-05-07,359208.0,9215842.0,27.842,1.085,0.088,11.4,tests performed
+North America,USA,United States,2020,5,4,2020-05-08,394686.0,9610528.0,29.035,1.192,0.084,11.9,tests performed
+North America,USA,United States,2020,5,5,2020-05-09,322673.0,9933201.0,30.009,0.975,0.081,12.3,tests performed
+North America,USA,United States,2020,5,6,2020-05-10,240371.0,10173572.0,30.736,0.726,0.077,13.0,tests performed
+North America,USA,United States,2020,5,0,2020-05-11,314888.0,10488460.0,31.687,0.951,0.074,13.5,tests performed
+North America,USA,United States,2020,5,1,2020-05-12,410028.0,10898488.0,32.926,1.239,0.071,14.1,tests performed
+North America,USA,United States,2020,5,2,2020-05-13,444428.0,11342916.0,34.268,1.343,0.067,14.9,tests performed
+North America,USA,United States,2020,5,3,2020-05-14,444621.0,11787537.0,35.612,1.343,0.064,15.6,tests performed
+North America,USA,United States,2020,5,4,2020-05-15,445306.0,12232843.0,36.957,1.345,0.061,16.4,tests performed
+North America,USA,United States,2020,5,5,2020-05-16,357437.0,12590280.0,38.037,1.08,0.062,16.1,tests performed
+North America,USA,United States,2020,5,6,2020-05-17,300096.0,12890376.0,38.943,0.907,0.057,17.5,tests performed
+North America,USA,United States,2020,5,0,2020-05-18,348000.0,13238376.0,39.995,1.051,0.059,16.9,tests performed
+North America,USA,United States,2020,5,1,2020-05-19,425405.0,13663781.0,41.28,1.285,0.06,16.7,tests performed
+North America,USA,United States,2020,5,2,2020-05-20,454483.0,14118264.0,42.653,1.373,0.06,16.7,tests performed
+North America,USA,United States,2020,5,3,2020-05-21,455182.0,14573446.0,44.028,1.375,0.057,17.5,tests performed
+North America,USA,United States,2020,5,4,2020-05-22,484798.0,15058244.0,45.493,1.465,0.057,17.5,tests performed
+North America,USA,United States,2020,5,5,2020-05-23,382463.0,15440707.0,46.648,1.155,0.055,18.2,tests performed
+North America,USA,United States,2020,5,6,2020-05-24,337967.0,15778674.0,47.669,1.021,0.055,18.2,tests performed
+North America,USA,United States,2020,5,0,2020-05-25,334060.0,16112734.0,48.679,1.009,0.055,18.2,tests performed
+North America,USA,United States,2020,5,1,2020-05-26,454586.0,16567320.0,50.052,1.373,0.052,19.2,tests performed
+North America,USA,United States,2020,5,2,2020-05-27,558632.0,17125952.0,51.74,1.688,0.049,20.4,tests performed
+North America,USA,United States,2020,5,3,2020-05-28,534456.0,17660408.0,53.354,1.615,0.048,20.8,tests performed
+North America,USA,United States,2020,5,4,2020-05-29,536503.0,18196911.0,54.975,1.621,0.045,22.2,tests performed
+North America,USA,United States,2020,5,5,2020-05-30,452652.0,18649563.0,56.343,1.368,0.044,22.7,tests performed
+North America,USA,United States,2020,5,6,2020-05-31,371793.0,19021356.0,57.466,1.123,0.046,21.7,tests performed
+North America,USA,United States,2020,6,0,2020-06-01,436666.0,19458022.0,58.785,1.319,0.042,23.8,tests performed
+North America,USA,United States,2020,6,1,2020-06-02,520955.0,19978977.0,60.359,1.574,0.044,22.7,tests performed
+North America,USA,United States,2020,6,2,2020-06-03,585538.0,20564515.0,62.128,1.769,0.042,23.8,tests performed
+North America,USA,United States,2020,6,3,2020-06-04,620237.0,21184752.0,64.002,1.874,0.041,24.4,tests performed
+North America,USA,United States,2020,6,4,2020-06-05,574341.0,21759093.0,65.737,1.735,0.043,23.3,tests performed
+North America,USA,United States,2020,6,5,2020-06-06,464752.0,22223845.0,67.141,1.404,0.045,22.2,tests performed
+North America,USA,United States,2020,6,6,2020-06-07,405001.0,22628846.0,68.365,1.224,0.042,23.8,tests performed
+North America,USA,United States,2020,6,0,2020-06-08,449338.0,23078184.0,69.722,1.358,0.043,23.3,tests performed
+North America,USA,United States,2020,6,1,2020-06-09,558889.0,23637073.0,71.411,1.688,0.04,25.0,tests performed
+North America,USA,United States,2020,6,2,2020-06-10,626147.0,24263220.0,73.302,1.892,0.041,24.4,tests performed
+North America,USA,United States,2020,6,3,2020-06-11,608433.0,24871653.0,75.14,1.838,0.042,23.8,tests performed
+North America,USA,United States,2020,6,4,2020-06-12,612862.0,25484515.0,76.992,1.852,0.039,25.6,tests performed
+North America,USA,United States,2020,6,5,2020-06-13,527598.0,26012113.0,78.586,1.594,0.038,26.3,tests performed
+North America,USA,United States,2020,6,6,2020-06-14,410421.0,26422534.0,79.826,1.24,0.039,25.6,tests performed
+North America,USA,United States,2020,6,0,2020-06-15,504125.0,26926659.0,81.349,1.523,0.039,25.6,tests performed
+North America,USA,United States,2020,6,1,2020-06-16,671272.0,27597931.0,83.377,2.028,0.04,25.0,tests performed
+North America,USA,United States,2020,6,2,2020-06-17,703123.0,28301054.0,85.501,2.124,0.04,25.0,tests performed
+North America,USA,United States,2020,6,3,2020-06-18,699097.0,29000151.0,87.613,2.112,0.041,24.4,tests performed
+North America,USA,United States,2020,6,4,2020-06-19,701495.0,29701646.0,89.732,2.119,0.042,23.8,tests performed
+North America,USA,United States,2020,6,5,2020-06-20,580696.0,30282342.0,91.487,1.754,0.043,23.3,tests performed
+North America,USA,United States,2020,6,6,2020-06-21,421124.0,30703466.0,92.759,1.272,0.045,22.2,tests performed
+North America,USA,United States,2020,6,0,2020-06-22,540995.0,31244461.0,94.393,1.634,0.046,21.7,tests performed
+North America,USA,United States,2020,6,1,2020-06-23,698098.0,31942559.0,96.502,2.109,0.047,21.3,tests performed
+North America,USA,United States,2020,6,2,2020-06-24,764044.0,32706603.0,98.811,2.308,0.05,20.0,tests performed
+North America,USA,United States,2020,6,3,2020-06-25,770456.0,33477059.0,101.138,2.328,0.052,19.2,tests performed
+North America,USA,United States,2020,6,4,2020-06-26,803848.0,34280907.0,103.567,2.429,0.053,18.9,tests performed
+North America,USA,United States,2020,6,5,2020-06-27,689973.0,34970880.0,105.651,2.084,0.055,18.2,tests performed
+North America,USA,United States,2020,6,6,2020-06-28,561129.0,35532009.0,107.347,1.695,0.056,17.9,tests performed
+North America,USA,United States,2020,6,0,2020-06-29,656436.0,36188445.0,109.33,1.983,0.056,17.9,tests performed
+North America,USA,United States,2020,6,1,2020-06-30,847701.0,37036146.0,111.891,2.561,0.057,17.5,tests performed
+North America,USA,United States,2020,7,2,2020-07-01,873086.0,37909232.0,114.528,2.638,0.059,16.9,tests performed
+North America,USA,United States,2020,7,3,2020-07-02,843837.0,38753069.0,117.078,2.549,0.06,16.7,tests performed
+North America,USA,United States,2020,7,4,2020-07-03,783075.0,39536144.0,119.444,2.366,0.063,15.9,tests performed
+North America,USA,United States,2020,7,5,2020-07-04,603512.0,40139656.0,121.267,1.823,0.065,15.4,tests performed
+North America,USA,United States,2020,7,6,2020-07-05,514134.0,40653790.0,122.82,1.553,0.067,14.9,tests performed
+North America,USA,United States,2020,7,0,2020-07-06,711143.0,41364933.0,124.969,2.148,0.068,14.7,tests performed
+North America,USA,United States,2020,7,1,2020-07-07,881314.0,42246247.0,127.631,2.663,0.069,14.5,tests performed
+North America,USA,United States,2020,7,2,2020-07-08,962300.0,43208547.0,130.538,2.907,0.07,14.3,tests performed
+North America,USA,United States,2020,7,3,2020-07-09,985971.0,44194518.0,133.517,2.979,0.069,14.5,tests performed
+North America,USA,United States,2020,7,4,2020-07-10,991101.0,45185619.0,136.511,2.994,0.068,14.7,tests performed
+North America,USA,United States,2020,7,5,2020-07-11,822833.0,46008452.0,138.997,2.486,0.067,14.9,tests performed
+North America,USA,United States,2020,7,6,2020-07-12,677247.0,46685699.0,141.043,2.046,0.068,14.7,tests performed
+North America,USA,United States,2020,7,0,2020-07-13,847530.0,47533229.0,143.604,2.56,0.069,14.5,tests performed
+North America,USA,United States,2020,7,1,2020-07-14,985895.0,48519124.0,146.582,2.979,0.069,14.5,tests performed
+North America,USA,United States,2020,7,2,2020-07-15,1020726.0,49539850.0,149.666,3.084,0.069,14.5,tests performed
+North America,USA,United States,2020,7,3,2020-07-16,1002443.0,50542293.0,152.695,3.029,0.071,14.1,tests performed
+North America,USA,United States,2020,7,4,2020-07-17,1028809.0,51571102.0,155.803,3.108,0.072,13.9,tests performed
+North America,USA,United States,2020,7,5,2020-07-18,887389.0,52458491.0,158.484,2.681,0.072,13.9,tests performed
+North America,USA,United States,2020,7,6,2020-07-19,699066.0,53157557.0,160.596,2.112,0.072,13.9,tests performed
+North America,USA,United States,2020,7,0,2020-07-20,885247.0,54042804.0,163.27,2.674,0.072,13.9,tests performed
+North America,USA,United States,2020,7,1,2020-07-21,1009766.0,55052570.0,166.321,3.051,0.072,13.9,tests performed
+North America,USA,United States,2020,7,2,2020-07-22,1087193.0,56139763.0,169.605,3.285,0.071,14.1,tests performed
+North America,USA,United States,2020,7,3,2020-07-23,1061959.0,57201722.0,172.813,3.208,0.071,14.1,tests performed
+North America,USA,United States,2020,7,4,2020-07-24,1049422.0,58251144.0,175.984,3.17,0.07,14.3,tests performed
+North America,USA,United States,2020,7,5,2020-07-25,856258.0,59107402.0,178.571,2.587,0.07,14.3,tests performed
+North America,USA,United States,2020,7,6,2020-07-26,657321.0,59764723.0,180.557,1.986,0.071,14.1,tests performed
+North America,USA,United States,2020,7,0,2020-07-27,775529.0,60540252.0,182.9,2.343,0.071,14.1,tests performed
+North America,USA,United States,2020,7,1,2020-07-28,939672.0,61479924.0,185.738,2.839,0.072,13.9,tests performed
+North America,USA,United States,2020,7,2,2020-07-29,1013662.0,62493586.0,188.801,3.062,0.072,13.9,tests performed
+North America,USA,United States,2020,7,3,2020-07-30,1026215.0,63519801.0,191.901,3.1,0.071,14.1,tests performed
+North America,USA,United States,2020,7,4,2020-07-31,971273.0,64491074.0,194.836,2.934,0.071,14.1,tests performed
+North America,USA,United States,2020,8,5,2020-08-01,774040.0,65265114.0,197.174,2.338,0.071,14.1,tests performed
+North America,USA,United States,2020,8,6,2020-08-02,603028.0,65868142.0,198.996,1.822,0.07,14.3,tests performed
+North America,USA,United States,2020,8,0,2020-08-03,748101.0,66616243.0,201.256,2.26,0.069,14.5,tests performed
+North America,USA,United States,2020,8,1,2020-08-04,856395.0,67472638.0,203.843,2.587,0.069,14.5,tests performed
+North America,USA,United States,2020,8,2,2020-08-05,935857.0,68408495.0,206.671,2.827,0.067,14.9,tests performed
+North America,USA,United States,2020,8,3,2020-08-06,961416.0,69369911.0,209.575,2.905,0.066,15.2,tests performed
+North America,USA,United States,2020,8,4,2020-08-07,988109.0,70358020.0,212.56,2.985,0.065,15.4,tests performed
+North America,USA,United States,2020,8,5,2020-08-08,789041.0,71147061.0,214.944,2.384,0.064,15.6,tests performed
+North America,USA,United States,2020,8,6,2020-08-09,615258.0,71762319.0,216.803,1.859,0.064,15.6,tests performed
+North America,USA,United States,2020,8,0,2020-08-10,760830.0,72523149.0,219.101,2.299,0.062,16.1,tests performed
+North America,USA,United States,2020,8,1,2020-08-11,878738.0,73401887.0,221.756,2.655,0.063,15.9,tests performed
+North America,USA,United States,2020,8,2,2020-08-12,993678.0,74395565.0,224.758,3.002,0.063,15.9,tests performed
+North America,USA,United States,2020,8,3,2020-08-13,954307.0,75349872.0,227.641,2.883,0.062,16.1,tests performed
+North America,USA,United States,2020,8,4,2020-08-14,943803.0,76293675.0,230.493,2.851,0.062,16.1,tests performed
+North America,USA,United States,2020,8,5,2020-08-15,750457.0,77044132.0,232.76,2.267,0.062,16.1,tests performed
+North America,USA,United States,2020,8,6,2020-08-16,552235.0,77596367.0,234.428,1.668,0.062,16.1,tests performed
+North America,USA,United States,2020,8,0,2020-08-17,657863.0,78254230.0,236.416,1.987,0.063,15.9,tests performed
+North America,USA,United States,2020,8,1,2020-08-18,878510.0,79132740.0,239.07,2.654,0.06,16.7,tests performed
+North America,USA,United States,2020,8,2,2020-08-19,973998.0,80106738.0,242.012,2.943,0.058,17.2,tests performed
+North America,USA,United States,2020,8,3,2020-08-20,971988.0,81078726.0,244.949,2.936,0.057,17.5,tests performed
+North America,USA,United States,2020,8,4,2020-08-21,937353.0,82016079.0,247.781,2.832,0.055,18.2,tests performed
+North America,USA,United States,2020,8,5,2020-08-22,774165.0,82790244.0,250.12,2.339,0.053,18.9,tests performed
+North America,USA,United States,2020,8,6,2020-08-23,548012.0,83338256.0,251.775,1.656,0.053,18.9,tests performed
+North America,USA,United States,2020,8,0,2020-08-24,649427.0,83987683.0,253.737,1.962,0.052,19.2,tests performed
+North America,USA,United States,2020,8,1,2020-08-25,879388.0,84867071.0,256.394,2.657,0.051,19.6,tests performed
+North America,USA,United States,2020,8,2,2020-08-26,989904.0,85856975.0,259.385,2.991,0.051,19.6,tests performed
+North America,USA,United States,2020,8,3,2020-08-27,991013.0,86847988.0,262.379,2.994,0.052,19.2,tests performed
+North America,USA,United States,2020,8,4,2020-08-28,958372.0,87806360.0,265.274,2.895,0.051,19.6,tests performed
+North America,USA,United States,2020,8,5,2020-08-29,778069.0,88584429.0,267.625,2.351,0.051,19.6,tests performed
+North America,USA,United States,2020,8,6,2020-08-30,606496.0,89190925.0,269.457,1.832,0.05,20.0,tests performed
+North America,USA,United States,2020,8,0,2020-08-31,648949.0,89839874.0,271.417,1.961,0.05,20.0,tests performed
+North America,USA,United States,2020,9,1,2020-09-01,880820.0,90720694.0,274.078,2.661,0.051,19.6,tests performed
+North America,USA,United States,2020,9,2,2020-09-02,991467.0,91712161.0,277.074,2.995,0.05,20.0,tests performed
+North America,USA,United States,2020,9,3,2020-09-03,1005717.0,92717878.0,280.112,3.038,0.049,20.4,tests performed
+North America,USA,United States,2020,9,4,2020-09-04,1035450.0,93753328.0,283.24,3.128,0.049,20.4,tests performed
+North America,USA,United States,2020,9,5,2020-09-05,791095.0,94544423.0,285.63,2.39,0.05,20.0,tests performed
+North America,USA,United States,2020,9,6,2020-09-06,555715.0,95100138.0,287.309,1.679,0.049,20.4,tests performed
+North America,USA,United States,2020,9,0,2020-09-07,403887.0,95504025.0,288.529,1.22,0.05,20.0,tests performed
+North America,USA,United States,2020,9,1,2020-09-08,642620.0,96146645.0,290.471,1.941,0.049,20.4,tests performed
+North America,USA,United States,2020,9,2,2020-09-09,922389.0,97069034.0,293.258,2.787,0.048,20.8,tests performed
+North America,USA,United States,2020,9,3,2020-09-10,1056641.0,98125675.0,296.45,3.192,0.047,21.3,tests performed
+North America,USA,United States,2020,9,4,2020-09-11,1067784.0,99193459.0,299.676,3.226,0.046,21.7,tests performed
+North America,USA,United States,2020,9,5,2020-09-12,842738.0,100036197.0,302.222,2.546,0.044,22.7,tests performed
+North America,USA,United States,2020,9,6,2020-09-13,614582.0,100650779.0,304.078,1.857,0.044,22.7,tests performed
+North America,USA,United States,2020,9,0,2020-09-14,691441.0,101342220.0,306.167,2.089,0.043,23.3,tests performed
+North America,USA,United States,2020,9,1,2020-09-15,961668.0,102303888.0,309.073,2.905,0.042,23.8,tests performed
+North America,USA,United States,2020,9,2,2020-09-16,1110462.0,103414350.0,312.428,3.355,0.043,23.3,tests performed
+North America,USA,United States,2020,9,3,2020-09-17,1120351.0,104534701.0,315.812,3.385,0.043,23.3,tests performed
+North America,USA,United States,2020,9,4,2020-09-18,1192177.0,105726878.0,319.414,3.602,0.043,23.3,tests performed
+North America,USA,United States,2020,9,5,2020-09-19,908241.0,106635119.0,322.158,2.744,0.043,23.3,tests performed
+North America,USA,United States,2020,9,6,2020-09-20,607236.0,107242355.0,323.992,1.835,0.043,23.3,tests performed
+North America,USA,United States,2020,9,0,2020-09-21,727736.0,107970091.0,326.191,2.199,0.044,22.7,tests performed
+North America,USA,United States,2020,9,1,2020-09-22,991479.0,108961570.0,329.186,2.995,0.046,21.7,tests performed
+North America,USA,United States,2020,9,2,2020-09-23,1162008.0,110123578.0,332.697,3.511,0.045,22.2,tests performed
+North America,USA,United States,2020,9,3,2020-09-24,1162880.0,111286458.0,336.21,3.513,0.045,22.2,tests performed
+North America,USA,United States,2020,9,4,2020-09-25,1096367.0,112382825.0,339.522,3.312,0.045,22.2,tests performed
+North America,USA,United States,2020,9,5,2020-09-26,906428.0,113289253.0,342.261,2.738,0.046,21.7,tests performed
+North America,USA,United States,2020,9,6,2020-09-27,581818.0,113871071.0,344.019,1.758,0.046,21.7,tests performed
+North America,USA,United States,2020,9,0,2020-09-28,649459.0,114520530.0,345.981,1.962,0.046,21.7,tests performed
+North America,USA,United States,2020,9,1,2020-09-29,963282.0,115483812.0,348.891,2.91,0.044,22.7,tests performed
+North America,USA,United States,2020,9,2,2020-09-30,1180578.0,116664390.0,352.458,3.567,0.045,22.2,tests performed
+North America,USA,United States,2020,10,3,2020-10-01,1184215.0,117848605.0,356.035,3.578,0.046,21.7,tests performed
+North America,USA,United States,2020,10,4,2020-10-02,1158279.0,119006884.0,359.535,3.499,0.046,21.7,tests performed
+North America,USA,United States,2020,10,5,2020-10-03,950284.0,119957168.0,362.405,2.871,0.045,22.2,tests performed
+North America,USA,United States,2020,10,6,2020-10-04,631832.0,120589000.0,364.314,1.909,0.045,22.2,tests performed
+North America,USA,United States,2020,10,0,2020-10-05,790712.0,121379712.0,366.703,2.389,0.045,22.2,tests performed
+North America,USA,United States,2020,10,1,2020-10-06,1199662.0,122579374.0,370.327,3.624,0.044,22.7,tests performed
+North America,USA,United States,2020,10,2,2020-10-07,1370044.0,123949418.0,374.467,4.139,0.044,22.7,tests performed
+North America,USA,United States,2020,10,3,2020-10-08,1386033.0,125335451.0,378.654,4.187,0.043,23.3,tests performed
+North America,USA,United States,2020,10,4,2020-10-09,1354017.0,126689468.0,382.745,4.091,0.043,23.3,tests performed
+North America,USA,United States,2020,10,5,2020-10-10,1069959.0,127759427.0,385.977,3.232,0.043,23.3,tests performed
+North America,USA,United States,2020,10,6,2020-10-11,732181.0,128491608.0,388.189,2.212,0.044,22.7,tests performed
+North America,USA,United States,2020,10,0,2020-10-12,787251.0,129278859.0,390.567,2.378,0.045,22.2,tests performed
+North America,USA,United States,2020,10,1,2020-10-13,1030490.0,130309349.0,393.681,3.113,0.047,21.3,tests performed
+North America,USA,United States,2020,10,2,2020-10-14,1192803.0,131502152.0,397.284,3.604,0.049,20.4,tests performed
+North America,USA,United States,2020,10,3,2020-10-15,1252826.0,132754978.0,401.069,3.785,0.051,19.6,tests performed
+North America,USA,United States,2020,10,4,2020-10-16,1287303.0,134042281.0,404.958,3.889,0.053,18.9,tests performed
+North America,USA,United States,2020,10,5,2020-10-17,1078968.0,135121249.0,408.218,3.26,0.053,18.9,tests performed
+North America,USA,United States,2020,10,6,2020-10-18,750072.0,135871321.0,410.484,2.266,0.053,18.9,tests performed
+North America,USA,United States,2020,10,0,2020-10-19,843023.0,136714344.0,413.031,2.547,0.054,18.5,tests performed
+North America,USA,United States,2020,10,1,2020-10-20,1231249.0,137945593.0,416.751,3.72,0.055,18.2,tests performed
+North America,USA,United States,2020,10,2,2020-10-21,1424797.0,139370390.0,421.055,4.304,0.054,18.5,tests performed
+North America,USA,United States,2020,10,3,2020-10-22,1484197.0,140854587.0,425.539,4.484,0.053,18.9,tests performed
+North America,USA,United States,2020,10,4,2020-10-23,1429527.0,142284114.0,429.858,4.319,0.054,18.5,tests performed
+North America,USA,United States,2020,10,5,2020-10-24,1135137.0,143419251.0,433.287,3.429,0.057,17.5,tests performed
+North America,USA,United States,2020,10,6,2020-10-25,770346.0,144189597.0,435.615,2.327,0.059,16.9,tests performed
+North America,USA,United States,2020,10,0,2020-10-26,924019.0,145113616.0,438.406,2.792,0.059,16.9,tests performed
+North America,USA,United States,2020,10,1,2020-10-27,1295632.0,146409248.0,442.32,3.914,0.06,16.7,tests performed
+North America,USA,United States,2020,10,2,2020-10-28,1434684.0,147843932.0,446.655,4.334,0.062,16.1,tests performed
+North America,USA,United States,2020,10,3,2020-10-29,1431125.0,149275057.0,450.978,4.324,0.065,15.4,tests performed
+North America,USA,United States,2020,10,4,2020-10-30,1478186.0,150753243.0,455.444,4.466,0.066,15.2,tests performed
+North America,USA,United States,2020,10,5,2020-10-31,1191665.0,151944908.0,459.044,3.6,0.066,15.2,tests performed
+North America,USA,United States,2020,11,6,2020-11-01,877144.0,152822052.0,461.694,2.65,0.074,13.5,tests performed
+North America,USA,United States,2020,11,0,2020-11-02,987419.0,153809471.0,464.677,2.983,0.076,13.2,tests performed
+North America,USA,United States,2020,11,1,2020-11-03,1322687.0,155132158.0,468.673,3.996,0.078,12.8,tests performed
+North America,USA,United States,2020,11,2,2020-11-04,1574749.0,156706907.0,473.431,4.758,0.08,12.5,tests performed
+North America,USA,United States,2020,11,3,2020-11-05,1637350.0,158344257.0,478.378,4.947,0.081,12.3,tests performed
+North America,USA,United States,2020,11,4,2020-11-06,1623611.0,159967868.0,483.283,4.905,0.084,11.9,tests performed
+North America,USA,United States,2020,11,5,2020-11-07,1412683.0,161380551.0,487.551,4.268,0.083,12.0,tests performed
+North America,USA,United States,2020,11,6,2020-11-08,980297.0,162360848.0,490.512,2.962,0.079,12.7,tests performed
+North America,USA,United States,2020,11,0,2020-11-09,1184396.0,163545244.0,494.09,3.578,0.081,12.3,tests performed
+North America,USA,United States,2020,11,1,2020-11-10,1479861.0,165025105.0,498.561,4.471,0.084,11.9,tests performed
+North America,USA,United States,2020,11,2,2020-11-11,1713531.0,166738636.0,503.738,5.177,0.087,11.5,tests performed
+North America,USA,United States,2020,11,3,2020-11-12,1792892.0,168531528.0,509.155,5.417,0.089,11.2,tests performed
+North America,USA,United States,2020,11,4,2020-11-13,1848966.0,170380494.0,514.741,5.586,0.092,10.9,tests performed
+North America,USA,United States,2020,11,5,2020-11-14,1569746.0,171950240.0,519.483,4.742,0.1,10.0,tests performed
+North America,USA,United States,2020,11,6,2020-11-15,1173531.0,173123771.0,523.028,3.545,0.098,10.2,tests performed
+North America,USA,United States,2020,11,0,2020-11-16,1441205.0,174564976.0,527.382,4.354,0.098,10.2,tests performed
+North America,USA,United States,2020,11,1,2020-11-17,1831208.0,176396184.0,532.915,5.532,0.098,10.2,tests performed
+North America,USA,United States,2020,11,2,2020-11-18,2030868.0,178427052.0,539.05,6.136,0.097,10.3,tests performed
+North America,USA,United States,2020,11,3,2020-11-19,2008608.0,180435660.0,545.118,6.068,0.097,10.3,tests performed
+North America,USA,United States,2020,11,4,2020-11-20,2078845.0,182514505.0,551.399,6.28,0.096,10.4,tests performed
+North America,USA,United States,2020,11,5,2020-11-21,1792456.0,184306961.0,556.814,5.415,0.094,10.6,tests performed
+North America,USA,United States,2020,11,6,2020-11-22,1387347.0,185694308.0,561.006,4.191,0.096,10.4,tests performed
+North America,USA,United States,2020,11,0,2020-11-23,1626532.0,187320840.0,565.919,4.914,0.095,10.5,tests performed
+North America,USA,United States,2020,11,1,2020-11-24,1887810.0,189208650.0,571.623,5.703,0.095,10.5,tests performed
+North America,USA,United States,2020,11,2,2020-11-25,2147030.0,191355680.0,578.109,6.486,0.095,10.5,tests performed
+North America,USA,United States,2020,11,3,2020-11-26,1465653.0,192821333.0,582.537,4.428,0.097,10.3,tests performed
+North America,USA,United States,2020,11,4,2020-11-27,1468734.0,194290067.0,586.974,4.437,0.1,10.0,tests performed
+North America,USA,United States,2020,11,5,2020-11-28,1306843.0,195596910.0,590.922,3.948,0.1,10.0,tests performed
+North America,USA,United States,2020,11,6,2020-11-29,1134808.0,196731718.0,594.351,3.428,0.103,9.7,tests performed
+North America,USA,United States,2020,11,0,2020-11-30,1427511.0,198159229.0,598.664,4.313,0.104,9.6,tests performed
+North America,USA,United States,2020,12,1,2020-12-01,1786315.0,199945544.0,604.06,5.397,0.107,9.3,tests performed
+North America,USA,United States,2020,12,2,2020-12-02,2037974.0,201983518.0,610.217,6.157,0.109,9.2,tests performed
+North America,USA,United States,2020,12,3,2020-12-03,2100727.0,204084245.0,616.564,6.347,0.109,9.2,tests performed
+North America,USA,United States,2020,12,4,2020-12-04,2055397.0,206139642.0,622.773,6.21,0.108,9.3,tests performed
+North America,USA,United States,2020,12,5,2020-12-05,1640675.0,207780317.0,627.73,4.957,0.11,9.1,tests performed
+North America,USA,United States,2020,12,6,2020-12-06,1264510.0,209044827.0,631.55,3.82,0.111,9.0,tests performed
+North America,USA,United States,2020,12,0,2020-12-07,1491187.0,210536014.0,636.055,4.505,0.113,8.8,tests performed
+North America,USA,United States,2020,12,1,2020-12-08,1844188.0,212380202.0,641.627,5.572,0.116,8.6,tests performed
+North America,USA,United States,2020,12,2,2020-12-09,2057582.0,214437784.0,647.843,6.216,0.118,8.5,tests performed
+North America,USA,United States,2020,12,3,2020-12-10,2102420.0,216540204.0,654.195,6.352,0.117,8.5,tests performed
+North America,USA,United States,2020,12,4,2020-12-11,1984710.0,218524914.0,660.191,5.996,0.12,8.3,tests performed
+North America,USA,United States,2020,12,5,2020-12-12,1666816.0,220191730.0,665.226,5.036,0.12,8.3,tests performed
+North America,USA,United States,2020,12,6,2020-12-13,1209739.0,221401469.0,668.881,3.655,0.121,8.3,tests performed
+North America,USA,United States,2020,12,0,2020-12-14,1469913.0,222871382.0,673.322,4.441,0.123,8.1,tests performed
+North America,USA,United States,2020,12,1,2020-12-15,1884732.0,224756114.0,679.016,5.694,0.121,8.3,tests performed
+North America,USA,United States,2020,12,2,2020-12-16,1988694.0,226744808.0,685.024,6.008,0.123,8.1,tests performed
+North America,USA,United States,2020,12,3,2020-12-17,1971755.0,228716563.0,690.981,5.957,0.127,7.9,tests performed
+North America,USA,United States,2020,12,4,2020-12-18,1940060.0,230656623.0,696.842,5.861,0.127,7.9,tests performed
+North America,USA,United States,2020,12,5,2020-12-19,1643948.0,232300571.0,701.809,4.967,0.126,7.9,tests performed
+North America,USA,United States,2020,12,6,2020-12-20,1230196.0,233530767.0,705.525,3.717,0.127,7.9,tests performed
+North America,USA,United States,2020,12,0,2020-12-21,1452495.0,234983262.0,709.914,4.388,0.125,8.0,tests performed
+North America,USA,United States,2020,12,1,2020-12-22,1894228.0,236877490.0,715.636,5.723,0.124,8.1,tests performed
+North America,USA,United States,2020,12,2,2020-12-23,2159670.0,239037160.0,722.161,6.525,0.122,8.2,tests performed
+North America,USA,United States,2020,12,3,2020-12-24,1796854.0,240834014.0,727.589,5.429,0.119,8.4,tests performed
+North America,USA,United States,2020,12,4,2020-12-25,1043953.0,241877967.0,730.743,3.154,0.12,8.3,tests performed
+North America,USA,United States,2020,12,5,2020-12-26,953466.0,242831433.0,733.624,2.881,0.126,7.9,tests performed
+North America,USA,United States,2020,12,6,2020-12-27,913830.0,243745263.0,736.385,2.761,0.125,8.0,tests performed
+North America,USA,United States,2020,12,0,2020-12-28,1226847.0,244972110.0,740.091,3.706,0.127,7.9,tests performed
+North America,USA,United States,2020,12,1,2020-12-29,1776138.0,246748248.0,745.457,5.366,0.129,7.8,tests performed
+North America,USA,United States,2020,12,2,2020-12-30,2114814.0,248863062.0,751.846,6.389,0.129,7.8,tests performed
+North America,USA,United States,2020,12,3,2020-12-31,1847875.0,250710937.0,757.429,5.583,0.132,7.6,tests performed
+North America,USA,United States,2021,1,4,2021-01-01,1200929.0,251911866.0,761.057,3.628,0.133,7.5,tests performed
+North America,USA,United States,2021,1,5,2021-01-02,1075540.0,252987406.0,764.306,3.249,0.142,7.0,tests performed
+North America,USA,United States,2021,1,6,2021-01-03,1003827.0,253991233.0,767.339,3.033,0.147,6.8,tests performed
+North America,USA,United States,2021,1,0,2021-01-04,1335064.0,255326297.0,771.372,4.033,0.145,6.9,tests performed
+North America,USA,United States,2021,1,1,2021-01-05,1865052.0,257191349.0,777.007,5.635,0.147,6.8,tests performed
+North America,USA,United States,2021,1,2,2021-01-06,2223695.0,259415044.0,783.725,6.718,0.147,6.8,tests performed
+North America,USA,United States,2021,1,3,2021-01-07,2170341.0,261585385.0,790.282,6.557,0.147,6.8,tests performed
+North America,USA,United States,2021,1,4,2021-01-08,2057225.0,263642610.0,796.497,6.215,0.148,6.8,tests performed
+North America,USA,United States,2021,1,5,2021-01-09,1664553.0,265307163.0,801.526,5.029,0.138,7.2,tests performed
+North America,USA,United States,2021,1,6,2021-01-10,1123023.0,266430186.0,804.919,3.393,0.138,7.2,tests performed
+North America,USA,United States,2021,1,0,2021-01-11,1451229.0,267881415.0,809.303,4.384,0.139,7.2,tests performed
+North America,USA,United States,2021,1,1,2021-01-12,1917996.0,269799411.0,815.097,5.795,0.138,7.2,tests performed
+North America,USA,United States,2021,1,2,2021-01-13,2011245.0,271810656.0,821.174,6.076,0.138,7.2,tests performed
+North America,USA,United States,2021,1,3,2021-01-14,1986455.0,273797111.0,827.175,6.001,0.136,7.4,tests performed
+North America,USA,United States,2021,1,4,2021-01-15,1940458.0,275737569.0,833.037,5.862,0.131,7.6,tests performed
+North America,USA,United States,2021,1,5,2021-01-16,1508253.0,277245822.0,837.594,4.557,0.13,7.7,tests performed
+North America,USA,United States,2021,1,6,2021-01-17,1030201.0,278276023.0,840.706,3.112,0.128,7.8,tests performed
+North America,USA,United States,2021,1,0,2021-01-18,1199891.0,279475914.0,844.331,3.625,0.126,7.9,tests performed
+North America,USA,United States,2021,1,1,2021-01-19,1706228.0,281182142.0,849.486,5.155,0.122,8.2,tests performed
+North America,USA,United States,2021,1,2,2021-01-20,2036151.0,283218293.0,855.638,6.151,0.119,8.4,tests performed
+North America,USA,United States,2021,1,3,2021-01-21,1954438.0,285172731.0,861.542,5.905,0.116,8.6,tests performed
+North America,USA,United States,2021,1,4,2021-01-22,1832971.0,287005702.0,867.08,5.538,0.112,8.9,tests performed
+North America,USA,United States,2021,1,5,2021-01-23,1474035.0,288479737.0,871.533,4.453,0.109,9.2,tests performed
+North America,USA,United States,2021,1,6,2021-01-24,961741.0,289441478.0,874.439,2.906,0.105,9.5,tests performed
+North America,USA,United States,2021,1,0,2021-01-25,1185867.0,290627345.0,878.021,3.583,0.104,9.6,tests performed
+North America,USA,United States,2021,1,1,2021-01-26,1709047.0,292336392.0,883.184,5.163,0.104,9.6,tests performed
+North America,USA,United States,2021,1,2,2021-01-27,1980197.0,294316589.0,889.167,5.982,0.102,9.8,tests performed
+North America,USA,United States,2021,1,3,2021-01-28,1819104.0,296135693.0,894.663,5.496,0.101,9.9,tests performed
+North America,USA,United States,2021,1,4,2021-01-29,1747580.0,297883273.0,899.942,5.28,0.099,10.1,tests performed
+North America,USA,United States,2021,1,5,2021-01-30,1366804.0,299250077.0,904.072,4.129,0.097,10.3,tests performed
+North America,USA,United States,2021,1,6,2021-01-31,916104.0,300166181.0,906.839,2.768,0.095,10.5,tests performed
+North America,USA,United States,2021,2,0,2021-02-01,1000197.0,301166378.0,909.861,3.022,0.096,10.4,tests performed
+North America,USA,United States,2021,2,1,2021-02-02,1559928.0,302726306.0,914.574,4.713,0.094,10.6,tests performed
+North America,USA,United States,2021,2,2,2021-02-03,1780612.0,304506918.0,919.953,5.379,0.092,10.9,tests performed
+North America,USA,United States,2021,2,3,2021-02-04,1852041.0,306358959.0,925.548,5.595,0.089,11.2,tests performed
+North America,USA,United States,2021,2,4,2021-02-05,1749344.0,308108303.0,930.833,5.285,0.085,11.8,tests performed
+North America,USA,United States,2021,2,5,2021-02-06,1270936.0,309379239.0,934.673,3.84,0.083,12.0,tests performed
+North America,USA,United States,2021,2,6,2021-02-07,792176.0,310171415.0,937.066,2.393,0.081,12.3,tests performed
+North America,USA,United States,2021,2,0,2021-02-08,989085.0,311160500.0,940.054,2.988,0.078,12.8,tests performed
+North America,USA,United States,2021,2,1,2021-02-09,1589725.0,312750225.0,944.857,4.803,0.075,13.3,tests performed
+North America,USA,United States,2021,2,2,2021-02-10,1496542.0,314246767.0,949.378,4.521,0.074,13.5,tests performed
+North America,USA,United States,2021,2,3,2021-02-11,1301979.0,315548746.0,953.312,3.933,0.076,13.2,tests performed
+North America,USA,United States,2021,2,4,2021-02-12,1292181.0,316840927.0,957.216,3.904,0.077,13.0,tests performed
+North America,USA,United States,2021,2,5,2021-02-13,981586.0,317822513.0,960.181,2.965,0.077,13.0,tests performed
+North America,USA,United States,2021,2,6,2021-02-14,589558.0,318412071.0,961.962,1.781,0.076,13.2,tests performed
+North America,USA,United States,2021,2,0,2021-02-15,677729.0,319089800.0,964.01,2.048,0.075,13.3,tests performed
+North America,USA,United States,2021,2,1,2021-02-16,1007708.0,320097508.0,967.054,3.044,0.077,13.0,tests performed
+North America,USA,United States,2021,2,2,2021-02-17,1043435.0,321140943.0,970.207,3.152,0.078,12.8,tests performed
+North America,USA,United States,2021,2,3,2021-02-18,830037.0,321970980.0,972.714,2.508,0.078,12.8,tests performed
+North America,USA,United States,2021,2,4,2021-02-19,,,,,,,
+North America,USA,United States,2021,2,5,2021-02-20,,,,,,,
+North America,USA,United States,2021,2,6,2021-02-21,,,,,,,
+North America,USA,United States,2021,2,0,2021-02-22,,,,,,,
+North America,USA,United States,2021,2,1,2021-02-23,,,,,,,
+North America,USA,United States,2021,2,2,2021-02-24,,,,,,,

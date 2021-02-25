@@ -1,0 +1,364 @@
+continent,iso_code,location,year,month,weekday,date,new_tests,total_tests,total_tests_per_thousand,new_tests_per_thousand,positive_rate,tests_per_case,tests_units
+Africa,NGA,Nigeria,2020,2,4,2020-02-28,,,,,,,
+Africa,NGA,Nigeria,2020,2,5,2020-02-29,,,,,,,
+Africa,NGA,Nigeria,2020,3,6,2020-03-01,,,,,,,
+Africa,NGA,Nigeria,2020,3,0,2020-03-02,,,,,,,
+Africa,NGA,Nigeria,2020,3,1,2020-03-03,,,,,,,
+Africa,NGA,Nigeria,2020,3,2,2020-03-04,,,,,,,
+Africa,NGA,Nigeria,2020,3,3,2020-03-05,,,,,,,
+Africa,NGA,Nigeria,2020,3,4,2020-03-06,,,,,,,
+Africa,NGA,Nigeria,2020,3,5,2020-03-07,,,,,,,
+Africa,NGA,Nigeria,2020,3,6,2020-03-08,,,,,,,
+Africa,NGA,Nigeria,2020,3,0,2020-03-09,,,,,,,
+Africa,NGA,Nigeria,2020,3,1,2020-03-10,,,,,,,
+Africa,NGA,Nigeria,2020,3,2,2020-03-11,,,,,,,
+Africa,NGA,Nigeria,2020,3,3,2020-03-12,,,,,,,
+Africa,NGA,Nigeria,2020,3,4,2020-03-13,,,,,,,
+Africa,NGA,Nigeria,2020,3,5,2020-03-14,,,,,,,
+Africa,NGA,Nigeria,2020,3,6,2020-03-15,,,,,,,
+Africa,NGA,Nigeria,2020,3,0,2020-03-16,,,,,,,
+Africa,NGA,Nigeria,2020,3,1,2020-03-17,,,,,,,
+Africa,NGA,Nigeria,2020,3,2,2020-03-18,,,,,,,
+Africa,NGA,Nigeria,2020,3,3,2020-03-19,,,,,,,
+Africa,NGA,Nigeria,2020,3,4,2020-03-20,,,,,,,
+Africa,NGA,Nigeria,2020,3,5,2020-03-21,,,,,,,
+Africa,NGA,Nigeria,2020,3,6,2020-03-22,,,,,,,
+Africa,NGA,Nigeria,2020,3,0,2020-03-23,,,,,,,
+Africa,NGA,Nigeria,2020,3,1,2020-03-24,,,,,,,
+Africa,NGA,Nigeria,2020,3,2,2020-03-25,,,,,,,
+Africa,NGA,Nigeria,2020,3,3,2020-03-26,,,,,,,
+Africa,NGA,Nigeria,2020,3,4,2020-03-27,,,,,,,
+Africa,NGA,Nigeria,2020,3,5,2020-03-28,,,,,,,
+Africa,NGA,Nigeria,2020,3,6,2020-03-29,,,,,,,
+Africa,NGA,Nigeria,2020,3,0,2020-03-30,,,,,,,
+Africa,NGA,Nigeria,2020,3,1,2020-03-31,,,,,,,
+Africa,NGA,Nigeria,2020,4,2,2020-04-01,,,,,,,
+Africa,NGA,Nigeria,2020,4,3,2020-04-02,,,,,,,
+Africa,NGA,Nigeria,2020,4,4,2020-04-03,,,,,,,
+Africa,NGA,Nigeria,2020,4,5,2020-04-04,,,,,,,
+Africa,NGA,Nigeria,2020,4,6,2020-04-05,,,,,,,
+Africa,NGA,Nigeria,2020,4,0,2020-04-06,,,,,,,
+Africa,NGA,Nigeria,2020,4,1,2020-04-07,,,,,,,
+Africa,NGA,Nigeria,2020,4,2,2020-04-08,,5000.0,0.024,,,,samples tested
+Africa,NGA,Nigeria,2020,4,3,2020-04-09,,,,,,,samples tested
+Africa,NGA,Nigeria,2020,4,4,2020-04-10,,,,,,,samples tested
+Africa,NGA,Nigeria,2020,4,5,2020-04-11,,,,,,,samples tested
+Africa,NGA,Nigeria,2020,4,6,2020-04-12,,,,,,,samples tested
+Africa,NGA,Nigeria,2020,4,0,2020-04-13,,,,,,,samples tested
+Africa,NGA,Nigeria,2020,4,1,2020-04-14,,,,,,,samples tested
+Africa,NGA,Nigeria,2020,4,2,2020-04-15,,,,,0.091,11.0,samples tested
+Africa,NGA,Nigeria,2020,4,3,2020-04-16,,6649.0,0.032,,0.107,9.4,samples tested
+Africa,NGA,Nigeria,2020,4,4,2020-04-17,504.0,7153.0,0.035,0.002,0.108,9.3,samples tested
+Africa,NGA,Nigeria,2020,4,5,2020-04-18,,,,,0.111,9.0,samples tested
+Africa,NGA,Nigeria,2020,4,6,2020-04-19,,,,,0.132,7.6,samples tested
+Africa,NGA,Nigeria,2020,4,0,2020-04-20,,,,,0.125,8.0,samples tested
+Africa,NGA,Nigeria,2020,4,1,2020-04-21,,,,,0.102,9.8,samples tested
+Africa,NGA,Nigeria,2020,4,2,2020-04-22,,,,,0.149,6.7,samples tested
+Africa,NGA,Nigeria,2020,4,3,2020-04-23,,10061.0,0.049,,0.158,6.3,samples tested
+Africa,NGA,Nigeria,2020,4,4,2020-04-24,,,,,0.18,5.5,samples tested
+Africa,NGA,Nigeria,2020,4,5,2020-04-25,,10918.0,0.053,,0.195,5.1,samples tested
+Africa,NGA,Nigeria,2020,4,6,2020-04-26,,,,,0.205,4.9,samples tested
+Africa,NGA,Nigeria,2020,4,0,2020-04-27,,,,,0.221,4.5,samples tested
+Africa,NGA,Nigeria,2020,4,1,2020-04-28,,12004.0,0.058,,0.298,3.4,samples tested
+Africa,NGA,Nigeria,2020,4,2,2020-04-29,824.0,12828.0,0.062,0.004,0.263,3.8,samples tested
+Africa,NGA,Nigeria,2020,4,3,2020-04-30,,,,,0.225,4.5,samples tested
+Africa,NGA,Nigeria,2020,5,4,2020-05-01,,15759.0,0.076,,0.204,4.9,samples tested
+Africa,NGA,Nigeria,2020,5,5,2020-05-02,,,,,0.229,4.4,samples tested
+Africa,NGA,Nigeria,2020,5,6,2020-05-03,,16588.0,0.08,,0.242,4.1,samples tested
+Africa,NGA,Nigeria,2020,5,0,2020-05-04,1948.0,18536.0,0.09,0.009,0.212,4.7,samples tested
+Africa,NGA,Nigeria,2020,5,1,2020-05-05,976.0,19512.0,0.095,0.005,0.189,5.3,samples tested
+Africa,NGA,Nigeria,2020,5,2,2020-05-06,1696.0,21208.0,0.103,0.008,0.169,5.9,samples tested
+Africa,NGA,Nigeria,2020,5,3,2020-05-07,1284.0,22492.0,0.109,0.006,0.194,5.1,samples tested
+Africa,NGA,Nigeria,2020,5,4,2020-05-08,1343.0,23835.0,0.116,0.007,0.216,4.6,samples tested
+Africa,NGA,Nigeria,2020,5,5,2020-05-09,,,,,0.202,5.0,samples tested
+Africa,NGA,Nigeria,2020,5,6,2020-05-10,,,,,0.196,5.1,samples tested
+Africa,NGA,Nigeria,2020,5,0,2020-05-11,,27078.0,0.131,,0.215,4.6,samples tested
+Africa,NGA,Nigeria,2020,5,1,2020-05-12,1340.0,28418.0,0.138,0.007,0.206,4.8,samples tested
+Africa,NGA,Nigeria,2020,5,2,2020-05-13,990.0,29408.0,0.143,0.005,0.223,4.5,samples tested
+Africa,NGA,Nigeria,2020,5,3,2020-05-14,1249.0,30657.0,0.149,0.006,0.2,5.0,samples tested
+Africa,NGA,Nigeria,2020,5,4,2020-05-15,,,,,0.193,5.2,samples tested
+Africa,NGA,Nigeria,2020,5,5,2020-05-16,,32942.0,0.16,,0.183,5.5,samples tested
+Africa,NGA,Nigeria,2020,5,6,2020-05-17,1028.0,33970.0,0.165,0.005,0.196,5.1,samples tested
+Africa,NGA,Nigeria,2020,5,0,2020-05-18,1375.0,35345.0,0.171,0.007,0.186,5.4,samples tested
+Africa,NGA,Nigeria,2020,5,1,2020-05-19,1554.0,36899.0,0.179,0.008,0.19,5.3,samples tested
+Africa,NGA,Nigeria,2020,5,2,2020-05-20,1332.0,38231.0,0.185,0.006,0.193,5.2,samples tested
+Africa,NGA,Nigeria,2020,5,3,2020-05-21,,,,,0.197,5.1,samples tested
+Africa,NGA,Nigeria,2020,5,4,2020-05-22,,41907.0,0.203,,0.179,5.6,samples tested
+Africa,NGA,Nigeria,2020,5,5,2020-05-23,1421.0,43328.0,0.21,0.007,0.183,5.5,samples tested
+Africa,NGA,Nigeria,2020,5,6,2020-05-24,1130.0,44458.0,0.216,0.005,0.179,5.6,samples tested
+Africa,NGA,Nigeria,2020,5,0,2020-05-25,1225.0,45683.0,0.222,0.006,0.183,5.5,samples tested
+Africa,NGA,Nigeria,2020,5,1,2020-05-26,1120.0,46803.0,0.227,0.005,0.196,5.1,samples tested
+Africa,NGA,Nigeria,2020,5,2,2020-05-27,1741.0,48544.0,0.235,0.008,0.199,5.0,samples tested
+Africa,NGA,Nigeria,2020,5,3,2020-05-28,1422.0,49966.0,0.242,0.007,0.192,5.2,samples tested
+Africa,NGA,Nigeria,2020,5,4,2020-05-29,8760.0,58726.0,0.285,0.042,0.121,8.2,samples tested
+Africa,NGA,Nigeria,2020,5,5,2020-05-30,2099.0,60825.0,0.295,0.01,0.133,7.5,samples tested
+Africa,NGA,Nigeria,2020,5,6,2020-05-31,,,,,0.13,7.7,samples tested
+Africa,NGA,Nigeria,2020,6,0,2020-06-01,,63882.0,0.31,,0.138,7.3,samples tested
+Africa,NGA,Nigeria,2020,6,1,2020-06-02,2003.0,65885.0,0.32,0.01,0.13,7.7,samples tested
+Africa,NGA,Nigeria,2020,6,2,2020-06-03,3916.0,69801.0,0.339,0.019,0.114,8.7,samples tested
+Africa,NGA,Nigeria,2020,6,3,2020-06-04,1535.0,71336.0,0.346,0.007,0.122,8.2,samples tested
+Africa,NGA,Nigeria,2020,6,4,2020-06-05,1728.0,73064.0,0.354,0.008,0.177,5.6,samples tested
+Africa,NGA,Nigeria,2020,6,5,2020-06-06,1935.0,74999.0,0.364,0.009,0.168,6.0,samples tested
+Africa,NGA,Nigeria,2020,6,6,2020-06-07,1803.0,76802.0,0.373,0.009,0.161,6.2,samples tested
+Africa,NGA,Nigeria,2020,6,0,2020-06-08,1442.0,78244.0,0.38,0.007,0.155,6.5,samples tested
+Africa,NGA,Nigeria,2020,6,1,2020-06-09,1704.0,79948.0,0.388,0.008,0.188,5.3,samples tested
+Africa,NGA,Nigeria,2020,6,2,2020-06-10,2987.0,82935.0,0.402,0.014,0.206,4.9,samples tested
+Africa,NGA,Nigeria,2020,6,3,2020-06-11,2440.0,85375.0,0.414,0.012,0.216,4.6,samples tested
+Africa,NGA,Nigeria,2020,6,4,2020-06-12,,,,,0.225,4.5,samples tested
+Africa,NGA,Nigeria,2020,6,5,2020-06-13,,90464.0,0.439,,0.223,4.5,samples tested
+Africa,NGA,Nigeria,2020,6,6,2020-06-14,2460.0,92924.0,0.451,0.012,0.223,4.5,samples tested
+Africa,NGA,Nigeria,2020,6,0,2020-06-15,1399.0,94323.0,0.458,0.007,0.24,4.2,samples tested
+Africa,NGA,Nigeria,2020,6,1,2020-06-16,2079.0,96402.0,0.468,0.01,0.224,4.5,samples tested
+Africa,NGA,Nigeria,2020,6,2,2020-06-17,,,,,0.211,4.7,samples tested
+Africa,NGA,Nigeria,2020,6,3,2020-06-18,,106006.0,0.514,,0.19,5.3,samples tested
+Africa,NGA,Nigeria,2020,6,4,2020-06-19,2542.0,108548.0,0.527,0.012,0.192,5.2,samples tested
+Africa,NGA,Nigeria,2020,6,5,2020-06-20,2504.0,111052.0,0.539,0.012,0.2,5.0,samples tested
+Africa,NGA,Nigeria,2020,6,6,2020-06-21,2523.0,113575.0,0.551,0.012,0.201,5.0,samples tested
+Africa,NGA,Nigeria,2020,6,0,2020-06-22,2185.0,115760.0,0.562,0.011,0.199,5.0,samples tested
+Africa,NGA,Nigeria,2020,6,1,2020-06-23,1809.0,117569.0,0.57,0.009,0.199,5.0,samples tested
+Africa,NGA,Nigeria,2020,6,2,2020-06-24,2539.0,120108.0,0.583,0.012,0.227,4.4,samples tested
+Africa,NGA,Nigeria,2020,6,3,2020-06-25,2047.0,122155.0,0.593,0.01,0.256,3.9,samples tested
+Africa,NGA,Nigeria,2020,6,4,2020-06-26,,,,,0.258,3.9,samples tested
+Africa,NGA,Nigeria,2020,6,5,2020-06-27,,127158.0,0.617,,0.265,3.8,samples tested
+Africa,NGA,Nigeria,2020,6,6,2020-06-28,3006.0,130164.0,0.631,0.015,0.261,3.8,samples tested
+Africa,NGA,Nigeria,2020,6,0,2020-06-29,2140.0,132304.0,0.642,0.01,0.255,3.9,samples tested
+Africa,NGA,Nigeria,2020,6,1,2020-06-30,1953.0,134257.0,0.651,0.009,0.259,3.9,samples tested
+Africa,NGA,Nigeria,2020,7,2,2020-07-01,4205.0,138462.0,0.672,0.02,0.243,4.1,samples tested
+Africa,NGA,Nigeria,2020,7,3,2020-07-02,3063.0,141525.0,0.687,0.015,0.232,4.3,samples tested
+Africa,NGA,Nigeria,2020,7,4,2020-07-03,3308.0,144833.0,0.703,0.016,0.211,4.7,samples tested
+Africa,NGA,Nigeria,2020,7,5,2020-07-04,3355.0,148188.0,0.719,0.016,0.195,5.1,samples tested
+Africa,NGA,Nigeria,2020,7,6,2020-07-05,2933.0,151121.0,0.733,0.014,0.198,5.1,samples tested
+Africa,NGA,Nigeria,2020,7,0,2020-07-06,1831.0,152952.0,0.742,0.009,0.201,5.0,samples tested
+Africa,NGA,Nigeria,2020,7,1,2020-07-07,,,,,0.151,6.6,samples tested
+Africa,NGA,Nigeria,2020,7,2,2020-07-08,,169629.0,0.823,,0.121,8.3,samples tested
+Africa,NGA,Nigeria,2020,7,3,2020-07-09,2302.0,171931.0,0.834,0.011,0.12,8.4,samples tested
+Africa,NGA,Nigeria,2020,7,4,2020-07-10,3725.0,175656.0,0.852,0.018,0.122,8.2,samples tested
+Africa,NGA,Nigeria,2020,7,5,2020-07-11,2609.0,178265.0,0.865,0.013,0.127,7.9,samples tested
+Africa,NGA,Nigeria,2020,7,6,2020-07-12,2983.0,181248.0,0.879,0.014,0.128,7.8,samples tested
+Africa,NGA,Nigeria,2020,7,0,2020-07-13,2046.0,183294.0,0.889,0.01,0.127,7.8,samples tested
+Africa,NGA,Nigeria,2020,7,1,2020-07-14,,,,,0.128,7.8,samples tested
+Africa,NGA,Nigeria,2020,7,2,2020-07-15,,199016.0,0.965,,0.136,7.3,samples tested
+Africa,NGA,Nigeria,2020,7,3,2020-07-16,3081.0,202097.0,0.98,0.015,0.136,7.3,samples tested
+Africa,NGA,Nigeria,2020,7,4,2020-07-17,4325.0,206422.0,1.001,0.021,0.134,7.4,samples tested
+Africa,NGA,Nigeria,2020,7,5,2020-07-18,3024.0,209446.0,1.016,0.015,0.132,7.6,samples tested
+Africa,NGA,Nigeria,2020,7,6,2020-07-19,2755.0,212201.0,1.029,0.013,0.133,7.5,samples tested
+Africa,NGA,Nigeria,2020,7,0,2020-07-20,,,,,0.128,7.8,samples tested
+Africa,NGA,Nigeria,2020,7,1,2020-07-21,,218223.0,1.059,,0.155,6.5,samples tested
+Africa,NGA,Nigeria,2020,7,2,2020-07-22,29602.0,247825.0,1.202,0.144,0.084,11.9,samples tested
+Africa,NGA,Nigeria,2020,7,3,2020-07-23,4068.0,251893.0,1.222,0.02,0.082,12.2,samples tested
+Africa,NGA,Nigeria,2020,7,4,2020-07-24,4145.0,256038.0,1.242,0.02,0.082,12.1,samples tested
+Africa,NGA,Nigeria,2020,7,5,2020-07-25,3478.0,259516.0,1.259,0.017,0.077,12.9,samples tested
+Africa,NGA,Nigeria,2020,7,6,2020-07-26,3063.0,262579.0,1.274,0.015,0.077,13.0,samples tested
+Africa,NGA,Nigeria,2020,7,0,2020-07-27,5263.0,267842.0,1.299,0.026,0.075,13.3,samples tested
+Africa,NGA,Nigeria,2020,7,1,2020-07-28,4906.0,272748.0,1.323,0.024,0.073,13.6,samples tested
+Africa,NGA,Nigeria,2020,7,2,2020-07-29,3305.0,276053.0,1.339,0.016,0.137,7.3,samples tested
+Africa,NGA,Nigeria,2020,7,3,2020-07-30,3622.0,279675.0,1.357,0.018,0.135,7.4,samples tested
+Africa,NGA,Nigeria,2020,7,4,2020-07-31,,,,,0.135,7.4,samples tested
+Africa,NGA,Nigeria,2020,8,5,2020-08-01,,286091.0,1.388,,0.134,7.5,samples tested
+Africa,NGA,Nigeria,2020,8,6,2020-08-02,1441.0,287532.0,1.395,0.007,0.133,7.5,samples tested
+Africa,NGA,Nigeria,2020,8,0,2020-08-03,1601.0,289133.0,1.403,0.008,0.138,7.2,samples tested
+Africa,NGA,Nigeria,2020,8,1,2020-08-04,15088.0,304221.0,1.476,0.073,0.084,12.0,samples tested
+Africa,NGA,Nigeria,2020,8,2,2020-08-05,,,,,0.091,11.0,samples tested
+Africa,NGA,Nigeria,2020,8,3,2020-08-06,,306894.0,1.489,,0.094,10.7,samples tested
+Africa,NGA,Nigeria,2020,8,4,2020-08-07,3835.0,310729.0,1.507,0.019,0.091,11.0,samples tested
+Africa,NGA,Nigeria,2020,8,5,2020-08-08,3903.0,314632.0,1.526,0.019,0.091,11.0,samples tested
+Africa,NGA,Nigeria,2020,8,6,2020-08-09,2864.0,317496.0,1.54,0.014,0.091,11.0,samples tested
+Africa,NGA,Nigeria,2020,8,0,2020-08-10,2355.0,319851.0,1.552,0.011,0.089,11.2,samples tested
+Africa,NGA,Nigeria,2020,8,1,2020-08-11,,,,,0.115,8.7,samples tested
+Africa,NGA,Nigeria,2020,8,2,2020-08-12,,338084.0,1.64,,0.088,11.4,samples tested
+Africa,NGA,Nigeria,2020,8,3,2020-08-13,3337.0,341421.0,1.656,0.016,0.083,12.0,samples tested
+Africa,NGA,Nigeria,2020,8,4,2020-08-14,2976.0,344397.0,1.671,0.014,0.082,12.2,samples tested
+Africa,NGA,Nigeria,2020,8,5,2020-08-15,,,,,0.08,12.5,samples tested
+Africa,NGA,Nigeria,2020,8,6,2020-08-16,,350589.0,1.701,,0.075,13.3,samples tested
+Africa,NGA,Nigeria,2020,8,0,2020-08-17,2036.0,352625.0,1.711,0.01,0.08,12.5,samples tested
+Africa,NGA,Nigeria,2020,8,1,2020-08-18,2571.0,355196.0,1.723,0.012,0.099,10.1,samples tested
+Africa,NGA,Nigeria,2020,8,2,2020-08-19,8135.0,363331.0,1.763,0.039,0.109,9.2,samples tested
+Africa,NGA,Nigeria,2020,8,3,2020-08-20,2913.0,366244.0,1.777,0.014,0.115,8.7,samples tested
+Africa,NGA,Nigeria,2020,8,4,2020-08-21,3660.0,369904.0,1.794,0.018,0.112,8.9,samples tested
+Africa,NGA,Nigeria,2020,8,5,2020-08-22,4173.0,374077.0,1.815,0.02,0.118,8.5,samples tested
+Africa,NGA,Nigeria,2020,8,6,2020-08-23,3946.0,378023.0,1.834,0.019,0.115,8.7,samples tested
+Africa,NGA,Nigeria,2020,8,0,2020-08-24,1519.0,379542.0,1.841,0.007,0.114,8.8,samples tested
+Africa,NGA,Nigeria,2020,8,1,2020-08-25,3588.0,383130.0,1.859,0.017,0.104,9.6,samples tested
+Africa,NGA,Nigeria,2020,8,2,2020-08-26,5216.0,388346.0,1.884,0.025,0.101,9.9,samples tested
+Africa,NGA,Nigeria,2020,8,3,2020-08-27,3156.0,391502.0,1.899,0.015,0.093,10.7,samples tested
+Africa,NGA,Nigeria,2020,8,4,2020-08-28,3022.0,394524.0,1.914,0.015,0.088,11.3,samples tested
+Africa,NGA,Nigeria,2020,8,5,2020-08-29,3780.0,398304.0,1.932,0.018,0.075,13.3,samples tested
+Africa,NGA,Nigeria,2020,8,6,2020-08-30,3766.0,402070.0,1.95,0.018,0.068,14.7,samples tested
+Africa,NGA,Nigeria,2020,8,0,2020-08-31,1277.0,403347.0,1.957,0.006,0.061,16.3,samples tested
+Africa,NGA,Nigeria,2020,9,1,2020-09-01,,,,,0.06,16.6,samples tested
+Africa,NGA,Nigeria,2020,9,2,2020-09-02,,411077.0,1.994,,0.063,15.8,samples tested
+Africa,NGA,Nigeria,2020,9,3,2020-09-03,2188.0,413265.0,2.005,0.011,0.058,17.1,samples tested
+Africa,NGA,Nigeria,2020,9,4,2020-09-04,,,,,0.061,16.4,samples tested
+Africa,NGA,Nigeria,2020,9,5,2020-09-05,,417398.0,2.025,,0.062,16.2,samples tested
+Africa,NGA,Nigeria,2020,9,6,2020-09-06,3145.0,420543.0,2.04,0.015,0.062,16.2,samples tested
+Africa,NGA,Nigeria,2020,9,0,2020-09-07,3643.0,424186.0,2.058,0.018,0.055,18.1,samples tested
+Africa,NGA,Nigeria,2020,9,1,2020-09-08,2617.0,426803.0,2.07,0.013,0.062,16.2,samples tested
+Africa,NGA,Nigeria,2020,9,2,2020-09-09,3909.0,430712.0,2.089,0.019,0.06,16.8,samples tested
+Africa,NGA,Nigeria,2020,9,3,2020-09-10,2494.0,433206.0,2.102,0.012,0.062,16.1,samples tested
+Africa,NGA,Nigeria,2020,9,4,2020-09-11,3025.0,436231.0,2.116,0.015,0.061,16.4,samples tested
+Africa,NGA,Nigeria,2020,9,5,2020-09-12,1904.0,438135.0,2.125,0.009,0.061,16.3,samples tested
+Africa,NGA,Nigeria,2020,9,6,2020-09-13,2113.0,440248.0,2.136,0.01,0.063,15.8,samples tested
+Africa,NGA,Nigeria,2020,9,0,2020-09-14,1827.0,442075.0,2.145,0.009,0.069,14.6,samples tested
+Africa,NGA,Nigeria,2020,9,1,2020-09-15,1912.0,443987.0,2.154,0.009,0.059,16.8,samples tested
+Africa,NGA,Nigeria,2020,9,2,2020-09-16,,,,,0.043,23.3,samples tested
+Africa,NGA,Nigeria,2020,9,3,2020-09-17,,,,,0.031,32.7,samples tested
+Africa,NGA,Nigeria,2020,9,4,2020-09-18,,472191.0,2.291,,0.026,38.3,samples tested
+Africa,NGA,Nigeria,2020,9,5,2020-09-19,,,,,0.026,38.2,samples tested
+Africa,NGA,Nigeria,2020,9,6,2020-09-20,,,,,0.026,38.3,samples tested
+Africa,NGA,Nigeria,2020,9,0,2020-09-21,,480874.0,2.333,,0.027,37.0,samples tested
+Africa,NGA,Nigeria,2020,9,1,2020-09-22,,,,,0.03,33.9,samples tested
+Africa,NGA,Nigeria,2020,9,2,2020-09-23,,484051.0,2.348,,0.037,27.4,samples tested
+Africa,NGA,Nigeria,2020,9,3,2020-09-24,,,,,0.042,23.8,samples tested
+Africa,NGA,Nigeria,2020,9,4,2020-09-25,,494577.0,2.399,,0.049,20.2,samples tested
+Africa,NGA,Nigeria,2020,9,5,2020-09-26,7968.0,502545.0,2.438,0.039,0.038,26.1,samples tested
+Africa,NGA,Nigeria,2020,9,6,2020-09-27,,,,,0.04,24.8,samples tested
+Africa,NGA,Nigeria,2020,9,0,2020-09-28,,507006.0,2.46,,0.039,25.5,samples tested
+Africa,NGA,Nigeria,2020,9,1,2020-09-29,2549.0,509555.0,2.472,0.012,0.038,26.2,samples tested
+Africa,NGA,Nigeria,2020,9,2,2020-09-30,,,,,0.04,25.2,samples tested
+Africa,NGA,Nigeria,2020,10,3,2020-10-01,,,,,0.045,22.5,samples tested
+Africa,NGA,Nigeria,2020,10,4,2020-10-02,,,,,0.045,22.0,samples tested
+Africa,NGA,Nigeria,2020,10,5,2020-10-03,,520797.0,2.526,,0.06,16.8,samples tested
+Africa,NGA,Nigeria,2020,10,6,2020-10-04,11968.0,532765.0,2.584,0.058,0.036,27.4,samples tested
+Africa,NGA,Nigeria,2020,10,0,2020-10-05,3930.0,536695.0,2.604,0.019,0.034,29.5,samples tested
+Africa,NGA,Nigeria,2020,10,1,2020-10-06,,,,,0.031,32.6,samples tested
+Africa,NGA,Nigeria,2020,10,2,2020-10-07,,543415.0,2.636,,0.029,34.9,samples tested
+Africa,NGA,Nigeria,2020,10,3,2020-10-08,1949.0,545364.0,2.646,0.009,0.028,35.9,samples tested
+Africa,NGA,Nigeria,2020,10,4,2020-10-09,,,,,0.028,35.1,samples tested
+Africa,NGA,Nigeria,2020,10,5,2020-10-10,,551362.0,2.675,,0.027,37.5,samples tested
+Africa,NGA,Nigeria,2020,10,6,2020-10-11,1675.0,553037.0,2.683,0.008,0.045,22.0,samples tested
+Africa,NGA,Nigeria,2020,10,0,2020-10-12,969.0,554006.0,2.688,0.005,0.056,17.9,samples tested
+Africa,NGA,Nigeria,2020,10,1,2020-10-13,4307.0,558313.0,2.708,0.021,0.059,17.0,samples tested
+Africa,NGA,Nigeria,2020,10,2,2020-10-14,6623.0,564936.0,2.741,0.032,0.051,19.6,samples tested
+Africa,NGA,Nigeria,2020,10,3,2020-10-15,2921.0,567857.0,2.755,0.014,0.051,19.7,samples tested
+Africa,NGA,Nigeria,2020,10,4,2020-10-16,4848.0,572705.0,2.778,0.024,0.049,20.2,samples tested
+Africa,NGA,Nigeria,2020,10,5,2020-10-17,3479.0,576184.0,2.795,0.017,0.049,20.6,samples tested
+Africa,NGA,Nigeria,2020,10,6,2020-10-18,2657.0,578841.0,2.808,0.013,0.046,22.0,samples tested
+Africa,NGA,Nigeria,2020,10,0,2020-10-19,,,,,0.037,27.2,samples tested
+Africa,NGA,Nigeria,2020,10,1,2020-10-20,,590635.0,2.865,,0.03,33.1,samples tested
+Africa,NGA,Nigeria,2020,10,2,2020-10-21,4648.0,595283.0,2.888,0.023,0.027,36.4,samples tested
+Africa,NGA,Nigeria,2020,10,3,2020-10-22,,,,,0.027,37.6,samples tested
+Africa,NGA,Nigeria,2020,10,4,2020-10-23,,602239.0,2.922,,0.023,42.9,samples tested
+Africa,NGA,Nigeria,2020,10,5,2020-10-24,,,,,0.023,42.9,samples tested
+Africa,NGA,Nigeria,2020,10,6,2020-10-25,,603611.0,2.928,,0.022,44.9,samples tested
+Africa,NGA,Nigeria,2020,10,0,2020-10-26,8543.0,612154.0,2.97,0.041,0.02,49.6,samples tested
+Africa,NGA,Nigeria,2020,10,1,2020-10-27,2326.0,614480.0,2.981,0.011,0.025,40.1,samples tested
+Africa,NGA,Nigeria,2020,10,2,2020-10-28,3270.0,617750.0,2.997,0.016,0.031,31.9,samples tested
+Africa,NGA,Nigeria,2020,10,3,2020-10-29,3008.0,620758.0,3.011,0.015,0.033,30.7,samples tested
+Africa,NGA,Nigeria,2020,10,4,2020-10-30,,,,,0.039,25.8,samples tested
+Africa,NGA,Nigeria,2020,10,5,2020-10-31,,625510.0,3.034,,0.041,24.5,samples tested
+Africa,NGA,Nigeria,2020,11,6,2020-11-01,2090.0,627600.0,3.045,0.01,0.041,24.7,samples tested
+Africa,NGA,Nigeria,2020,11,0,2020-11-02,,,,,0.032,31.5,samples tested
+Africa,NGA,Nigeria,2020,11,1,2020-11-03,,,,,0.023,42.7,samples tested
+Africa,NGA,Nigeria,2020,11,2,2020-11-04,,668729.0,3.244,,0.019,53.3,samples tested
+Africa,NGA,Nigeria,2020,11,3,2020-11-05,4454.0,673183.0,3.266,0.022,0.019,53.1,samples tested
+Africa,NGA,Nigeria,2020,11,4,2020-11-06,,,,,0.019,52.2,samples tested
+Africa,NGA,Nigeria,2020,11,5,2020-11-07,,681599.0,3.306,,0.017,59.9,samples tested
+Africa,NGA,Nigeria,2020,11,6,2020-11-08,4796.0,686395.0,3.33,0.023,0.019,52.2,samples tested
+Africa,NGA,Nigeria,2020,11,0,2020-11-09,1557.0,687952.0,3.337,0.008,0.025,40.6,samples tested
+Africa,NGA,Nigeria,2020,11,1,2020-11-10,,,,,0.032,31.1,samples tested
+Africa,NGA,Nigeria,2020,11,2,2020-11-11,,,,,0.046,21.6,samples tested
+Africa,NGA,Nigeria,2020,11,3,2020-11-12,,697544.0,3.384,,0.05,20.0,samples tested
+Africa,NGA,Nigeria,2020,11,4,2020-11-13,,,,,0.047,21.1,samples tested
+Africa,NGA,Nigeria,2020,11,5,2020-11-14,,705809.0,3.424,,0.05,20.1,samples tested
+Africa,NGA,Nigeria,2020,11,6,2020-11-15,,,,,0.045,22.1,samples tested
+Africa,NGA,Nigeria,2020,11,0,2020-11-16,,,,,0.044,22.9,samples tested
+Africa,NGA,Nigeria,2020,11,1,2020-11-17,,,,,0.042,23.6,samples tested
+Africa,NGA,Nigeria,2020,11,2,2020-11-18,,721516.0,3.5,,0.043,23.1,samples tested
+Africa,NGA,Nigeria,2020,11,3,2020-11-19,3278.0,724794.0,3.516,0.016,0.041,24.5,samples tested
+Africa,NGA,Nigeria,2020,11,4,2020-11-20,3334.0,728128.0,3.532,0.016,0.042,24.1,samples tested
+Africa,NGA,Nigeria,2020,11,5,2020-11-21,11088.0,739216.0,3.586,0.054,0.037,27.1,samples tested
+Africa,NGA,Nigeria,2020,11,6,2020-11-22,4082.0,743298.0,3.606,0.02,0.037,27.2,samples tested
+Africa,NGA,Nigeria,2020,11,0,2020-11-23,,,,,0.035,28.7,samples tested
+Africa,NGA,Nigeria,2020,11,1,2020-11-24,,749136.0,3.634,,0.036,27.4,samples tested
+Africa,NGA,Nigeria,2020,11,2,2020-11-25,,,,,0.036,28.0,samples tested
+Africa,NGA,Nigeria,2020,11,3,2020-11-26,,756237.0,3.669,,0.036,27.7,samples tested
+Africa,NGA,Nigeria,2020,11,4,2020-11-27,,,,,0.038,26.5,samples tested
+Africa,NGA,Nigeria,2020,11,5,2020-11-28,,,,,0.042,24.0,samples tested
+Africa,NGA,Nigeria,2020,11,6,2020-11-29,,,,,0.038,26.3,samples tested
+Africa,NGA,Nigeria,2020,11,0,2020-11-30,,,,,0.039,25.8,samples tested
+Africa,NGA,Nigeria,2020,12,1,2020-12-01,,779708.0,3.782,,0.04,24.8,samples tested
+Africa,NGA,Nigeria,2020,12,2,2020-12-02,,,,,0.037,26.8,samples tested
+Africa,NGA,Nigeria,2020,12,3,2020-12-03,,,,,0.042,23.6,samples tested
+Africa,NGA,Nigeria,2020,12,4,2020-12-04,,791539.0,3.84,,0.046,21.8,samples tested
+Africa,NGA,Nigeria,2020,12,5,2020-12-05,,,,,0.054,18.6,samples tested
+Africa,NGA,Nigeria,2020,12,6,2020-12-06,,,,,0.063,15.9,samples tested
+Africa,NGA,Nigeria,2020,12,0,2020-12-07,,803621.0,3.898,,0.073,13.7,samples tested
+Africa,NGA,Nigeria,2020,12,1,2020-12-08,14292.0,817913.0,3.968,0.069,0.062,16.2,samples tested
+Africa,NGA,Nigeria,2020,12,2,2020-12-09,4318.0,822231.0,3.989,0.021,0.07,14.2,samples tested
+Africa,NGA,Nigeria,2020,12,3,2020-12-10,7512.0,829743.0,4.025,0.036,0.072,13.9,samples tested
+Africa,NGA,Nigeria,2020,12,4,2020-12-11,4012.0,833755.0,4.045,0.019,0.083,12.0,samples tested
+Africa,NGA,Nigeria,2020,12,5,2020-12-12,4578.0,838333.0,4.067,0.022,0.089,11.2,samples tested
+Africa,NGA,Nigeria,2020,12,6,2020-12-13,7125.0,845458.0,4.101,0.035,0.085,11.7,samples tested
+Africa,NGA,Nigeria,2020,12,0,2020-12-14,2736.0,848194.0,4.115,0.013,0.084,12.0,samples tested
+Africa,NGA,Nigeria,2020,12,1,2020-12-15,,,,,0.11,9.1,samples tested
+Africa,NGA,Nigeria,2020,12,2,2020-12-16,,859357.0,4.169,,0.118,8.5,samples tested
+Africa,NGA,Nigeria,2020,12,3,2020-12-17,4747.0,864104.0,4.192,0.023,0.142,7.1,samples tested
+Africa,NGA,Nigeria,2020,12,4,2020-12-18,5258.0,869362.0,4.217,0.026,0.137,7.3,samples tested
+Africa,NGA,Nigeria,2020,12,5,2020-12-19,5255.0,874617.0,4.243,0.025,0.143,7.0,samples tested
+Africa,NGA,Nigeria,2020,12,6,2020-12-20,,,,,0.136,7.3,samples tested
+Africa,NGA,Nigeria,2020,12,0,2020-12-21,,893590.0,4.335,,0.119,8.4,samples tested
+Africa,NGA,Nigeria,2020,12,1,2020-12-22,10210.0,903800.0,4.384,0.05,0.113,8.8,samples tested
+Africa,NGA,Nigeria,2020,12,2,2020-12-23,,,,,0.121,8.3,samples tested
+Africa,NGA,Nigeria,2020,12,3,2020-12-24,,912114.0,4.425,,0.12,8.3,samples tested
+Africa,NGA,Nigeria,2020,12,4,2020-12-25,,,,,0.116,8.6,samples tested
+Africa,NGA,Nigeria,2020,12,5,2020-12-26,,925215.0,4.488,,0.112,9.0,samples tested
+Africa,NGA,Nigeria,2020,12,6,2020-12-27,,,,,0.134,7.5,samples tested
+Africa,NGA,Nigeria,2020,12,0,2020-12-28,,932327.0,4.523,,0.155,6.4,samples tested
+Africa,NGA,Nigeria,2020,12,1,2020-12-29,5385.0,937712.0,4.549,0.026,0.17,5.9,samples tested
+Africa,NGA,Nigeria,2020,12,2,2020-12-30,890.0,938602.0,4.553,0.004,0.184,5.4,samples tested
+Africa,NGA,Nigeria,2020,12,3,2020-12-31,9446.0,948048.0,4.599,0.046,0.157,6.4,samples tested
+Africa,NGA,Nigeria,2021,1,4,2021-01-01,,,,,0.183,5.5,samples tested
+Africa,NGA,Nigeria,2021,1,5,2021-01-02,,952975.0,4.623,,0.201,5.0,samples tested
+Africa,NGA,Nigeria,2021,1,6,2021-01-03,2454.0,955429.0,4.635,0.012,0.213,4.7,samples tested
+Africa,NGA,Nigeria,2021,1,0,2021-01-04,3482.0,958911.0,4.652,0.017,0.246,4.1,samples tested
+Africa,NGA,Nigeria,2021,1,1,2021-01-05,21135.0,980046.0,4.754,0.103,0.169,5.9,samples tested
+Africa,NGA,Nigeria,2021,1,2,2021-01-06,,,,,0.145,6.9,samples tested
+Africa,NGA,Nigeria,2021,1,3,2021-01-07,,1004915.0,4.875,,0.146,6.8,samples tested
+Africa,NGA,Nigeria,2021,1,4,2021-01-08,6669.0,1011584.0,4.907,0.032,0.146,6.9,samples tested
+Africa,NGA,Nigeria,2021,1,5,2021-01-09,6477.0,1018061.0,4.939,0.031,0.152,6.6,samples tested
+Africa,NGA,Nigeria,2021,1,6,2021-01-10,7499.0,1025560.0,4.975,0.036,0.143,7.0,samples tested
+Africa,NGA,Nigeria,2021,1,0,2021-01-11,8298.0,1033858.0,5.015,0.04,0.133,7.5,samples tested
+Africa,NGA,Nigeria,2021,1,1,2021-01-12,,,,,0.113,8.9,samples tested
+Africa,NGA,Nigeria,2021,1,2,2021-01-13,,,,,0.088,11.3,samples tested
+Africa,NGA,Nigeria,2021,1,3,2021-01-14,,1135535.0,5.509,,0.073,13.7,samples tested
+Africa,NGA,Nigeria,2021,1,4,2021-01-15,5612.0,1141147.0,5.536,0.027,0.076,13.1,samples tested
+Africa,NGA,Nigeria,2021,1,5,2021-01-16,6376.0,1147523.0,5.567,0.031,0.076,13.1,samples tested
+Africa,NGA,Nigeria,2021,1,6,2021-01-17,6615.0,1154138.0,5.599,0.032,0.08,12.5,samples tested
+Africa,NGA,Nigeria,2021,1,0,2021-01-18,18096.0,1172234.0,5.687,0.088,0.077,13.0,samples tested
+Africa,NGA,Nigeria,2021,1,1,2021-01-19,19632.0,1191866.0,5.782,0.095,0.086,11.6,samples tested
+Africa,NGA,Nigeria,2021,1,2,2021-01-20,6892.0,1198758.0,5.815,0.033,0.11,9.1,samples tested
+Africa,NGA,Nigeria,2021,1,3,2021-01-21,4355.0,1203113.0,5.836,0.021,0.165,6.0,samples tested
+Africa,NGA,Nigeria,2021,1,4,2021-01-22,22066.0,1225179.0,5.943,0.107,0.128,7.8,samples tested
+Africa,NGA,Nigeria,2021,1,5,2021-01-23,16051.0,1241230.0,6.021,0.078,0.124,8.0,samples tested
+Africa,NGA,Nigeria,2021,1,6,2021-01-24,17304.0,1258534.0,6.105,0.084,0.107,9.3,samples tested
+Africa,NGA,Nigeria,2021,1,0,2021-01-25,11989.0,1270523.0,6.163,0.058,0.112,8.9,samples tested
+Africa,NGA,Nigeria,2021,1,1,2021-01-26,,,,,0.131,7.6,samples tested
+Africa,NGA,Nigeria,2021,1,2,2021-01-27,,,,,0.139,7.2,samples tested
+Africa,NGA,Nigeria,2021,1,3,2021-01-28,,,,,0.124,8.0,samples tested
+Africa,NGA,Nigeria,2021,1,4,2021-01-29,,,,,0.158,6.3,samples tested
+Africa,NGA,Nigeria,2021,1,5,2021-01-30,,,,,0.178,5.6,samples tested
+Africa,NGA,Nigeria,2021,1,6,2021-01-31,,1302410.0,6.318,,0.221,4.5,samples tested
+Africa,NGA,Nigeria,2021,2,0,2021-02-01,,,,,0.203,4.9,samples tested
+Africa,NGA,Nigeria,2021,2,1,2021-02-02,,,,,0.183,5.5,samples tested
+Africa,NGA,Nigeria,2021,2,2,2021-02-03,,,,,0.149,6.7,samples tested
+Africa,NGA,Nigeria,2021,2,3,2021-02-04,,,,,0.141,7.1,samples tested
+Africa,NGA,Nigeria,2021,2,4,2021-02-05,,,,,0.127,7.9,samples tested
+Africa,NGA,Nigeria,2021,2,5,2021-02-06,,,,,0.112,8.9,samples tested
+Africa,NGA,Nigeria,2021,2,6,2021-02-07,,,,,0.101,9.9,samples tested
+Africa,NGA,Nigeria,2021,2,0,2021-02-08,,1398630.0,6.785,,0.101,9.9,samples tested
+Africa,NGA,Nigeria,2021,2,1,2021-02-09,,,,,0.101,9.9,samples tested
+Africa,NGA,Nigeria,2021,2,2,2021-02-10,,,,,0.109,9.2,samples tested
+Africa,NGA,Nigeria,2021,2,3,2021-02-11,,,,,0.113,8.9,samples tested
+Africa,NGA,Nigeria,2021,2,4,2021-02-12,,,,,0.114,8.8,samples tested
+Africa,NGA,Nigeria,2021,2,5,2021-02-13,,,,,0.118,8.5,samples tested
+Africa,NGA,Nigeria,2021,2,6,2021-02-14,,,,,0.133,7.5,samples tested
+Africa,NGA,Nigeria,2021,2,0,2021-02-15,,1441013.0,6.99,,0.154,6.5,samples tested
+Africa,NGA,Nigeria,2021,2,1,2021-02-16,,,,,0.159,6.3,samples tested
+Africa,NGA,Nigeria,2021,2,2,2021-02-17,,,,,0.154,6.5,samples tested
+Africa,NGA,Nigeria,2021,2,3,2021-02-18,,,,,0.15,6.7,samples tested
+Africa,NGA,Nigeria,2021,2,4,2021-02-19,,,,,0.14,7.1,samples tested
+Africa,NGA,Nigeria,2021,2,5,2021-02-20,,,,,0.127,7.9,samples tested
+Africa,NGA,Nigeria,2021,2,6,2021-02-21,,,,,0.125,8.0,samples tested
+Africa,NGA,Nigeria,2021,2,0,2021-02-22,,1489103.0,7.224,,,,samples tested
+Africa,NGA,Nigeria,2021,2,1,2021-02-23,,,,,,,
+Africa,NGA,Nigeria,2021,2,2,2021-02-24,,,,,,,

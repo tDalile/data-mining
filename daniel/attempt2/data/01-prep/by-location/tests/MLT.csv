@@ -1,0 +1,386 @@
+continent,iso_code,location,year,month,weekday,date,new_tests,total_tests,total_tests_per_thousand,new_tests_per_thousand,positive_rate,tests_per_case,tests_units
+Europe,MLT,Malta,2020,2,3,2020-02-06,1.0,1.0,0.002,0.002,,,tests performed
+Europe,MLT,Malta,2020,2,4,2020-02-07,,,,,,,tests performed
+Europe,MLT,Malta,2020,2,5,2020-02-08,,,,,,,tests performed
+Europe,MLT,Malta,2020,2,6,2020-02-09,,,,,,,tests performed
+Europe,MLT,Malta,2020,2,0,2020-02-10,,,,,,,tests performed
+Europe,MLT,Malta,2020,2,1,2020-02-11,,,,,,,tests performed
+Europe,MLT,Malta,2020,2,2,2020-02-12,,,,,,,tests performed
+Europe,MLT,Malta,2020,2,3,2020-02-13,,,,,,,tests performed
+Europe,MLT,Malta,2020,2,4,2020-02-14,,,,,,,tests performed
+Europe,MLT,Malta,2020,2,5,2020-02-15,,,,,,,tests performed
+Europe,MLT,Malta,2020,2,6,2020-02-16,,,,,,,tests performed
+Europe,MLT,Malta,2020,2,0,2020-02-17,,,,,,,tests performed
+Europe,MLT,Malta,2020,2,1,2020-02-18,,,,,,,tests performed
+Europe,MLT,Malta,2020,2,2,2020-02-19,,,,,,,tests performed
+Europe,MLT,Malta,2020,2,3,2020-02-20,,,,,,,tests performed
+Europe,MLT,Malta,2020,2,4,2020-02-21,,,,,,,tests performed
+Europe,MLT,Malta,2020,2,5,2020-02-22,1.0,2.0,0.005,0.002,,,tests performed
+Europe,MLT,Malta,2020,2,6,2020-02-23,,,,,,,tests performed
+Europe,MLT,Malta,2020,2,0,2020-02-24,44.0,46.0,0.104,0.1,,,tests performed
+Europe,MLT,Malta,2020,2,1,2020-02-25,29.0,75.0,0.17,0.066,,,tests performed
+Europe,MLT,Malta,2020,2,2,2020-02-26,50.0,125.0,0.283,0.113,,,tests performed
+Europe,MLT,Malta,2020,2,3,2020-02-27,14.0,139.0,0.315,0.032,,,tests performed
+Europe,MLT,Malta,2020,2,4,2020-02-28,10.0,149.0,0.337,0.023,,,tests performed
+Europe,MLT,Malta,2020,2,5,2020-02-29,7.0,156.0,0.353,0.016,,,tests performed
+Europe,MLT,Malta,2020,3,6,2020-03-01,8.0,164.0,0.371,0.018,,,tests performed
+Europe,MLT,Malta,2020,3,0,2020-03-02,5.0,169.0,0.383,0.011,,,tests performed
+Europe,MLT,Malta,2020,3,1,2020-03-03,22.0,191.0,0.433,0.05,,,tests performed
+Europe,MLT,Malta,2020,3,2,2020-03-04,42.0,233.0,0.528,0.095,,,tests performed
+Europe,MLT,Malta,2020,3,3,2020-03-05,31.0,264.0,0.598,0.07,,,tests performed
+Europe,MLT,Malta,2020,3,4,2020-03-06,63.0,327.0,0.741,0.143,,,tests performed
+Europe,MLT,Malta,2020,3,5,2020-03-07,98.0,425.0,0.963,0.222,,,tests performed
+Europe,MLT,Malta,2020,3,6,2020-03-08,118.0,543.0,1.23,0.267,,,tests performed
+Europe,MLT,Malta,2020,3,0,2020-03-09,83.0,626.0,1.418,0.188,,,tests performed
+Europe,MLT,Malta,2020,3,1,2020-03-10,65.0,691.0,1.565,0.147,,,tests performed
+Europe,MLT,Malta,2020,3,2,2020-03-11,162.0,853.0,1.932,0.367,,,tests performed
+Europe,MLT,Malta,2020,3,3,2020-03-12,188.0,1041.0,2.358,0.426,0.008,129.5,tests performed
+Europe,MLT,Malta,2020,3,4,2020-03-13,148.0,1189.0,2.693,0.335,0.014,71.8,tests performed
+Europe,MLT,Malta,2020,3,5,2020-03-14,154.0,1343.0,3.042,0.349,0.016,61.1,tests performed
+Europe,MLT,Malta,2020,3,6,2020-03-15,130.0,1473.0,3.336,0.294,0.019,51.7,tests performed
+Europe,MLT,Malta,2020,3,0,2020-03-16,141.0,1614.0,3.655,0.319,0.027,36.6,tests performed
+Europe,MLT,Malta,2020,3,1,2020-03-17,160.0,1774.0,4.018,0.362,0.03,32.9,tests performed
+Europe,MLT,Malta,2020,3,2,2020-03-18,302.0,2076.0,4.702,0.684,0.026,38.3,tests performed
+Europe,MLT,Malta,2020,3,3,2020-03-19,276.0,2352.0,5.327,0.625,0.036,27.9,tests performed
+Europe,MLT,Malta,2020,3,4,2020-03-20,259.0,2611.0,5.913,0.587,0.037,27.3,tests performed
+Europe,MLT,Malta,2020,3,5,2020-03-21,296.0,2907.0,6.584,0.67,0.035,28.4,tests performed
+Europe,MLT,Malta,2020,3,6,2020-03-22,309.0,3216.0,7.284,0.7,0.04,25.3,tests performed
+Europe,MLT,Malta,2020,3,0,2020-03-23,311.0,3527.0,7.988,0.704,0.04,24.8,tests performed
+Europe,MLT,Malta,2020,3,1,2020-03-24,488.0,4015.0,9.093,1.105,0.032,31.1,tests performed
+Europe,MLT,Malta,2020,3,2,2020-03-25,405.0,4420.0,10.01,0.917,0.039,25.8,tests performed
+Europe,MLT,Malta,2020,3,3,2020-03-26,454.0,4874.0,11.039,1.028,0.032,31.1,tests performed
+Europe,MLT,Malta,2020,3,4,2020-03-27,518.0,5392.0,12.212,1.173,0.027,37.1,tests performed
+Europe,MLT,Malta,2020,3,5,2020-03-28,599.0,5991.0,13.568,1.357,0.025,40.6,tests performed
+Europe,MLT,Malta,2020,3,6,2020-03-29,631.0,6622.0,14.998,1.429,0.018,55.9,tests performed
+Europe,MLT,Malta,2020,3,0,2020-03-30,564.0,7186.0,16.275,1.277,0.013,74.7,tests performed
+Europe,MLT,Malta,2020,3,1,2020-03-31,625.0,7811.0,17.69,1.416,0.016,64.3,tests performed
+Europe,MLT,Malta,2020,4,2,2020-04-01,737.0,8548.0,19.36,1.669,0.014,70.0,tests performed
+Europe,MLT,Malta,2020,4,3,2020-04-02,747.0,9295.0,21.051,1.692,0.014,71.4,tests performed
+Europe,MLT,Malta,2020,4,4,2020-04-03,660.0,9955.0,22.546,1.495,0.014,72.4,tests performed
+Europe,MLT,Malta,2020,4,5,2020-04-04,654.0,10609.0,24.027,1.481,0.014,72.2,tests performed
+Europe,MLT,Malta,2020,4,6,2020-04-05,555.0,11164.0,25.284,1.257,0.017,59.8,tests performed
+Europe,MLT,Malta,2020,4,0,2020-04-06,817.0,11981.0,27.135,1.85,0.018,56.4,tests performed
+Europe,MLT,Malta,2020,4,1,2020-04-07,991.0,12972.0,29.379,2.244,0.024,41.6,tests performed
+Europe,MLT,Malta,2020,4,2,2020-04-08,1001.0,13973.0,31.646,2.267,0.02,48.9,tests performed
+Europe,MLT,Malta,2020,4,3,2020-04-09,995.0,14968.0,33.9,2.253,0.025,40.2,tests performed
+Europe,MLT,Malta,2020,4,4,2020-04-10,1200.0,16168.0,36.617,2.718,0.024,42.0,tests performed
+Europe,MLT,Malta,2020,4,5,2020-04-11,1024.0,17192.0,38.937,2.319,0.024,41.9,tests performed
+Europe,MLT,Malta,2020,4,6,2020-04-12,948.0,18140.0,41.084,2.147,0.022,46.2,tests performed
+Europe,MLT,Malta,2020,4,0,2020-04-13,1047.0,19187.0,43.455,2.371,0.02,50.4,tests performed
+Europe,MLT,Malta,2020,4,1,2020-04-14,1062.0,20249.0,45.86,2.405,0.014,72.8,tests performed
+Europe,MLT,Malta,2020,4,2,2020-04-15,1029.0,21278.0,48.191,2.33,0.014,73.1,tests performed
+Europe,MLT,Malta,2020,4,3,2020-04-16,1076.0,22354.0,50.627,2.437,0.01,98.5,tests performed
+Europe,MLT,Malta,2020,4,4,2020-04-17,979.0,23333.0,52.845,2.217,0.01,99.6,tests performed
+Europe,MLT,Malta,2020,4,5,2020-04-18,783.0,24116.0,54.618,1.773,0.008,123.6,tests performed
+Europe,MLT,Malta,2020,4,6,2020-04-19,572.0,24688.0,55.914,1.295,0.007,133.6,tests performed
+Europe,MLT,Malta,2020,4,0,2020-04-20,705.0,25393.0,57.51,1.597,0.008,132.1,tests performed
+Europe,MLT,Malta,2020,4,1,2020-04-21,810.0,26203.0,59.345,1.834,0.008,119.1,tests performed
+Europe,MLT,Malta,2020,4,2,2020-04-22,640.0,26843.0,60.794,1.449,0.008,123.7,tests performed
+Europe,MLT,Malta,2020,4,3,2020-04-23,609.0,27452.0,62.173,1.379,0.006,154.4,tests performed
+Europe,MLT,Malta,2020,4,4,2020-04-24,555.0,28007.0,63.43,1.257,0.005,187.1,tests performed
+Europe,MLT,Malta,2020,4,5,2020-04-25,614.0,28621.0,64.821,1.391,0.005,204.9,tests performed
+Europe,MLT,Malta,2020,4,6,2020-04-26,698.0,29319.0,66.402,1.581,0.005,220.7,tests performed
+Europe,MLT,Malta,2020,4,0,2020-04-27,1068.0,30387.0,68.821,2.419,0.004,262.7,tests performed
+Europe,MLT,Malta,2020,4,1,2020-04-28,1207.0,31594.0,71.554,2.734,0.003,359.3,tests performed
+Europe,MLT,Malta,2020,4,2,2020-04-29,1243.0,32837.0,74.369,2.815,0.003,315.4,tests performed
+Europe,MLT,Malta,2020,4,3,2020-04-30,1181.0,34018.0,77.044,2.675,0.003,328.3,tests performed
+Europe,MLT,Malta,2020,5,4,2020-05-01,1008.0,35026.0,79.327,2.283,0.003,351.1,tests performed
+Europe,MLT,Malta,2020,5,5,2020-05-02,1070.0,36096.0,81.75,2.423,0.003,373.8,tests performed
+Europe,MLT,Malta,2020,5,6,2020-05-03,731.0,36827.0,83.406,1.656,0.004,259.0,tests performed
+Europe,MLT,Malta,2020,5,0,2020-05-04,1214.0,38041.0,86.155,2.749,0.004,255.0,tests performed
+Europe,MLT,Malta,2020,5,1,2020-05-05,1394.0,39435.0,89.313,3.157,0.003,326.6,tests performed
+Europe,MLT,Malta,2020,5,2,2020-05-06,1009.0,40444.0,91.598,2.285,0.003,362.3,tests performed
+Europe,MLT,Malta,2020,5,3,2020-05-07,1135.0,41579.0,94.168,2.571,0.003,360.0,tests performed
+Europe,MLT,Malta,2020,5,4,2020-05-08,1005.0,42584.0,96.444,2.276,0.003,343.6,tests performed
+Europe,MLT,Malta,2020,5,5,2020-05-09,1107.0,43691.0,98.952,2.507,0.003,345.2,tests performed
+Europe,MLT,Malta,2020,5,6,2020-05-10,775.0,44466.0,100.707,1.755,0.002,402.0,tests performed
+Europe,MLT,Malta,2020,5,0,2020-05-11,1238.0,45704.0,103.511,2.804,0.003,333.2,tests performed
+Europe,MLT,Malta,2020,5,1,2020-05-12,1132.0,46836.0,106.074,2.564,0.003,308.3,tests performed
+Europe,MLT,Malta,2020,5,2,2020-05-13,1316.0,48152.0,109.055,2.98,0.003,321.1,tests performed
+Europe,MLT,Malta,2020,5,3,2020-05-14,1495.0,49647.0,112.441,3.386,0.004,224.2,tests performed
+Europe,MLT,Malta,2020,5,4,2020-05-15,1719.0,51366.0,116.334,3.893,0.005,204.3,tests performed
+Europe,MLT,Malta,2020,5,5,2020-05-16,1425.0,52791.0,119.561,3.227,0.006,162.5,tests performed
+Europe,MLT,Malta,2020,5,6,2020-05-17,1011.0,53802.0,121.851,2.29,0.006,163.8,tests performed
+Europe,MLT,Malta,2020,5,0,2020-05-18,1514.0,55316.0,125.28,3.429,0.006,174.7,tests performed
+Europe,MLT,Malta,2020,5,1,2020-05-19,1661.0,56977.0,129.042,3.762,0.006,161.0,tests performed
+Europe,MLT,Malta,2020,5,2,2020-05-20,1367.0,58344.0,132.138,3.096,0.007,134.1,tests performed
+Europe,MLT,Malta,2020,5,3,2020-05-21,1546.0,59890.0,135.639,3.501,0.008,133.0,tests performed
+Europe,MLT,Malta,2020,5,4,2020-05-22,1717.0,61607.0,139.528,3.889,0.007,150.6,tests performed
+Europe,MLT,Malta,2020,5,5,2020-05-23,1286.0,62893.0,142.44,2.913,0.006,160.3,tests performed
+Europe,MLT,Malta,2020,5,6,2020-05-24,816.0,63709.0,144.288,1.848,0.006,173.8,tests performed
+Europe,MLT,Malta,2020,5,0,2020-05-25,1467.0,65176.0,147.611,3.322,0.005,186.1,tests performed
+Europe,MLT,Malta,2020,5,1,2020-05-26,1248.0,66424.0,150.437,2.826,0.004,225.0,tests performed
+Europe,MLT,Malta,2020,5,2,2020-05-27,1224.0,67648.0,153.21,2.772,0.003,332.2,tests performed
+Europe,MLT,Malta,2020,5,3,2020-05-28,1192.0,68840.0,155.909,2.7,0.002,526.6,tests performed
+Europe,MLT,Malta,2020,5,4,2020-05-29,1367.0,70207.0,159.005,3.096,0.002,537.6,tests performed
+Europe,MLT,Malta,2020,5,5,2020-05-30,985.0,71192.0,161.236,2.231,0.001,922.2,tests performed
+Europe,MLT,Malta,2020,5,6,2020-05-31,593.0,71785.0,162.579,1.343,0.001,1009.6,tests performed
+Europe,MLT,Malta,2020,6,0,2020-06-01,1015.0,72800.0,164.878,2.299,0.001,952.8,tests performed
+Europe,MLT,Malta,2020,6,1,2020-06-02,945.0,73745.0,167.018,2.14,0.001,813.4,tests performed
+Europe,MLT,Malta,2020,6,2,2020-06-03,905.0,74650.0,169.068,2.05,0.001,699.8,tests performed
+Europe,MLT,Malta,2020,6,3,2020-06-04,977.0,75627.0,171.28,2.213,0.001,1131.9,tests performed
+Europe,MLT,Malta,2020,6,4,2020-06-05,877.0,76504.0,173.267,1.986,0.001,699.8,tests performed
+Europe,MLT,Malta,2020,6,5,2020-06-06,905.0,77409.0,175.316,2.05,0.001,690.5,tests performed
+Europe,MLT,Malta,2020,6,6,2020-06-07,507.0,77916.0,176.465,1.148,0.002,557.6,tests performed
+Europe,MLT,Malta,2020,6,0,2020-06-08,1152.0,79068.0,179.074,2.609,0.002,569.7,tests performed
+Europe,MLT,Malta,2020,6,1,2020-06-09,851.0,79919.0,181.001,1.927,0.002,514.6,tests performed
+Europe,MLT,Malta,2020,6,2,2020-06-10,902.0,80821.0,183.044,2.043,0.002,475.0,tests performed
+Europe,MLT,Malta,2020,6,3,2020-06-11,1130.0,81951.0,185.603,2.559,0.003,351.2,tests performed
+Europe,MLT,Malta,2020,6,4,2020-06-12,1042.0,82993.0,187.963,2.36,0.003,324.5,tests performed
+Europe,MLT,Malta,2020,6,5,2020-06-13,1310.0,84303.0,190.93,2.967,0.003,362.9,tests performed
+Europe,MLT,Malta,2020,6,6,2020-06-14,554.0,84857.0,192.185,1.255,0.003,347.2,tests performed
+Europe,MLT,Malta,2020,6,0,2020-06-15,1236.0,86093.0,194.984,2.799,0.003,351.4,tests performed
+Europe,MLT,Malta,2020,6,1,2020-06-16,911.0,87004.0,197.047,2.063,0.003,295.1,tests performed
+Europe,MLT,Malta,2020,6,2,2020-06-17,860.0,87864.0,198.995,1.948,0.004,260.8,tests performed
+Europe,MLT,Malta,2020,6,3,2020-06-18,852.0,88716.0,200.924,1.93,0.003,294.0,tests performed
+Europe,MLT,Malta,2020,6,4,2020-06-19,786.0,89502.0,202.705,1.78,0.003,361.7,tests performed
+Europe,MLT,Malta,2020,6,5,2020-06-20,768.0,90270.0,204.444,1.739,0.003,331.4,tests performed
+Europe,MLT,Malta,2020,6,6,2020-06-21,464.0,90734.0,205.495,1.051,0.003,367.5,tests performed
+Europe,MLT,Malta,2020,6,0,2020-06-22,927.0,91661.0,207.594,2.099,0.003,371.0,tests performed
+Europe,MLT,Malta,2020,6,1,2020-06-23,923.0,92584.0,209.685,2.09,0.002,619.8,tests performed
+Europe,MLT,Malta,2020,6,2,2020-06-24,1027.0,93611.0,212.011,2.326,0.001,1913.8,tests performed
+Europe,MLT,Malta,2020,6,3,2020-06-25,946.0,94557.0,214.153,2.143,0.001,1168.1,tests performed
+Europe,MLT,Malta,2020,6,4,2020-06-26,870.0,95427.0,216.124,1.97,0.001,846.0,tests performed
+Europe,MLT,Malta,2020,6,5,2020-06-27,661.0,96088.0,217.621,1.497,0.001,969.7,tests performed
+Europe,MLT,Malta,2020,6,6,2020-06-28,516.0,96604.0,218.789,1.169,0.001,1175.1,tests performed
+Europe,MLT,Malta,2020,6,0,2020-06-29,567.0,97171.0,220.073,1.284,0.001,1102.2,tests performed
+Europe,MLT,Malta,2020,6,1,2020-06-30,1135.0,98306.0,222.644,2.571,0.001,1144.3,tests performed
+Europe,MLT,Malta,2020,7,2,2020-07-01,892.0,99198.0,224.664,2.02,0.001,931.2,tests performed
+Europe,MLT,Malta,2020,7,3,2020-07-02,981.0,100179.0,226.886,2.222,0.001,1871.8,tests performed
+Europe,MLT,Malta,2020,7,4,2020-07-03,987.0,101166.0,229.121,2.235,0.0,2867.1,tests performed
+Europe,MLT,Malta,2020,7,5,2020-07-04,771.0,101937.0,230.867,1.746,0.0,2923.1,tests performed
+Europe,MLT,Malta,2020,7,6,2020-07-05,457.0,102394.0,231.903,1.035,0.0,2891.6,tests performed
+Europe,MLT,Malta,2020,7,0,2020-07-06,930.0,103324.0,234.009,2.106,0.0,3073.4,tests performed
+Europe,MLT,Malta,2020,7,1,2020-07-07,775.0,104099.0,235.764,1.755,0.001,1930.1,tests performed
+Europe,MLT,Malta,2020,7,2,2020-07-08,809.0,104908.0,237.596,1.832,0.0,2853.1,tests performed
+Europe,MLT,Malta,2020,7,3,2020-07-09,775.0,105683.0,239.351,1.755,0.001,1832.2,tests performed
+Europe,MLT,Malta,2020,7,4,2020-07-10,742.0,106425.0,241.032,1.68,0.0,2625.9,tests performed
+Europe,MLT,Malta,2020,7,5,2020-07-11,741.0,107166.0,242.71,1.678,0.0,2611.9,tests performed
+Europe,MLT,Malta,2020,7,6,2020-07-12,456.0,107622.0,243.743,1.033,0.0,2611.9,tests performed
+Europe,MLT,Malta,2020,7,0,2020-07-13,931.0,108553.0,245.851,2.109,0.0,2611.9,tests performed
+Europe,MLT,Malta,2020,7,1,2020-07-14,985.0,109538.0,248.082,2.231,0.0,5433.6,tests performed
+Europe,MLT,Malta,2020,7,2,2020-07-15,1087.0,110625.0,250.544,2.462,0.0,5713.3,tests performed
+Europe,MLT,Malta,2020,7,3,2020-07-16,930.0,111555.0,252.65,2.106,0.0,,tests performed
+Europe,MLT,Malta,2020,7,4,2020-07-17,848.0,112403.0,254.571,1.921,0.0,,tests performed
+Europe,MLT,Malta,2020,7,5,2020-07-18,834.0,113237.0,256.46,1.889,0.0,6062.9,tests performed
+Europe,MLT,Malta,2020,7,6,2020-07-19,583.0,113820.0,257.78,1.32,0.0,2062.9,tests performed
+Europe,MLT,Malta,2020,7,0,2020-07-20,959.0,114779.0,259.952,2.172,0.0,2072.3,tests performed
+Europe,MLT,Malta,2020,7,1,2020-07-21,1016.0,115795.0,262.253,2.301,0.0,2083.9,tests performed
+Europe,MLT,Malta,2020,7,2,2020-07-22,1114.0,116909.0,264.776,2.523,0.001,1257.7,tests performed
+Europe,MLT,Malta,2020,7,3,2020-07-23,931.0,117840.0,266.885,2.109,0.001,1047.8,tests performed
+Europe,MLT,Malta,2020,7,4,2020-07-24,1085.0,118925.0,269.342,2.457,0.002,543.8,tests performed
+Europe,MLT,Malta,2020,7,5,2020-07-25,1220.0,120145.0,272.105,2.763,0.002,628.3,tests performed
+Europe,MLT,Malta,2020,7,6,2020-07-26,850.0,120995.0,274.03,1.925,0.003,311.9,tests performed
+Europe,MLT,Malta,2020,7,0,2020-07-27,1353.0,122348.0,277.094,3.064,0.003,315.3,tests performed
+Europe,MLT,Malta,2020,7,1,2020-07-28,1615.0,123963.0,280.752,3.658,0.004,263.5,tests performed
+Europe,MLT,Malta,2020,7,2,2020-07-29,1722.0,125685.0,284.652,3.9,0.005,214.1,tests performed
+Europe,MLT,Malta,2020,7,3,2020-07-30,1314.0,126999.0,287.628,2.976,0.015,68.3,tests performed
+Europe,MLT,Malta,2020,7,4,2020-07-31,1748.0,128747.0,291.587,3.959,0.014,71.2,tests performed
+Europe,MLT,Malta,2020,8,5,2020-08-01,1416.0,130163.0,294.794,3.207,0.016,63.0,tests performed
+Europe,MLT,Malta,2020,8,6,2020-08-02,1437.0,131600.0,298.048,3.255,0.015,66.3,tests performed
+Europe,MLT,Malta,2020,8,0,2020-08-03,1501.0,133101.0,301.448,3.399,0.016,62.2,tests performed
+Europe,MLT,Malta,2020,8,1,2020-08-04,1839.0,134940.0,305.613,4.165,0.017,60.3,tests performed
+Europe,MLT,Malta,2020,8,2,2020-08-05,1769.0,136709.0,309.619,4.006,0.019,53.5,tests performed
+Europe,MLT,Malta,2020,8,3,2020-08-06,1717.0,138426.0,313.508,3.889,0.012,86.5,tests performed
+Europe,MLT,Malta,2020,8,4,2020-08-07,1548.0,139974.0,317.014,3.506,0.015,65.7,tests performed
+Europe,MLT,Malta,2020,8,5,2020-08-08,1789.0,141763.0,321.066,4.052,0.016,61.0,tests performed
+Europe,MLT,Malta,2020,8,6,2020-08-09,1617.0,143380.0,324.728,3.662,0.019,51.4,tests performed
+Europe,MLT,Malta,2020,8,0,2020-08-10,1881.0,145261.0,328.988,4.26,0.02,51.1,tests performed
+Europe,MLT,Malta,2020,8,1,2020-08-11,2144.0,147405.0,333.844,4.856,0.02,49.7,tests performed
+Europe,MLT,Malta,2020,8,2,2020-08-12,2483.0,149888.0,339.467,5.624,0.02,49.9,tests performed
+Europe,MLT,Malta,2020,8,3,2020-08-13,2191.0,152079.0,344.429,4.962,0.022,45.7,tests performed
+Europe,MLT,Malta,2020,8,4,2020-08-14,2434.0,154513.0,349.942,5.513,0.019,51.7,tests performed
+Europe,MLT,Malta,2020,8,5,2020-08-15,2140.0,156653.0,354.789,4.847,0.021,47.6,tests performed
+Europe,MLT,Malta,2020,8,6,2020-08-16,2270.0,158923.0,359.93,5.141,0.014,71.6,tests performed
+Europe,MLT,Malta,2020,8,0,2020-08-17,2123.0,161046.0,364.738,4.808,0.017,60.0,tests performed
+Europe,MLT,Malta,2020,8,1,2020-08-18,2260.0,163306.0,369.856,5.118,0.018,56.4,tests performed
+Europe,MLT,Malta,2020,8,2,2020-08-19,3029.0,166335.0,376.716,6.86,0.017,58.8,tests performed
+Europe,MLT,Malta,2020,8,3,2020-08-20,2445.0,168780.0,382.254,5.537,0.016,63.0,tests performed
+Europe,MLT,Malta,2020,8,4,2020-08-21,2310.0,171090.0,387.486,5.232,0.016,61.4,tests performed
+Europe,MLT,Malta,2020,8,5,2020-08-22,2173.0,173263.0,392.407,4.921,0.014,72.5,tests performed
+Europe,MLT,Malta,2020,8,6,2020-08-23,2194.0,175457.0,397.376,4.969,0.019,54.0,tests performed
+Europe,MLT,Malta,2020,8,0,2020-08-24,2047.0,177504.0,402.012,4.636,0.018,56.4,tests performed
+Europe,MLT,Malta,2020,8,1,2020-08-25,2185.0,179689.0,406.961,4.949,0.017,58.1,tests performed
+Europe,MLT,Malta,2020,8,2,2020-08-26,2542.0,182231.0,412.718,5.757,0.018,56.6,tests performed
+Europe,MLT,Malta,2020,8,3,2020-08-27,2109.0,184340.0,417.494,4.776,0.018,56.0,tests performed
+Europe,MLT,Malta,2020,8,4,2020-08-28,2290.0,186630.0,422.681,5.186,0.018,56.7,tests performed
+Europe,MLT,Malta,2020,8,5,2020-08-29,1909.0,188539.0,427.004,4.324,0.018,56.6,tests performed
+Europe,MLT,Malta,2020,8,6,2020-08-30,2040.0,190579.0,431.624,4.62,0.017,60.5,tests performed
+Europe,MLT,Malta,2020,8,0,2020-08-31,1915.0,192494.0,435.961,4.337,0.014,69.4,tests performed
+Europe,MLT,Malta,2020,9,1,2020-09-01,2067.0,194561.0,440.643,4.681,0.014,72.9,tests performed
+Europe,MLT,Malta,2020,9,2,2020-09-02,2438.0,196999.0,446.164,5.522,0.012,82.1,tests performed
+Europe,MLT,Malta,2020,9,3,2020-09-03,1869.0,198868.0,450.397,4.233,0.012,82.1,tests performed
+Europe,MLT,Malta,2020,9,4,2020-09-04,1703.0,200571.0,454.254,3.857,0.012,85.0,tests performed
+Europe,MLT,Malta,2020,9,5,2020-09-05,1551.0,202122.0,457.767,3.513,0.012,81.3,tests performed
+Europe,MLT,Malta,2020,9,6,2020-09-06,1640.0,203762.0,461.481,3.714,0.013,74.5,tests performed
+Europe,MLT,Malta,2020,9,0,2020-09-07,1363.0,205125.0,464.568,3.087,0.015,65.4,tests performed
+Europe,MLT,Malta,2020,9,1,2020-09-08,2043.0,207168.0,469.195,4.627,0.015,66.4,tests performed
+Europe,MLT,Malta,2020,9,2,2020-09-09,1957.0,209125.0,473.627,4.432,0.019,52.5,tests performed
+Europe,MLT,Malta,2020,9,3,2020-09-10,2094.0,211219.0,478.37,4.743,0.019,51.7,tests performed
+Europe,MLT,Malta,2020,9,4,2020-09-11,1647.0,212866.0,482.1,3.73,0.021,46.7,tests performed
+Europe,MLT,Malta,2020,9,5,2020-09-12,2404.0,215270.0,487.545,5.445,0.02,50.6,tests performed
+Europe,MLT,Malta,2020,9,6,2020-09-13,1736.0,217006.0,491.476,3.932,0.024,42.3,tests performed
+Europe,MLT,Malta,2020,9,0,2020-09-14,1665.0,218671.0,495.247,3.771,0.024,41.2,tests performed
+Europe,MLT,Malta,2020,9,1,2020-09-15,2470.0,221141.0,500.841,5.594,0.025,39.4,tests performed
+Europe,MLT,Malta,2020,9,2,2020-09-16,2535.0,223676.0,506.583,5.741,0.027,36.6,tests performed
+Europe,MLT,Malta,2020,9,3,2020-09-17,2632.0,226308.0,512.544,5.961,0.026,38.6,tests performed
+Europe,MLT,Malta,2020,9,4,2020-09-18,2922.0,229230.0,519.161,6.618,0.024,42.3,tests performed
+Europe,MLT,Malta,2020,9,5,2020-09-19,2196.0,231426.0,524.135,4.974,0.026,38.0,tests performed
+Europe,MLT,Malta,2020,9,6,2020-09-20,1783.0,233209.0,528.173,4.038,0.023,42.8,tests performed
+Europe,MLT,Malta,2020,9,0,2020-09-21,2409.0,235618.0,533.629,5.456,0.022,45.7,tests performed
+Europe,MLT,Malta,2020,9,1,2020-09-22,2443.0,238061.0,539.162,5.533,0.021,47.0,tests performed
+Europe,MLT,Malta,2020,9,2,2020-09-23,2301.0,240362.0,544.373,5.211,0.018,56.4,tests performed
+Europe,MLT,Malta,2020,9,3,2020-09-24,2544.0,242906.0,550.135,5.762,0.018,54.8,tests performed
+Europe,MLT,Malta,2020,9,4,2020-09-25,2096.0,245002.0,554.882,4.747,0.019,53.5,tests performed
+Europe,MLT,Malta,2020,9,5,2020-09-26,2326.0,247328.0,560.15,5.268,0.016,61.4,tests performed
+Europe,MLT,Malta,2020,9,6,2020-09-27,2302.0,249630.0,565.363,5.214,0.015,66.2,tests performed
+Europe,MLT,Malta,2020,9,0,2020-09-28,2116.0,251746.0,570.156,4.792,0.014,70.1,tests performed
+Europe,MLT,Malta,2020,9,1,2020-09-29,2211.0,253957.0,575.163,5.007,0.014,71.9,tests performed
+Europe,MLT,Malta,2020,9,2,2020-09-30,2566.0,256523.0,580.975,5.811,0.012,80.0,tests performed
+Europe,MLT,Malta,2020,10,3,2020-10-01,2260.0,258783.0,586.093,5.118,0.012,80.6,tests performed
+Europe,MLT,Malta,2020,10,4,2020-10-02,2108.0,260891.0,590.867,4.774,0.013,75.7,tests performed
+Europe,MLT,Malta,2020,10,5,2020-10-03,2537.0,263428.0,596.613,5.746,0.015,65.4,tests performed
+Europe,MLT,Malta,2020,10,6,2020-10-04,2176.0,265604.0,601.541,4.928,0.018,54.9,tests performed
+Europe,MLT,Malta,2020,10,0,2020-10-05,1961.0,267565.0,605.983,4.441,0.02,49.3,tests performed
+Europe,MLT,Malta,2020,10,1,2020-10-06,2497.0,270062.0,611.638,5.655,0.021,47.5,tests performed
+Europe,MLT,Malta,2020,10,2,2020-10-07,2490.0,272552.0,617.277,5.639,0.024,41.7,tests performed
+Europe,MLT,Malta,2020,10,3,2020-10-08,2732.0,275284.0,623.465,6.187,0.025,40.1,tests performed
+Europe,MLT,Malta,2020,10,4,2020-10-09,2315.0,277599.0,628.708,5.243,0.026,37.8,tests performed
+Europe,MLT,Malta,2020,10,5,2020-10-10,2529.0,280128.0,634.435,5.728,0.029,35.0,tests performed
+Europe,MLT,Malta,2020,10,6,2020-10-11,1940.0,282068.0,638.829,4.394,0.031,32.5,tests performed
+Europe,MLT,Malta,2020,10,0,2020-10-12,2257.0,284325.0,643.941,5.112,0.031,32.4,tests performed
+Europe,MLT,Malta,2020,10,1,2020-10-13,2761.0,287086.0,650.194,6.253,0.033,30.2,tests performed
+Europe,MLT,Malta,2020,10,2,2020-10-14,2481.0,289567.0,655.813,5.619,0.036,28.1,tests performed
+Europe,MLT,Malta,2020,10,3,2020-10-15,2882.0,292449.0,662.34,6.527,0.038,26.2,tests performed
+Europe,MLT,Malta,2020,10,4,2020-10-16,2885.0,295334.0,668.874,6.534,0.04,25.3,tests performed
+Europe,MLT,Malta,2020,10,5,2020-10-17,2404.0,297738.0,674.319,5.445,0.046,21.9,tests performed
+Europe,MLT,Malta,2020,10,6,2020-10-18,2561.0,300299.0,680.119,5.8,0.047,21.4,tests performed
+Europe,MLT,Malta,2020,10,0,2020-10-19,2689.0,302988.0,686.209,6.09,0.048,20.9,tests performed
+Europe,MLT,Malta,2020,10,1,2020-10-20,2823.0,305811.0,692.602,6.394,0.05,20.0,tests performed
+Europe,MLT,Malta,2020,10,2,2020-10-21,2951.0,308762.0,699.286,6.683,0.051,19.6,tests performed
+Europe,MLT,Malta,2020,10,3,2020-10-22,2685.0,311447.0,705.367,6.081,0.051,19.4,tests performed
+Europe,MLT,Malta,2020,10,4,2020-10-23,3144.0,314591.0,712.487,7.121,0.051,19.7,tests performed
+Europe,MLT,Malta,2020,10,5,2020-10-24,3284.0,317875.0,719.925,7.438,0.044,22.7,tests performed
+Europe,MLT,Malta,2020,10,6,2020-10-25,2811.0,320686.0,726.291,6.366,0.043,23.4,tests performed
+Europe,MLT,Malta,2020,10,0,2020-10-26,2912.0,323598.0,732.887,6.595,0.041,24.5,tests performed
+Europe,MLT,Malta,2020,10,1,2020-10-27,2946.0,326544.0,739.559,6.672,0.039,25.5,tests performed
+Europe,MLT,Malta,2020,10,2,2020-10-28,2964.0,329508.0,746.272,6.713,0.035,28.3,tests performed
+Europe,MLT,Malta,2020,10,3,2020-10-29,3075.0,332583.0,753.236,6.964,0.034,29.0,tests performed
+Europe,MLT,Malta,2020,10,4,2020-10-30,3698.0,336281.0,761.611,8.375,0.032,31.7,tests performed
+Europe,MLT,Malta,2020,10,5,2020-10-31,3414.0,339695.0,769.343,7.732,0.031,32.6,tests performed
+Europe,MLT,Malta,2020,11,6,2020-11-01,3557.0,343252.0,777.399,8.056,0.03,33.0,tests performed
+Europe,MLT,Malta,2020,11,0,2020-11-02,2816.0,346068.0,783.777,6.378,0.037,27.3,tests performed
+Europe,MLT,Malta,2020,11,1,2020-11-03,3046.0,349114.0,790.675,6.899,0.036,27.5,tests performed
+Europe,MLT,Malta,2020,11,2,2020-11-04,2842.0,351956.0,797.112,6.437,0.037,27.0,tests performed
+Europe,MLT,Malta,2020,11,3,2020-11-05,3522.0,355478.0,805.089,7.977,0.039,25.5,tests performed
+Europe,MLT,Malta,2020,11,4,2020-11-06,2941.0,358419.0,811.749,6.661,0.043,23.3,tests performed
+Europe,MLT,Malta,2020,11,5,2020-11-07,2943.0,361362.0,818.415,6.665,0.046,21.7,tests performed
+Europe,MLT,Malta,2020,11,6,2020-11-08,2850.0,364212.0,824.869,6.455,0.046,21.9,tests performed
+Europe,MLT,Malta,2020,11,0,2020-11-09,3296.0,367508.0,832.334,7.465,0.039,25.4,tests performed
+Europe,MLT,Malta,2020,11,1,2020-11-10,3012.0,370520.0,839.156,6.822,0.042,24.1,tests performed
+Europe,MLT,Malta,2020,11,2,2020-11-11,3460.0,373980.0,846.992,7.836,0.043,23.3,tests performed
+Europe,MLT,Malta,2020,11,3,2020-11-12,3035.0,377015.0,853.866,6.874,0.041,24.4,tests performed
+Europe,MLT,Malta,2020,11,4,2020-11-13,2656.0,379671.0,859.881,6.015,0.042,23.5,tests performed
+Europe,MLT,Malta,2020,11,5,2020-11-14,3120.0,383090.0,867.624,7.066,0.04,24.7,tests performed
+Europe,MLT,Malta,2020,11,6,2020-11-15,3189.0,386279.0,874.847,7.222,0.04,24.7,tests performed
+Europe,MLT,Malta,2020,11,0,2020-11-16,2340.0,388619.0,880.146,5.3,0.042,23.6,tests performed
+Europe,MLT,Malta,2020,11,1,2020-11-17,3380.0,391999.0,887.802,7.655,0.04,25.2,tests performed
+Europe,MLT,Malta,2020,11,2,2020-11-18,3050.0,395049.0,894.709,6.908,0.042,23.9,tests performed
+Europe,MLT,Malta,2020,11,3,2020-11-19,3377.0,398426.0,902.357,7.648,0.043,23.4,tests performed
+Europe,MLT,Malta,2020,11,4,2020-11-20,3393.0,401819.0,910.042,7.684,0.04,25.0,tests performed
+Europe,MLT,Malta,2020,11,5,2020-11-21,3221.0,405040.0,917.337,7.295,0.041,24.3,tests performed
+Europe,MLT,Malta,2020,11,6,2020-11-22,2192.0,407232.0,922.301,4.964,0.042,23.5,tests performed
+Europe,MLT,Malta,2020,11,0,2020-11-23,2664.0,409896.0,928.335,6.033,0.041,24.5,tests performed
+Europe,MLT,Malta,2020,11,1,2020-11-24,3028.0,412924.0,935.193,6.858,0.043,23.5,tests performed
+Europe,MLT,Malta,2020,11,2,2020-11-25,2960.0,415884.0,941.896,6.704,0.04,25.0,tests performed
+Europe,MLT,Malta,2020,11,3,2020-11-26,3049.0,418933.0,948.802,6.905,0.041,24.3,tests performed
+Europe,MLT,Malta,2020,11,4,2020-11-27,2870.0,421803.0,955.302,6.5,0.041,24.4,tests performed
+Europe,MLT,Malta,2020,11,5,2020-11-28,3033.0,424836.0,962.171,6.869,0.04,25.2,tests performed
+Europe,MLT,Malta,2020,11,6,2020-11-29,3091.0,427927.0,969.171,7.001,0.04,25.0,tests performed
+Europe,MLT,Malta,2020,11,0,2020-11-30,2768.0,430695.0,975.44,6.269,0.042,23.9,tests performed
+Europe,MLT,Malta,2020,12,1,2020-12-01,2686.0,433381.0,981.524,6.083,0.041,24.4,tests performed
+Europe,MLT,Malta,2020,12,2,2020-12-02,2910.0,436291.0,988.114,6.591,0.042,24.1,tests performed
+Europe,MLT,Malta,2020,12,3,2020-12-03,3100.0,439391.0,995.135,7.021,0.039,25.8,tests performed
+Europe,MLT,Malta,2020,12,4,2020-12-04,3010.0,442401.0,1001.952,6.817,0.04,25.2,tests performed
+Europe,MLT,Malta,2020,12,5,2020-12-05,2907.0,445308.0,1008.536,6.584,0.04,25.2,tests performed
+Europe,MLT,Malta,2020,12,6,2020-12-06,3192.0,448500.0,1015.765,7.229,0.037,26.8,tests performed
+Europe,MLT,Malta,2020,12,0,2020-12-07,1776.0,450276.0,1019.788,4.022,0.04,24.9,tests performed
+Europe,MLT,Malta,2020,12,1,2020-12-08,2909.0,453185.0,1026.376,6.588,0.037,27.4,tests performed
+Europe,MLT,Malta,2020,12,2,2020-12-09,2625.0,455808.0,1032.317,5.945,0.035,28.8,tests performed
+Europe,MLT,Malta,2020,12,3,2020-12-10,2841.0,458649.0,1038.751,6.434,0.036,28.0,tests performed
+Europe,MLT,Malta,2020,12,4,2020-12-11,3033.0,461682.0,1045.62,6.869,0.034,29.2,tests performed
+Europe,MLT,Malta,2020,12,5,2020-12-12,2659.0,464341.0,1051.642,6.022,0.036,28.1,tests performed
+Europe,MLT,Malta,2020,12,6,2020-12-13,2978.0,467319.0,1058.387,6.745,0.034,29.7,tests performed
+Europe,MLT,Malta,2020,12,0,2020-12-14,2446.0,469765.0,1063.926,5.54,0.031,32.8,tests performed
+Europe,MLT,Malta,2020,12,1,2020-12-15,3049.0,472814.0,1070.832,6.905,0.031,32.5,tests performed
+Europe,MLT,Malta,2020,12,2,2020-12-16,2637.0,475451.0,1076.804,5.972,0.032,30.8,tests performed
+Europe,MLT,Malta,2020,12,3,2020-12-17,3557.0,479008.0,1084.86,8.056,0.029,34.4,tests performed
+Europe,MLT,Malta,2020,12,4,2020-12-18,2612.0,481620.0,1090.776,5.916,0.03,33.8,tests performed
+Europe,MLT,Malta,2020,12,5,2020-12-19,3941.0,485561.0,1099.701,8.926,0.025,40.8,tests performed
+Europe,MLT,Malta,2020,12,6,2020-12-20,2868.0,488429.0,1106.197,6.495,0.027,37.6,tests performed
+Europe,MLT,Malta,2020,12,0,2020-12-21,2788.0,491217.0,1112.511,6.314,0.026,39.2,tests performed
+Europe,MLT,Malta,2020,12,1,2020-12-22,2610.0,493827.0,1118.422,5.911,0.029,34.6,tests performed
+Europe,MLT,Malta,2020,12,2,2020-12-23,2928.0,496755.0,1125.054,6.631,0.027,36.9,tests performed
+Europe,MLT,Malta,2020,12,3,2020-12-24,2495.0,499250.0,1130.704,5.651,0.029,34.5,tests performed
+Europe,MLT,Malta,2020,12,4,2020-12-25,2071.0,501321.0,1135.395,4.69,0.028,36.3,tests performed
+Europe,MLT,Malta,2020,12,5,2020-12-26,2249.0,503570.0,1140.488,5.094,0.034,29.1,tests performed
+Europe,MLT,Malta,2020,12,6,2020-12-27,2399.0,505969.0,1145.921,5.433,0.035,28.7,tests performed
+Europe,MLT,Malta,2020,12,0,2020-12-28,2797.0,508766.0,1152.256,6.335,0.036,28.1,tests performed
+Europe,MLT,Malta,2020,12,1,2020-12-29,3043.0,511809.0,1159.148,6.892,0.035,28.5,tests performed
+Europe,MLT,Malta,2020,12,2,2020-12-30,2858.0,514667.0,1165.621,6.473,0.038,26.6,tests performed
+Europe,MLT,Malta,2020,12,3,2020-12-31,2779.0,517446.0,1171.915,6.294,0.039,25.6,tests performed
+Europe,MLT,Malta,2021,1,4,2021-01-01,1810.0,519256.0,1176.014,4.099,0.044,22.5,tests performed
+Europe,MLT,Malta,2021,1,5,2021-01-02,1995.0,521251.0,1180.532,4.518,0.043,23.4,tests performed
+Europe,MLT,Malta,2021,1,6,2021-01-03,2915.0,524166.0,1187.134,6.602,0.042,24.0,tests performed
+Europe,MLT,Malta,2021,1,0,2021-01-04,2600.0,526766.0,1193.023,5.888,0.045,22.4,tests performed
+Europe,MLT,Malta,2021,1,1,2021-01-05,3364.0,530130.0,1200.641,7.619,0.046,21.6,tests performed
+Europe,MLT,Malta,2021,1,2,2021-01-06,2806.0,532936.0,1206.996,6.355,0.052,19.3,tests performed
+Europe,MLT,Malta,2021,1,3,2021-01-07,3639.0,536575.0,1215.238,8.242,0.052,19.1,tests performed
+Europe,MLT,Malta,2021,1,4,2021-01-08,3592.0,540167.0,1223.373,8.135,0.051,19.8,tests performed
+Europe,MLT,Malta,2021,1,5,2021-01-09,3299.0,543466.0,1230.845,7.472,0.055,18.3,tests performed
+Europe,MLT,Malta,2021,1,6,2021-01-10,3355.0,546821.0,1238.443,7.598,0.058,17.2,tests performed
+Europe,MLT,Malta,2021,1,0,2021-01-11,3354.0,550175.0,1246.039,7.596,0.055,18.0,tests performed
+Europe,MLT,Malta,2021,1,1,2021-01-12,3403.0,553578.0,1253.747,7.707,0.059,17.0,tests performed
+Europe,MLT,Malta,2021,1,2,2021-01-13,3512.0,557090.0,1261.701,7.954,0.056,17.9,tests performed
+Europe,MLT,Malta,2021,1,3,2021-01-14,3602.0,560692.0,1269.858,8.158,0.054,18.5,tests performed
+Europe,MLT,Malta,2021,1,4,2021-01-15,3293.0,563985.0,1277.316,7.458,0.055,18.3,tests performed
+Europe,MLT,Malta,2021,1,5,2021-01-16,2866.0,566851.0,1283.807,6.491,0.053,18.9,tests performed
+Europe,MLT,Malta,2021,1,6,2021-01-17,3239.0,570090.0,1291.143,7.336,0.051,19.5,tests performed
+Europe,MLT,Malta,2021,1,0,2021-01-18,3481.0,573571.0,1299.027,7.884,0.052,19.3,tests performed
+Europe,MLT,Malta,2021,1,1,2021-01-19,3879.0,577450.0,1307.812,8.785,0.049,20.3,tests performed
+Europe,MLT,Malta,2021,1,2,2021-01-20,,,,,,,
+Europe,MLT,Malta,2021,1,3,2021-01-21,,,,,,,
+Europe,MLT,Malta,2021,1,4,2021-01-22,,,,,,,
+Europe,MLT,Malta,2021,1,5,2021-01-23,,,,,,,
+Europe,MLT,Malta,2021,1,6,2021-01-24,,,,,,,
+Europe,MLT,Malta,2021,1,0,2021-01-25,,,,,,,
+Europe,MLT,Malta,2021,1,1,2021-01-26,,,,,,,
+Europe,MLT,Malta,2021,1,2,2021-01-27,,,,,,,
+Europe,MLT,Malta,2021,1,3,2021-01-28,,,,,,,
+Europe,MLT,Malta,2021,1,4,2021-01-29,,,,,,,
+Europe,MLT,Malta,2021,1,5,2021-01-30,,,,,,,
+Europe,MLT,Malta,2021,1,6,2021-01-31,,,,,,,
+Europe,MLT,Malta,2021,2,0,2021-02-01,,,,,,,
+Europe,MLT,Malta,2021,2,1,2021-02-02,,,,,,,
+Europe,MLT,Malta,2021,2,2,2021-02-03,,,,,,,
+Europe,MLT,Malta,2021,2,3,2021-02-04,,,,,,,
+Europe,MLT,Malta,2021,2,4,2021-02-05,,,,,,,
+Europe,MLT,Malta,2021,2,5,2021-02-06,,,,,,,
+Europe,MLT,Malta,2021,2,6,2021-02-07,,,,,,,
+Europe,MLT,Malta,2021,2,0,2021-02-08,,,,,,,
+Europe,MLT,Malta,2021,2,1,2021-02-09,,,,,,,
+Europe,MLT,Malta,2021,2,2,2021-02-10,,,,,,,
+Europe,MLT,Malta,2021,2,3,2021-02-11,,,,,,,
+Europe,MLT,Malta,2021,2,4,2021-02-12,,,,,,,
+Europe,MLT,Malta,2021,2,5,2021-02-13,,,,,,,
+Europe,MLT,Malta,2021,2,6,2021-02-14,,,,,,,
+Europe,MLT,Malta,2021,2,0,2021-02-15,,,,,,,
+Europe,MLT,Malta,2021,2,1,2021-02-16,,,,,,,
+Europe,MLT,Malta,2021,2,2,2021-02-17,,,,,,,
+Europe,MLT,Malta,2021,2,3,2021-02-18,,,,,,,
+Europe,MLT,Malta,2021,2,4,2021-02-19,,,,,,,
+Europe,MLT,Malta,2021,2,5,2021-02-20,,,,,,,
+Europe,MLT,Malta,2021,2,6,2021-02-21,,,,,,,
+Europe,MLT,Malta,2021,2,0,2021-02-22,,,,,,,
+Europe,MLT,Malta,2021,2,1,2021-02-23,,,,,,,
+Europe,MLT,Malta,2021,2,2,2021-02-24,,,,,,,

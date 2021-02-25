@@ -1,0 +1,2 @@
+continent,iso_code,location,year,month,weekday,date,total_vaccinations,people_vaccinated,people_fully_vaccinated,new_vaccinations,total_vaccinations_per_hundred,people_vaccinated_per_hundred,people_fully_vaccinated_per_hundred
+Africa,SHN,Saint Helena,2021,2,2,2021-02-03,107.0,,,,1.76,,

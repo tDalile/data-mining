@@ -1,0 +1,10 @@
+continent,iso_code,location,year,month,weekday,date,total_vaccinations,people_vaccinated,people_fully_vaccinated,new_vaccinations,total_vaccinations_per_hundred,people_vaccinated_per_hundred,people_fully_vaccinated_per_hundred
+South America,FLK,Falkland Islands,2021,2,6,2021-02-07,0.0,0.0,,,0.0,0.0,
+South America,FLK,Falkland Islands,2021,2,0,2021-02-08,,,,,,,
+South America,FLK,Falkland Islands,2021,2,1,2021-02-09,,,,,,,
+South America,FLK,Falkland Islands,2021,2,2,2021-02-10,,,,,,,
+South America,FLK,Falkland Islands,2021,2,3,2021-02-11,,,,,,,
+South America,FLK,Falkland Islands,2021,2,4,2021-02-12,,,,,,,
+South America,FLK,Falkland Islands,2021,2,5,2021-02-13,,,,,,,
+South America,FLK,Falkland Islands,2021,2,6,2021-02-14,,,,,,,
+South America,FLK,Falkland Islands,2021,2,0,2021-02-15,1515.0,1515.0,,,43.5,43.5,
